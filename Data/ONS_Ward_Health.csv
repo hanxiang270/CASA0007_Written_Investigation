@@ -1,0 +1,4081 @@
+Electoral wards and divisions Code,Electoral wards and divisions,General health (6 categories) Code,General health (6 categories),Observation
+E05009317,Bethnal Green,-8,Does not apply,0
+E05009317,Bethnal Green,1,Very good health,10984
+E05009317,Bethnal Green,2,Good health,6849
+E05009317,Bethnal Green,3,Fair health,2172
+E05009317,Bethnal Green,4,Bad health,839
+E05009317,Bethnal Green,5,Very bad health,247
+E05009318,Blackwall & Cubitt Town,-8,Does not apply,0
+E05009318,Blackwall & Cubitt Town,1,Very good health,12401
+E05009318,Blackwall & Cubitt Town,2,Good health,6802
+E05009318,Blackwall & Cubitt Town,3,Fair health,1591
+E05009318,Blackwall & Cubitt Town,4,Bad health,475
+E05009318,Blackwall & Cubitt Town,5,Very bad health,157
+E05009319,Bow East,-8,Does not apply,0
+E05009319,Bow East,1,Very good health,10492
+E05009319,Bow East,2,Good health,6147
+E05009319,Bow East,3,Fair health,1930
+E05009319,Bow East,4,Bad health,690
+E05009319,Bow East,5,Very bad health,267
+E05009320,Bow West,-8,Does not apply,0
+E05009320,Bow West,1,Very good health,7249
+E05009320,Bow West,2,Good health,4280
+E05009320,Bow West,3,Fair health,1446
+E05009320,Bow West,4,Bad health,549
+E05009320,Bow West,5,Very bad health,187
+E05009321,Bromley North,-8,Does not apply,0
+E05009321,Bromley North,1,Very good health,5743
+E05009321,Bromley North,2,Good health,3930
+E05009321,Bromley North,3,Fair health,1373
+E05009321,Bromley North,4,Bad health,466
+E05009321,Bromley North,5,Very bad health,191
+E05009322,Bromley South,-8,Does not apply,0
+E05009322,Bromley South,1,Very good health,7238
+E05009322,Bromley South,2,Good health,4508
+E05009322,Bromley South,3,Fair health,1480
+E05009322,Bromley South,4,Bad health,566
+E05009322,Bromley South,5,Very bad health,175
+E05009323,Canary Wharf,-8,Does not apply,0
+E05009323,Canary Wharf,1,Very good health,10233
+E05009323,Canary Wharf,2,Good health,5782
+E05009323,Canary Wharf,3,Fair health,1440
+E05009323,Canary Wharf,4,Bad health,373
+E05009323,Canary Wharf,5,Very bad health,149
+E05009324,Island Gardens,-8,Does not apply,0
+E05009324,Island Gardens,1,Very good health,8406
+E05009324,Island Gardens,2,Good health,4935
+E05009324,Island Gardens,3,Fair health,1359
+E05009324,Island Gardens,4,Bad health,456
+E05009324,Island Gardens,5,Very bad health,148
+E05009325,Lansbury,-8,Does not apply,0
+E05009325,Lansbury,1,Very good health,11241
+E05009325,Lansbury,2,Good health,6939
+E05009325,Lansbury,3,Fair health,2367
+E05009325,Lansbury,4,Bad health,858
+E05009325,Lansbury,5,Very bad health,301
+E05009326,Limehouse,-8,Does not apply,0
+E05009326,Limehouse,1,Very good health,3649
+E05009326,Limehouse,2,Good health,2185
+E05009326,Limehouse,3,Fair health,477
+E05009326,Limehouse,4,Bad health,182
+E05009326,Limehouse,5,Very bad health,60
+E05009327,Mile End (Tower Hamlets),-8,Does not apply,0
+E05009327,Mile End (Tower Hamlets),1,Very good health,11259
+E05009327,Mile End (Tower Hamlets),2,Good health,7013
+E05009327,Mile End (Tower Hamlets),3,Fair health,2334
+E05009327,Mile End (Tower Hamlets),4,Bad health,821
+E05009327,Mile End (Tower Hamlets),5,Very bad health,225
+E05009328,Poplar (Tower Hamlets),-8,Does not apply,0
+E05009328,Poplar (Tower Hamlets),1,Very good health,4081
+E05009328,Poplar (Tower Hamlets),2,Good health,2733
+E05009328,Poplar (Tower Hamlets),3,Fair health,824
+E05009328,Poplar (Tower Hamlets),4,Bad health,334
+E05009328,Poplar (Tower Hamlets),5,Very bad health,97
+E05009329,St Dunstan's,-8,Does not apply,0
+E05009329,St Dunstan's,1,Very good health,7266
+E05009329,St Dunstan's,2,Good health,4845
+E05009329,St Dunstan's,3,Fair health,1623
+E05009329,St Dunstan's,4,Bad health,716
+E05009329,St Dunstan's,5,Very bad health,295
+E05009330,St Katharine's & Wapping,-8,Does not apply,0
+E05009330,St Katharine's & Wapping,1,Very good health,7082
+E05009330,St Katharine's & Wapping,2,Good health,3591
+E05009330,St Katharine's & Wapping,3,Fair health,930
+E05009330,St Katharine's & Wapping,4,Bad health,257
+E05009330,St Katharine's & Wapping,5,Very bad health,102
+E05009331,St Peter's (Tower Hamlets),-8,Does not apply,0
+E05009331,St Peter's (Tower Hamlets),1,Very good health,10090
+E05009331,St Peter's (Tower Hamlets),2,Good health,6290
+E05009331,St Peter's (Tower Hamlets),3,Fair health,2269
+E05009331,St Peter's (Tower Hamlets),4,Bad health,828
+E05009331,St Peter's (Tower Hamlets),5,Very bad health,305
+E05009332,Shadwell,-8,Does not apply,0
+E05009332,Shadwell,1,Very good health,6545
+E05009332,Shadwell,2,Good health,4349
+E05009332,Shadwell,3,Fair health,1566
+E05009332,Shadwell,4,Bad health,585
+E05009332,Shadwell,5,Very bad health,233
+E05009333,Spitalfields & Banglatown,-8,Does not apply,0
+E05009333,Spitalfields & Banglatown,1,Very good health,7071
+E05009333,Spitalfields & Banglatown,2,Good health,4205
+E05009333,Spitalfields & Banglatown,3,Fair health,1354
+E05009333,Spitalfields & Banglatown,4,Bad health,519
+E05009333,Spitalfields & Banglatown,5,Very bad health,191
+E05009334,Stepney Green,-8,Does not apply,0
+E05009334,Stepney Green,1,Very good health,5884
+E05009334,Stepney Green,2,Good health,4117
+E05009334,Stepney Green,3,Fair health,1574
+E05009334,Stepney Green,4,Bad health,568
+E05009334,Stepney Green,5,Very bad health,198
+E05009335,Weavers,-8,Does not apply,0
+E05009335,Weavers,1,Very good health,7048
+E05009335,Weavers,2,Good health,4185
+E05009335,Weavers,3,Fair health,1359
+E05009335,Weavers,4,Bad health,554
+E05009335,Weavers,5,Very bad health,193
+E05009336,Whitechapel,-8,Does not apply,0
+E05009336,Whitechapel,1,Very good health,10401
+E05009336,Whitechapel,2,Good health,6012
+E05009336,Whitechapel,3,Fair health,1712
+E05009336,Whitechapel,4,Bad health,538
+E05009336,Whitechapel,5,Very bad health,176
+E05009367,Brownswood,-8,Does not apply,0
+E05009367,Brownswood,1,Very good health,5068
+E05009367,Brownswood,2,Good health,2674
+E05009367,Brownswood,3,Fair health,854
+E05009367,Brownswood,4,Bad health,295
+E05009367,Brownswood,5,Very bad health,124
+E05009368,Cazenove,-8,Does not apply,0
+E05009368,Cazenove,1,Very good health,9766
+E05009368,Cazenove,2,Good health,3656
+E05009368,Cazenove,3,Fair health,1303
+E05009368,Cazenove,4,Bad health,451
+E05009368,Cazenove,5,Very bad health,158
+E05009369,Clissold,-8,Does not apply,0
+E05009369,Clissold,1,Very good health,7063
+E05009369,Clissold,2,Good health,3790
+E05009369,Clissold,3,Fair health,1179
+E05009369,Clissold,4,Bad health,409
+E05009369,Clissold,5,Very bad health,138
+E05009370,Dalston,-8,Does not apply,0
+E05009370,Dalston,1,Very good health,5227
+E05009370,Dalston,2,Good health,2509
+E05009370,Dalston,3,Fair health,820
+E05009370,Dalston,4,Bad health,245
+E05009370,Dalston,5,Very bad health,81
+E05009371,De Beauvoir,-8,Does not apply,0
+E05009371,De Beauvoir,1,Very good health,5286
+E05009371,De Beauvoir,2,Good health,2708
+E05009371,De Beauvoir,3,Fair health,807
+E05009371,De Beauvoir,4,Bad health,287
+E05009371,De Beauvoir,5,Very bad health,107
+E05009372,Hackney Central,-8,Does not apply,0
+E05009372,Hackney Central,1,Very good health,6693
+E05009372,Hackney Central,2,Good health,3909
+E05009372,Hackney Central,3,Fair health,1382
+E05009372,Hackney Central,4,Bad health,550
+E05009372,Hackney Central,5,Very bad health,183
+E05009373,Hackney Downs,-8,Does not apply,0
+E05009373,Hackney Downs,1,Very good health,6987
+E05009373,Hackney Downs,2,Good health,3921
+E05009373,Hackney Downs,3,Fair health,1366
+E05009373,Hackney Downs,4,Bad health,500
+E05009373,Hackney Downs,5,Very bad health,223
+E05009374,Hackney Wick,-8,Does not apply,0
+E05009374,Hackney Wick,1,Very good health,6387
+E05009374,Hackney Wick,2,Good health,3715
+E05009374,Hackney Wick,3,Fair health,1452
+E05009374,Hackney Wick,4,Bad health,565
+E05009374,Hackney Wick,5,Very bad health,189
+E05009375,Haggerston,-8,Does not apply,0
+E05009375,Haggerston,1,Very good health,7846
+E05009375,Haggerston,2,Good health,4197
+E05009375,Haggerston,3,Fair health,1534
+E05009375,Haggerston,4,Bad health,610
+E05009375,Haggerston,5,Very bad health,222
+E05009376,Homerton,-8,Does not apply,0
+E05009376,Homerton,1,Very good health,7463
+E05009376,Homerton,2,Good health,4193
+E05009376,Homerton,3,Fair health,1471
+E05009376,Homerton,4,Bad health,577
+E05009376,Homerton,5,Very bad health,180
+E05009377,Hoxton East & Shoreditch,-8,Does not apply,0
+E05009377,Hoxton East & Shoreditch,1,Very good health,6664
+E05009377,Hoxton East & Shoreditch,2,Good health,3509
+E05009377,Hoxton East & Shoreditch,3,Fair health,1077
+E05009377,Hoxton East & Shoreditch,4,Bad health,373
+E05009377,Hoxton East & Shoreditch,5,Very bad health,142
+E05009378,Hoxton West,-8,Does not apply,0
+E05009378,Hoxton West,1,Very good health,7928
+E05009378,Hoxton West,2,Good health,3968
+E05009378,Hoxton West,3,Fair health,1215
+E05009378,Hoxton West,4,Bad health,481
+E05009378,Hoxton West,5,Very bad health,160
+E05009379,King's Park,-8,Does not apply,0
+E05009379,King's Park,1,Very good health,6831
+E05009379,King's Park,2,Good health,3904
+E05009379,King's Park,3,Fair health,1535
+E05009379,King's Park,4,Bad health,582
+E05009379,King's Park,5,Very bad health,209
+E05009380,Lea Bridge (Hackney),-8,Does not apply,0
+E05009380,Lea Bridge (Hackney),1,Very good health,7959
+E05009380,Lea Bridge (Hackney),2,Good health,4077
+E05009380,Lea Bridge (Hackney),3,Fair health,1401
+E05009380,Lea Bridge (Hackney),4,Bad health,457
+E05009380,Lea Bridge (Hackney),5,Very bad health,230
+E05009381,London Fields,-8,Does not apply,0
+E05009381,London Fields,1,Very good health,6905
+E05009381,London Fields,2,Good health,3601
+E05009381,London Fields,3,Fair health,1368
+E05009381,London Fields,4,Bad health,586
+E05009381,London Fields,5,Very bad health,222
+E05009382,Shacklewell,-8,Does not apply,0
+E05009382,Shacklewell,1,Very good health,4993
+E05009382,Shacklewell,2,Good health,2717
+E05009382,Shacklewell,3,Fair health,965
+E05009382,Shacklewell,4,Bad health,316
+E05009382,Shacklewell,5,Very bad health,134
+E05009383,Springfield,-8,Does not apply,0
+E05009383,Springfield,1,Very good health,9846
+E05009383,Springfield,2,Good health,3458
+E05009383,Springfield,3,Fair health,1307
+E05009383,Springfield,4,Bad health,515
+E05009383,Springfield,5,Very bad health,193
+E05009384,Stamford Hill West,-8,Does not apply,0
+E05009384,Stamford Hill West,1,Very good health,6992
+E05009384,Stamford Hill West,2,Good health,2195
+E05009384,Stamford Hill West,3,Fair health,764
+E05009384,Stamford Hill West,4,Bad health,288
+E05009384,Stamford Hill West,5,Very bad health,106
+E05009385,Stoke Newington,-8,Does not apply,0
+E05009385,Stoke Newington,1,Very good health,7555
+E05009385,Stoke Newington,2,Good health,3895
+E05009385,Stoke Newington,3,Fair health,1324
+E05009385,Stoke Newington,4,Bad health,442
+E05009385,Stoke Newington,5,Very bad health,166
+E05009386,Victoria (Hackney),-8,Does not apply,0
+E05009386,Victoria (Hackney),1,Very good health,6672
+E05009386,Victoria (Hackney),2,Good health,3522
+E05009386,Victoria (Hackney),3,Fair health,1294
+E05009386,Victoria (Hackney),4,Bad health,491
+E05009386,Victoria (Hackney),5,Very bad health,176
+E05009387,Woodberry Down,-8,Does not apply,0
+E05009387,Woodberry Down,1,Very good health,6707
+E05009387,Woodberry Down,2,Good health,3510
+E05009387,Woodberry Down,3,Fair health,1287
+E05009387,Woodberry Down,4,Bad health,449
+E05009387,Woodberry Down,5,Very bad health,160
+E05009388,Abingdon,-8,Does not apply,0
+E05009388,Abingdon,1,Very good health,4926
+E05009388,Abingdon,2,Good health,2148
+E05009388,Abingdon,3,Fair health,584
+E05009388,Abingdon,4,Bad health,173
+E05009388,Abingdon,5,Very bad health,63
+E05009389,Brompton & Hans Town,-8,Does not apply,0
+E05009389,Brompton & Hans Town,1,Very good health,5091
+E05009389,Brompton & Hans Town,2,Good health,1955
+E05009389,Brompton & Hans Town,3,Fair health,546
+E05009389,Brompton & Hans Town,4,Bad health,147
+E05009389,Brompton & Hans Town,5,Very bad health,50
+E05009390,Campden,-8,Does not apply,0
+E05009390,Campden,1,Very good health,5810
+E05009390,Campden,2,Good health,2106
+E05009390,Campden,3,Fair health,521
+E05009390,Campden,4,Bad health,155
+E05009390,Campden,5,Very bad health,32
+E05009391,Chelsea Riverside,-8,Does not apply,0
+E05009391,Chelsea Riverside,1,Very good health,4036
+E05009391,Chelsea Riverside,2,Good health,2134
+E05009391,Chelsea Riverside,3,Fair health,925
+E05009391,Chelsea Riverside,4,Bad health,392
+E05009391,Chelsea Riverside,5,Very bad health,146
+E05009392,Colville,-8,Does not apply,0
+E05009392,Colville,1,Very good health,4603
+E05009392,Colville,2,Good health,2423
+E05009392,Colville,3,Fair health,972
+E05009392,Colville,4,Bad health,447
+E05009392,Colville,5,Very bad health,129
+E05009393,Courtfield,-8,Does not apply,0
+E05009393,Courtfield,1,Very good health,5611
+E05009393,Courtfield,2,Good health,2051
+E05009393,Courtfield,3,Fair health,482
+E05009393,Courtfield,4,Bad health,142
+E05009393,Courtfield,5,Very bad health,44
+E05009394,Dalgarno,-8,Does not apply,0
+E05009394,Dalgarno,1,Very good health,3495
+E05009394,Dalgarno,2,Good health,2184
+E05009394,Dalgarno,3,Fair health,1021
+E05009394,Dalgarno,4,Bad health,375
+E05009394,Dalgarno,5,Very bad health,137
+E05009395,Earl's Court,-8,Does not apply,0
+E05009395,Earl's Court,1,Very good health,5333
+E05009395,Earl's Court,2,Good health,2483
+E05009395,Earl's Court,3,Fair health,742
+E05009395,Earl's Court,4,Bad health,296
+E05009395,Earl's Court,5,Very bad health,83
+E05009396,Golborne,-8,Does not apply,0
+E05009396,Golborne,1,Very good health,4294
+E05009396,Golborne,2,Good health,2692
+E05009396,Golborne,3,Fair health,1164
+E05009396,Golborne,4,Bad health,445
+E05009396,Golborne,5,Very bad health,208
+E05009397,Holland,-8,Does not apply,0
+E05009397,Holland,1,Very good health,5702
+E05009397,Holland,2,Good health,2315
+E05009397,Holland,3,Fair health,750
+E05009397,Holland,4,Bad health,247
+E05009397,Holland,5,Very bad health,88
+E05009398,Norland,-8,Does not apply,0
+E05009398,Norland,1,Very good health,3571
+E05009398,Norland,2,Good health,1466
+E05009398,Norland,3,Fair health,481
+E05009398,Norland,4,Bad health,142
+E05009398,Norland,5,Very bad health,42
+E05009399,Notting Dale,-8,Does not apply,0
+E05009399,Notting Dale,1,Very good health,4547
+E05009399,Notting Dale,2,Good health,2520
+E05009399,Notting Dale,3,Fair health,1349
+E05009399,Notting Dale,4,Bad health,572
+E05009399,Notting Dale,5,Very bad health,152
+E05009400,Pembridge,-8,Does not apply,0
+E05009400,Pembridge,1,Very good health,3388
+E05009400,Pembridge,2,Good health,1421
+E05009400,Pembridge,3,Fair health,372
+E05009400,Pembridge,4,Bad health,118
+E05009400,Pembridge,5,Very bad health,82
+E05009401,Queen's Gate,-8,Does not apply,0
+E05009401,Queen's Gate,1,Very good health,5294
+E05009401,Queen's Gate,2,Good health,2056
+E05009401,Queen's Gate,3,Fair health,445
+E05009401,Queen's Gate,4,Bad health,94
+E05009401,Queen's Gate,5,Very bad health,17
+E05009402,Redcliffe,-8,Does not apply,0
+E05009402,Redcliffe,1,Very good health,6083
+E05009402,Redcliffe,2,Good health,2173
+E05009402,Redcliffe,3,Fair health,642
+E05009402,Redcliffe,4,Bad health,232
+E05009402,Redcliffe,5,Very bad health,64
+E05009403,Royal Hospital,-8,Does not apply,0
+E05009403,Royal Hospital,1,Very good health,5176
+E05009403,Royal Hospital,2,Good health,2218
+E05009403,Royal Hospital,3,Fair health,708
+E05009403,Royal Hospital,4,Bad health,226
+E05009403,Royal Hospital,5,Very bad health,89
+E05009404,St. Helen's (Kensington and Chelsea),-8,Does not apply,0
+E05009404,St. Helen's (Kensington and Chelsea),1,Very good health,3325
+E05009404,St. Helen's (Kensington and Chelsea),2,Good health,1727
+E05009404,St. Helen's (Kensington and Chelsea),3,Fair health,743
+E05009404,St. Helen's (Kensington and Chelsea),4,Bad health,279
+E05009404,St. Helen's (Kensington and Chelsea),5,Very bad health,86
+E05009405,Stanley (Kensington and Chelsea),-8,Does not apply,0
+E05009405,Stanley (Kensington and Chelsea),1,Very good health,5177
+E05009405,Stanley (Kensington and Chelsea),2,Good health,2230
+E05009405,Stanley (Kensington and Chelsea),3,Fair health,741
+E05009405,Stanley (Kensington and Chelsea),4,Bad health,328
+E05009405,Stanley (Kensington and Chelsea),5,Very bad health,106
+E05011095,Borough & Bankside,-8,Does not apply,0
+E05011095,Borough & Bankside,1,Very good health,5065
+E05011095,Borough & Bankside,2,Good health,2777
+E05011095,Borough & Bankside,3,Fair health,840
+E05011095,Borough & Bankside,4,Bad health,246
+E05011095,Borough & Bankside,5,Very bad health,83
+E05011096,Camberwell Green,-8,Does not apply,0
+E05011096,Camberwell Green,1,Very good health,8375
+E05011096,Camberwell Green,2,Good health,4846
+E05011096,Camberwell Green,3,Fair health,1631
+E05011096,Camberwell Green,4,Bad health,501
+E05011096,Camberwell Green,5,Very bad health,156
+E05011097,Champion Hill,-8,Does not apply,0
+E05011097,Champion Hill,1,Very good health,5340
+E05011097,Champion Hill,2,Good health,2744
+E05011097,Champion Hill,3,Fair health,787
+E05011097,Champion Hill,4,Bad health,264
+E05011097,Champion Hill,5,Very bad health,84
+E05011098,Chaucer,-8,Does not apply,0
+E05011098,Chaucer,1,Very good health,8416
+E05011098,Chaucer,2,Good health,4476
+E05011098,Chaucer,3,Fair health,1275
+E05011098,Chaucer,4,Bad health,421
+E05011098,Chaucer,5,Very bad health,144
+E05011099,Dulwich Hill,-8,Does not apply,0
+E05011099,Dulwich Hill,1,Very good health,5606
+E05011099,Dulwich Hill,2,Good health,2860
+E05011099,Dulwich Hill,3,Fair health,790
+E05011099,Dulwich Hill,4,Bad health,262
+E05011099,Dulwich Hill,5,Very bad health,72
+E05011100,Dulwich Village,-8,Does not apply,0
+E05011100,Dulwich Village,1,Very good health,6445
+E05011100,Dulwich Village,2,Good health,2806
+E05011100,Dulwich Village,3,Fair health,711
+E05011100,Dulwich Village,4,Bad health,223
+E05011100,Dulwich Village,5,Very bad health,70
+E05011101,Dulwich Wood,-8,Does not apply,0
+E05011101,Dulwich Wood,1,Very good health,6072
+E05011101,Dulwich Wood,2,Good health,3166
+E05011101,Dulwich Wood,3,Fair health,970
+E05011101,Dulwich Wood,4,Bad health,270
+E05011101,Dulwich Wood,5,Very bad health,110
+E05011102,Faraday,-8,Does not apply,0
+E05011102,Faraday,1,Very good health,6923
+E05011102,Faraday,2,Good health,3797
+E05011102,Faraday,3,Fair health,1242
+E05011102,Faraday,4,Bad health,380
+E05011102,Faraday,5,Very bad health,123
+E05011103,Goose Green,-8,Does not apply,0
+E05011103,Goose Green,1,Very good health,8095
+E05011103,Goose Green,2,Good health,3851
+E05011103,Goose Green,3,Fair health,1208
+E05011103,Goose Green,4,Bad health,348
+E05011103,Goose Green,5,Very bad health,110
+E05011104,London Bridge & West Bermondsey,-8,Does not apply,0
+E05011104,London Bridge & West Bermondsey,1,Very good health,8789
+E05011104,London Bridge & West Bermondsey,2,Good health,4352
+E05011104,London Bridge & West Bermondsey,3,Fair health,1367
+E05011104,London Bridge & West Bermondsey,4,Bad health,445
+E05011104,London Bridge & West Bermondsey,5,Very bad health,144
+E05011105,Newington (Southwark),-8,Does not apply,0
+E05011105,Newington (Southwark),1,Very good health,6867
+E05011105,Newington (Southwark),2,Good health,4181
+E05011105,Newington (Southwark),3,Fair health,1610
+E05011105,Newington (Southwark),4,Bad health,566
+E05011105,Newington (Southwark),5,Very bad health,219
+E05011106,North Bermondsey,-8,Does not apply,0
+E05011106,North Bermondsey,1,Very good health,8670
+E05011106,North Bermondsey,2,Good health,4529
+E05011106,North Bermondsey,3,Fair health,1446
+E05011106,North Bermondsey,4,Bad health,479
+E05011106,North Bermondsey,5,Very bad health,158
+E05011107,North Walworth,-8,Does not apply,0
+E05011107,North Walworth,1,Very good health,8859
+E05011107,North Walworth,2,Good health,4841
+E05011107,North Walworth,3,Fair health,1492
+E05011107,North Walworth,4,Bad health,514
+E05011107,North Walworth,5,Very bad health,138
+E05011108,Nunhead & Queen's Road,-8,Does not apply,0
+E05011108,Nunhead & Queen's Road,1,Very good health,8274
+E05011108,Nunhead & Queen's Road,2,Good health,4670
+E05011108,Nunhead & Queen's Road,3,Fair health,1739
+E05011108,Nunhead & Queen's Road,4,Bad health,673
+E05011108,Nunhead & Queen's Road,5,Very bad health,198
+E05011109,Old Kent Road,-8,Does not apply,0
+E05011109,Old Kent Road,1,Very good health,10002
+E05011109,Old Kent Road,2,Good health,6036
+E05011109,Old Kent Road,3,Fair health,2123
+E05011109,Old Kent Road,4,Bad health,642
+E05011109,Old Kent Road,5,Very bad health,235
+E05011110,Peckham,-8,Does not apply,0
+E05011110,Peckham,1,Very good health,7828
+E05011110,Peckham,2,Good health,4591
+E05011110,Peckham,3,Fair health,1701
+E05011110,Peckham,4,Bad health,494
+E05011110,Peckham,5,Very bad health,173
+E05011111,Peckham Rye,-8,Does not apply,0
+E05011111,Peckham Rye,1,Very good health,5882
+E05011111,Peckham Rye,2,Good health,2946
+E05011111,Peckham Rye,3,Fair health,979
+E05011111,Peckham Rye,4,Bad health,277
+E05011111,Peckham Rye,5,Very bad health,75
+E05011112,Rotherhithe,-8,Does not apply,0
+E05011112,Rotherhithe,1,Very good health,8489
+E05011112,Rotherhithe,2,Good health,4947
+E05011112,Rotherhithe,3,Fair health,1518
+E05011112,Rotherhithe,4,Bad health,506
+E05011112,Rotherhithe,5,Very bad health,166
+E05011113,Rye Lane,-8,Does not apply,0
+E05011113,Rye Lane,1,Very good health,8095
+E05011113,Rye Lane,2,Good health,4304
+E05011113,Rye Lane,3,Fair health,1433
+E05011113,Rye Lane,4,Bad health,488
+E05011113,Rye Lane,5,Very bad health,151
+E05011114,St George's (Southwark),-8,Does not apply,0
+E05011114,St George's (Southwark),1,Very good health,4686
+E05011114,St George's (Southwark),2,Good health,2633
+E05011114,St George's (Southwark),3,Fair health,789
+E05011114,St George's (Southwark),4,Bad health,248
+E05011114,St George's (Southwark),5,Very bad health,100
+E05011115,St Giles,-8,Does not apply,0
+E05011115,St Giles,1,Very good health,8818
+E05011115,St Giles,2,Good health,4968
+E05011115,St Giles,3,Fair health,1571
+E05011115,St Giles,4,Bad health,433
+E05011115,St Giles,5,Very bad health,156
+E05011116,South Bermondsey,-8,Does not apply,0
+E05011116,South Bermondsey,1,Very good health,8439
+E05011116,South Bermondsey,2,Good health,4974
+E05011116,South Bermondsey,3,Fair health,1740
+E05011116,South Bermondsey,4,Bad health,596
+E05011116,South Bermondsey,5,Very bad health,196
+E05011117,Surrey Docks,-8,Does not apply,0
+E05011117,Surrey Docks,1,Very good health,7584
+E05011117,Surrey Docks,2,Good health,4034
+E05011117,Surrey Docks,3,Fair health,1040
+E05011117,Surrey Docks,4,Bad health,273
+E05011117,Surrey Docks,5,Very bad health,76
+E05011217,Barnehurst,-8,Does not apply,0
+E05011217,Barnehurst,1,Very good health,5722
+E05011217,Barnehurst,2,Good health,4080
+E05011217,Barnehurst,3,Fair health,1382
+E05011217,Barnehurst,4,Bad health,380
+E05011217,Barnehurst,5,Very bad health,115
+E05011218,Belvedere,-8,Does not apply,0
+E05011218,Belvedere,1,Very good health,8943
+E05011218,Belvedere,2,Good health,5897
+E05011218,Belvedere,3,Fair health,2070
+E05011218,Belvedere,4,Bad health,600
+E05011218,Belvedere,5,Very bad health,180
+E05011219,Bexleyheath,-8,Does not apply,0
+E05011219,Bexleyheath,1,Very good health,7702
+E05011219,Bexleyheath,2,Good health,5307
+E05011219,Bexleyheath,3,Fair health,1942
+E05011219,Bexleyheath,4,Bad health,521
+E05011219,Bexleyheath,5,Very bad health,145
+E05011220,Blackfen & Lamorbey,-8,Does not apply,0
+E05011220,Blackfen & Lamorbey,1,Very good health,8568
+E05011220,Blackfen & Lamorbey,2,Good health,5630
+E05011220,Blackfen & Lamorbey,3,Fair health,1863
+E05011220,Blackfen & Lamorbey,4,Bad health,487
+E05011220,Blackfen & Lamorbey,5,Very bad health,178
+E05011221,Blendon & Penhill,-8,Does not apply,0
+E05011221,Blendon & Penhill,1,Very good health,8136
+E05011221,Blendon & Penhill,2,Good health,5287
+E05011221,Blendon & Penhill,3,Fair health,1617
+E05011221,Blendon & Penhill,4,Bad health,463
+E05011221,Blendon & Penhill,5,Very bad health,130
+E05011222,Crayford,-8,Does not apply,0
+E05011222,Crayford,1,Very good health,7895
+E05011222,Crayford,2,Good health,5566
+E05011222,Crayford,3,Fair health,1985
+E05011222,Crayford,4,Bad health,630
+E05011222,Crayford,5,Very bad health,205
+E05011223,Crook Log,-8,Does not apply,0
+E05011223,Crook Log,1,Very good health,7671
+E05011223,Crook Log,2,Good health,5273
+E05011223,Crook Log,3,Fair health,1710
+E05011223,Crook Log,4,Bad health,449
+E05011223,Crook Log,5,Very bad health,156
+E05011224,East Wickham,-8,Does not apply,0
+E05011224,East Wickham,1,Very good health,7726
+E05011224,East Wickham,2,Good health,5478
+E05011224,East Wickham,3,Fair health,1999
+E05011224,East Wickham,4,Bad health,527
+E05011224,East Wickham,5,Very bad health,183
+E05011225,Erith,-8,Does not apply,0
+E05011225,Erith,1,Very good health,7013
+E05011225,Erith,2,Good health,4106
+E05011225,Erith,3,Fair health,1429
+E05011225,Erith,4,Bad health,423
+E05011225,Erith,5,Very bad health,131
+E05011226,Falconwood & Welling,-8,Does not apply,0
+E05011226,Falconwood & Welling,1,Very good health,8566
+E05011226,Falconwood & Welling,2,Good health,5775
+E05011226,Falconwood & Welling,3,Fair health,1677
+E05011226,Falconwood & Welling,4,Bad health,455
+E05011226,Falconwood & Welling,5,Very bad health,102
+E05011227,Longlands,-8,Does not apply,0
+E05011227,Longlands,1,Very good health,5183
+E05011227,Longlands,2,Good health,3271
+E05011227,Longlands,3,Fair health,1162
+E05011227,Longlands,4,Bad health,344
+E05011227,Longlands,5,Very bad health,118
+E05011228,Northumberland Heath,-8,Does not apply,0
+E05011228,Northumberland Heath,1,Very good health,5489
+E05011228,Northumberland Heath,2,Good health,3833
+E05011228,Northumberland Heath,3,Fair health,1318
+E05011228,Northumberland Heath,4,Bad health,384
+E05011228,Northumberland Heath,5,Very bad health,121
+E05011229,St Mary's & St James (Bexley),-8,Does not apply,0
+E05011229,St Mary's & St James (Bexley),1,Very good health,5667
+E05011229,St Mary's & St James (Bexley),2,Good health,3433
+E05011229,St Mary's & St James (Bexley),3,Fair health,1190
+E05011229,St Mary's & St James (Bexley),4,Bad health,337
+E05011229,St Mary's & St James (Bexley),5,Very bad health,116
+E05011230,Sidcup,-8,Does not apply,0
+E05011230,Sidcup,1,Very good health,7512
+E05011230,Sidcup,2,Good health,5220
+E05011230,Sidcup,3,Fair health,1858
+E05011230,Sidcup,4,Bad health,654
+E05011230,Sidcup,5,Very bad health,177
+E05011231,Slade Green & Northend,-8,Does not apply,0
+E05011231,Slade Green & Northend,1,Very good health,6616
+E05011231,Slade Green & Northend,2,Good health,4058
+E05011231,Slade Green & Northend,3,Fair health,1435
+E05011231,Slade Green & Northend,4,Bad health,483
+E05011231,Slade Green & Northend,5,Very bad health,156
+E05011232,Thamesmead East,-8,Does not apply,0
+E05011232,Thamesmead East,1,Very good health,8729
+E05011232,Thamesmead East,2,Good health,4701
+E05011232,Thamesmead East,3,Fair health,1781
+E05011232,Thamesmead East,4,Bad health,538
+E05011232,Thamesmead East,5,Very bad health,177
+E05011233,West Heath (Bexley),-8,Does not apply,0
+E05011233,West Heath (Bexley),1,Very good health,8043
+E05011233,West Heath (Bexley),2,Good health,5456
+E05011233,West Heath (Bexley),3,Fair health,1841
+E05011233,West Heath (Bexley),4,Bad health,453
+E05011233,West Heath (Bexley),5,Very bad health,143
+E05011234,Aldborough,-8,Does not apply,0
+E05011234,Aldborough,1,Very good health,7811
+E05011234,Aldborough,2,Good health,5372
+E05011234,Aldborough,3,Fair health,1687
+E05011234,Aldborough,4,Bad health,455
+E05011234,Aldborough,5,Very bad health,136
+E05011235,Barkingside,-8,Does not apply,0
+E05011235,Barkingside,1,Very good health,7562
+E05011235,Barkingside,2,Good health,5452
+E05011235,Barkingside,3,Fair health,1699
+E05011235,Barkingside,4,Bad health,481
+E05011235,Barkingside,5,Very bad health,130
+E05011236,Bridge (Redbridge),-8,Does not apply,0
+E05011236,Bridge (Redbridge),1,Very good health,6938
+E05011236,Bridge (Redbridge),2,Good health,4584
+E05011236,Bridge (Redbridge),3,Fair health,1327
+E05011236,Bridge (Redbridge),4,Bad health,410
+E05011236,Bridge (Redbridge),5,Very bad health,133
+E05011237,Chadwell,-8,Does not apply,0
+E05011237,Chadwell,1,Very good health,8468
+E05011237,Chadwell,2,Good health,5674
+E05011237,Chadwell,3,Fair health,1754
+E05011237,Chadwell,4,Bad health,496
+E05011237,Chadwell,5,Very bad health,137
+E05011238,Churchfields,-8,Does not apply,0
+E05011238,Churchfields,1,Very good health,8679
+E05011238,Churchfields,2,Good health,4909
+E05011238,Churchfields,3,Fair health,1539
+E05011238,Churchfields,4,Bad health,454
+E05011238,Churchfields,5,Very bad health,129
+E05011239,Clayhall,-8,Does not apply,0
+E05011239,Clayhall,1,Very good health,7112
+E05011239,Clayhall,2,Good health,5166
+E05011239,Clayhall,3,Fair health,1617
+E05011239,Clayhall,4,Bad health,392
+E05011239,Clayhall,5,Very bad health,131
+E05011240,Clementswood,-8,Does not apply,0
+E05011240,Clementswood,1,Very good health,6862
+E05011240,Clementswood,2,Good health,4483
+E05011240,Clementswood,3,Fair health,1531
+E05011240,Clementswood,4,Bad health,469
+E05011240,Clementswood,5,Very bad health,160
+E05011241,Cranbrook (Redbridge),-8,Does not apply,0
+E05011241,Cranbrook (Redbridge),1,Very good health,6479
+E05011241,Cranbrook (Redbridge),2,Good health,4689
+E05011241,Cranbrook (Redbridge),3,Fair health,1535
+E05011241,Cranbrook (Redbridge),4,Bad health,407
+E05011241,Cranbrook (Redbridge),5,Very bad health,130
+E05011242,Fairlop,-8,Does not apply,0
+E05011242,Fairlop,1,Very good health,7618
+E05011242,Fairlop,2,Good health,4972
+E05011242,Fairlop,3,Fair health,1532
+E05011242,Fairlop,4,Bad health,446
+E05011242,Fairlop,5,Very bad health,146
+E05011243,Fullwell,-8,Does not apply,0
+E05011243,Fullwell,1,Very good health,7618
+E05011243,Fullwell,2,Good health,5295
+E05011243,Fullwell,3,Fair health,1740
+E05011243,Fullwell,4,Bad health,580
+E05011243,Fullwell,5,Very bad health,175
+E05011244,Goodmayes,-8,Does not apply,0
+E05011244,Goodmayes,1,Very good health,7686
+E05011244,Goodmayes,2,Good health,5323
+E05011244,Goodmayes,3,Fair health,1659
+E05011244,Goodmayes,4,Bad health,437
+E05011244,Goodmayes,5,Very bad health,153
+E05011245,Hainault,-8,Does not apply,0
+E05011245,Hainault,1,Very good health,7840
+E05011245,Hainault,2,Good health,5262
+E05011245,Hainault,3,Fair health,1769
+E05011245,Hainault,4,Bad health,612
+E05011245,Hainault,5,Very bad health,217
+E05011246,Ilford Town,-8,Does not apply,0
+E05011246,Ilford Town,1,Very good health,6542
+E05011246,Ilford Town,2,Good health,4220
+E05011246,Ilford Town,3,Fair health,1109
+E05011246,Ilford Town,4,Bad health,342
+E05011246,Ilford Town,5,Very bad health,115
+E05011247,Loxford,-8,Does not apply,0
+E05011247,Loxford,1,Very good health,7747
+E05011247,Loxford,2,Good health,4939
+E05011247,Loxford,3,Fair health,1680
+E05011247,Loxford,4,Bad health,549
+E05011247,Loxford,5,Very bad health,208
+E05011248,Mayfield,-8,Does not apply,0
+E05011248,Mayfield,1,Very good health,8272
+E05011248,Mayfield,2,Good health,5653
+E05011248,Mayfield,3,Fair health,1757
+E05011248,Mayfield,4,Bad health,465
+E05011248,Mayfield,5,Very bad health,145
+E05011249,Monkhams,-8,Does not apply,0
+E05011249,Monkhams,1,Very good health,5223
+E05011249,Monkhams,2,Good health,3035
+E05011249,Monkhams,3,Fair health,894
+E05011249,Monkhams,4,Bad health,252
+E05011249,Monkhams,5,Very bad health,76
+E05011250,Newbury,-8,Does not apply,0
+E05011250,Newbury,1,Very good health,7305
+E05011250,Newbury,2,Good health,4983
+E05011250,Newbury,3,Fair health,1606
+E05011250,Newbury,4,Bad health,422
+E05011250,Newbury,5,Very bad health,143
+E05011251,Seven Kings,-8,Does not apply,0
+E05011251,Seven Kings,1,Very good health,7523
+E05011251,Seven Kings,2,Good health,5217
+E05011251,Seven Kings,3,Fair health,1690
+E05011251,Seven Kings,4,Bad health,468
+E05011251,Seven Kings,5,Very bad health,148
+E05011252,South Woodford,-8,Does not apply,0
+E05011252,South Woodford,1,Very good health,6982
+E05011252,South Woodford,2,Good health,4251
+E05011252,South Woodford,3,Fair health,1173
+E05011252,South Woodford,4,Bad health,320
+E05011252,South Woodford,5,Very bad health,106
+E05011253,Valentines,-8,Does not apply,0
+E05011253,Valentines,1,Very good health,7616
+E05011253,Valentines,2,Good health,5364
+E05011253,Valentines,3,Fair health,1624
+E05011253,Valentines,4,Bad health,468
+E05011253,Valentines,5,Very bad health,137
+E05011254,Wanstead Park,-8,Does not apply,0
+E05011254,Wanstead Park,1,Very good health,4337
+E05011254,Wanstead Park,2,Good health,2612
+E05011254,Wanstead Park,3,Fair health,816
+E05011254,Wanstead Park,4,Bad health,227
+E05011254,Wanstead Park,5,Very bad health,71
+E05011255,Wanstead Village,-8,Does not apply,0
+E05011255,Wanstead Village,1,Very good health,6980
+E05011255,Wanstead Village,2,Good health,4094
+E05011255,Wanstead Village,3,Fair health,1274
+E05011255,Wanstead Village,4,Bad health,312
+E05011255,Wanstead Village,5,Very bad health,104
+E05011462,Addiscombe East,-8,Does not apply,0
+E05011462,Addiscombe East,1,Very good health,5675
+E05011462,Addiscombe East,2,Good health,4079
+E05011462,Addiscombe East,3,Fair health,1226
+E05011462,Addiscombe East,4,Bad health,340
+E05011462,Addiscombe East,5,Very bad health,144
+E05011463,Addiscombe West,-8,Does not apply,0
+E05011463,Addiscombe West,1,Very good health,8531
+E05011463,Addiscombe West,2,Good health,5410
+E05011463,Addiscombe West,3,Fair health,1614
+E05011463,Addiscombe West,4,Bad health,501
+E05011463,Addiscombe West,5,Very bad health,152
+E05011464,Bensham Manor,-8,Does not apply,0
+E05011464,Bensham Manor,1,Very good health,8563
+E05011464,Bensham Manor,2,Good health,5813
+E05011464,Bensham Manor,3,Fair health,1876
+E05011464,Bensham Manor,4,Bad health,528
+E05011464,Bensham Manor,5,Very bad health,158
+E05011465,Broad Green,-8,Does not apply,0
+E05011465,Broad Green,1,Very good health,10354
+E05011465,Broad Green,2,Good health,6570
+E05011465,Broad Green,3,Fair health,2306
+E05011465,Broad Green,4,Bad health,733
+E05011465,Broad Green,5,Very bad health,258
+E05011466,Coulsdon Town,-8,Does not apply,0
+E05011466,Coulsdon Town,1,Very good health,8401
+E05011466,Coulsdon Town,2,Good health,5039
+E05011466,Coulsdon Town,3,Fair health,1485
+E05011466,Coulsdon Town,4,Bad health,368
+E05011466,Coulsdon Town,5,Very bad health,127
+E05011467,Crystal Palace & Upper Norwood,-8,Does not apply,0
+E05011467,Crystal Palace & Upper Norwood,1,Very good health,8673
+E05011467,Crystal Palace & Upper Norwood,2,Good health,5396
+E05011467,Crystal Palace & Upper Norwood,3,Fair health,1720
+E05011467,Crystal Palace & Upper Norwood,4,Bad health,450
+E05011467,Crystal Palace & Upper Norwood,5,Very bad health,113
+E05011468,Fairfield (Croydon),-8,Does not apply,0
+E05011468,Fairfield (Croydon),1,Very good health,8540
+E05011468,Fairfield (Croydon),2,Good health,4988
+E05011468,Fairfield (Croydon),3,Fair health,1352
+E05011468,Fairfield (Croydon),4,Bad health,368
+E05011468,Fairfield (Croydon),5,Very bad health,94
+E05011469,Kenley,-8,Does not apply,0
+E05011469,Kenley,1,Very good health,5803
+E05011469,Kenley,2,Good health,3618
+E05011469,Kenley,3,Fair health,1102
+E05011469,Kenley,4,Bad health,319
+E05011469,Kenley,5,Very bad health,144
+E05011470,New Addington North,-8,Does not apply,0
+E05011470,New Addington North,1,Very good health,5355
+E05011470,New Addington North,2,Good health,3442
+E05011470,New Addington North,3,Fair health,1432
+E05011470,New Addington North,4,Bad health,552
+E05011470,New Addington North,5,Very bad health,155
+E05011471,New Addington South,-8,Does not apply,0
+E05011471,New Addington South,1,Very good health,5335
+E05011471,New Addington South,2,Good health,3666
+E05011471,New Addington South,3,Fair health,1606
+E05011471,New Addington South,4,Bad health,558
+E05011471,New Addington South,5,Very bad health,163
+E05011472,Norbury & Pollards Hill,-8,Does not apply,0
+E05011472,Norbury & Pollards Hill,1,Very good health,6236
+E05011472,Norbury & Pollards Hill,2,Good health,4045
+E05011472,Norbury & Pollards Hill,3,Fair health,1360
+E05011472,Norbury & Pollards Hill,4,Bad health,417
+E05011472,Norbury & Pollards Hill,5,Very bad health,90
+E05011473,Norbury Park,-8,Does not apply,0
+E05011473,Norbury Park,1,Very good health,5390
+E05011473,Norbury Park,2,Good health,3621
+E05011473,Norbury Park,3,Fair health,1296
+E05011473,Norbury Park,4,Bad health,373
+E05011473,Norbury Park,5,Very bad health,146
+E05011474,Old Coulsdon,-8,Does not apply,0
+E05011474,Old Coulsdon,1,Very good health,5146
+E05011474,Old Coulsdon,2,Good health,3451
+E05011474,Old Coulsdon,3,Fair health,1088
+E05011474,Old Coulsdon,4,Bad health,328
+E05011474,Old Coulsdon,5,Very bad health,94
+E05011475,Park Hill & Whitgift,-8,Does not apply,0
+E05011475,Park Hill & Whitgift,1,Very good health,2884
+E05011475,Park Hill & Whitgift,2,Good health,2030
+E05011475,Park Hill & Whitgift,3,Fair health,634
+E05011475,Park Hill & Whitgift,4,Bad health,187
+E05011475,Park Hill & Whitgift,5,Very bad health,49
+E05011476,Purley & Woodcote,-8,Does not apply,0
+E05011476,Purley & Woodcote,1,Very good health,8078
+E05011476,Purley & Woodcote,2,Good health,4829
+E05011476,Purley & Woodcote,3,Fair health,1618
+E05011476,Purley & Woodcote,4,Bad health,510
+E05011476,Purley & Woodcote,5,Very bad health,149
+E05011477,Purley Oaks & Riddlesdown,-8,Does not apply,0
+E05011477,Purley Oaks & Riddlesdown,1,Very good health,5129
+E05011477,Purley Oaks & Riddlesdown,2,Good health,3341
+E05011477,Purley Oaks & Riddlesdown,3,Fair health,933
+E05011477,Purley Oaks & Riddlesdown,4,Bad health,239
+E05011477,Purley Oaks & Riddlesdown,5,Very bad health,73
+E05011478,Sanderstead,-8,Does not apply,0
+E05011478,Sanderstead,1,Very good health,8245
+E05011478,Sanderstead,2,Good health,5285
+E05011478,Sanderstead,3,Fair health,1685
+E05011478,Sanderstead,4,Bad health,422
+E05011478,Sanderstead,5,Very bad health,137
+E05011479,Selhurst,-8,Does not apply,0
+E05011479,Selhurst,1,Very good health,6619
+E05011479,Selhurst,2,Good health,4250
+E05011479,Selhurst,3,Fair health,1648
+E05011479,Selhurst,4,Bad health,523
+E05011479,Selhurst,5,Very bad health,144
+E05011480,Selsdon & Addington Village,-8,Does not apply,0
+E05011480,Selsdon & Addington Village,1,Very good health,4754
+E05011480,Selsdon & Addington Village,2,Good health,3593
+E05011480,Selsdon & Addington Village,3,Fair health,1152
+E05011480,Selsdon & Addington Village,4,Bad health,325
+E05011480,Selsdon & Addington Village,5,Very bad health,104
+E05011481,Selsdon Vale & Forestdale,-8,Does not apply,0
+E05011481,Selsdon Vale & Forestdale,1,Very good health,4917
+E05011481,Selsdon Vale & Forestdale,2,Good health,3548
+E05011481,Selsdon Vale & Forestdale,3,Fair health,1145
+E05011481,Selsdon Vale & Forestdale,4,Bad health,313
+E05011481,Selsdon Vale & Forestdale,5,Very bad health,89
+E05011482,Shirley North,-8,Does not apply,0
+E05011482,Shirley North,1,Very good health,7414
+E05011482,Shirley North,2,Good health,5281
+E05011482,Shirley North,3,Fair health,1929
+E05011482,Shirley North,4,Bad health,594
+E05011482,Shirley North,5,Very bad health,184
+E05011483,Shirley South (Croydon),-8,Does not apply,0
+E05011483,Shirley South (Croydon),1,Very good health,5340
+E05011483,Shirley South (Croydon),2,Good health,3704
+E05011483,Shirley South (Croydon),3,Fair health,1162
+E05011483,Shirley South (Croydon),4,Bad health,320
+E05011483,Shirley South (Croydon),5,Very bad health,97
+E05011484,South Croydon,-8,Does not apply,0
+E05011484,South Croydon,1,Very good health,9666
+E05011484,South Croydon,2,Good health,6091
+E05011484,South Croydon,3,Fair health,1695
+E05011484,South Croydon,4,Bad health,470
+E05011484,South Croydon,5,Very bad health,142
+E05011485,South Norwood,-8,Does not apply,0
+E05011485,South Norwood,1,Very good health,8369
+E05011485,South Norwood,2,Good health,5416
+E05011485,South Norwood,3,Fair health,1946
+E05011485,South Norwood,4,Bad health,562
+E05011485,South Norwood,5,Very bad health,154
+E05011486,Thornton Heath,-8,Does not apply,0
+E05011486,Thornton Heath,1,Very good health,9227
+E05011486,Thornton Heath,2,Good health,5960
+E05011486,Thornton Heath,3,Fair health,2036
+E05011486,Thornton Heath,4,Bad health,594
+E05011486,Thornton Heath,5,Very bad health,185
+E05011487,Waddon,-8,Does not apply,0
+E05011487,Waddon,1,Very good health,9441
+E05011487,Waddon,2,Good health,6229
+E05011487,Waddon,3,Fair health,2212
+E05011487,Waddon,4,Bad health,610
+E05011487,Waddon,5,Very bad health,192
+E05011488,West Thornton,-8,Does not apply,0
+E05011488,West Thornton,1,Very good health,9300
+E05011488,West Thornton,2,Good health,6414
+E05011488,West Thornton,3,Fair health,2219
+E05011488,West Thornton,4,Bad health,637
+E05011488,West Thornton,5,Very bad health,194
+E05011489,Woodside (Croydon),-8,Does not apply,0
+E05011489,Woodside (Croydon),1,Very good health,8662
+E05011489,Woodside (Croydon),2,Good health,5604
+E05011489,Woodside (Croydon),3,Fair health,1850
+E05011489,Woodside (Croydon),4,Bad health,591
+E05011489,Woodside (Croydon),5,Very bad health,165
+E05013496,Alperton,-8,Does not apply,0
+E05013496,Alperton,1,Very good health,8047
+E05013496,Alperton,2,Good health,4973
+E05013496,Alperton,3,Fair health,1547
+E05013496,Alperton,4,Bad health,350
+E05013496,Alperton,5,Very bad health,139
+E05013497,Barnhill,-8,Does not apply,0
+E05013497,Barnhill,1,Very good health,5806
+E05013497,Barnhill,2,Good health,3804
+E05013497,Barnhill,3,Fair health,1286
+E05013497,Barnhill,4,Bad health,400
+E05013497,Barnhill,5,Very bad health,124
+E05013498,Brondesbury Park,-8,Does not apply,0
+E05013498,Brondesbury Park,1,Very good health,7262
+E05013498,Brondesbury Park,2,Good health,4138
+E05013498,Brondesbury Park,3,Fair health,1391
+E05013498,Brondesbury Park,4,Bad health,481
+E05013498,Brondesbury Park,5,Very bad health,162
+E05013499,Cricklewood & Mapesbury,-8,Does not apply,0
+E05013499,Cricklewood & Mapesbury,1,Very good health,7620
+E05013499,Cricklewood & Mapesbury,2,Good health,4462
+E05013499,Cricklewood & Mapesbury,3,Fair health,1479
+E05013499,Cricklewood & Mapesbury,4,Bad health,452
+E05013499,Cricklewood & Mapesbury,5,Very bad health,138
+E05013500,Dollis Hill,-8,Does not apply,0
+E05013500,Dollis Hill,1,Very good health,11004
+E05013500,Dollis Hill,2,Good health,7321
+E05013500,Dollis Hill,3,Fair health,2466
+E05013500,Dollis Hill,4,Bad health,816
+E05013500,Dollis Hill,5,Very bad health,241
+E05013501,Harlesden & Kensal Green,-8,Does not apply,0
+E05013501,Harlesden & Kensal Green,1,Very good health,10403
+E05013501,Harlesden & Kensal Green,2,Good health,6376
+E05013501,Harlesden & Kensal Green,3,Fair health,2297
+E05013501,Harlesden & Kensal Green,4,Bad health,743
+E05013501,Harlesden & Kensal Green,5,Very bad health,257
+E05013502,Kenton (Brent),-8,Does not apply,0
+E05013502,Kenton (Brent),1,Very good health,8755
+E05013502,Kenton (Brent),2,Good health,6006
+E05013502,Kenton (Brent),3,Fair health,2138
+E05013502,Kenton (Brent),4,Bad health,571
+E05013502,Kenton (Brent),5,Very bad health,216
+E05013503,Kilburn (Brent),-8,Does not apply,0
+E05013503,Kilburn (Brent),1,Very good health,9479
+E05013503,Kilburn (Brent),2,Good health,5085
+E05013503,Kilburn (Brent),3,Fair health,1792
+E05013503,Kilburn (Brent),4,Bad health,627
+E05013503,Kilburn (Brent),5,Very bad health,229
+E05013504,Kingsbury (Brent),-8,Does not apply,0
+E05013504,Kingsbury (Brent),1,Very good health,5768
+E05013504,Kingsbury (Brent),2,Good health,3708
+E05013504,Kingsbury (Brent),3,Fair health,1251
+E05013504,Kingsbury (Brent),4,Bad health,383
+E05013504,Kingsbury (Brent),5,Very bad health,126
+E05013505,Northwick Park,-8,Does not apply,0
+E05013505,Northwick Park,1,Very good health,6308
+E05013505,Northwick Park,2,Good health,4230
+E05013505,Northwick Park,3,Fair health,1364
+E05013505,Northwick Park,4,Bad health,354
+E05013505,Northwick Park,5,Very bad health,111
+E05013506,Preston (Brent),-8,Does not apply,0
+E05013506,Preston (Brent),1,Very good health,6614
+E05013506,Preston (Brent),2,Good health,4290
+E05013506,Preston (Brent),3,Fair health,1217
+E05013506,Preston (Brent),4,Bad health,400
+E05013506,Preston (Brent),5,Very bad health,141
+E05013507,Queens Park (Brent),-8,Does not apply,0
+E05013507,Queens Park (Brent),1,Very good health,9897
+E05013507,Queens Park (Brent),2,Good health,4987
+E05013507,Queens Park (Brent),3,Fair health,1607
+E05013507,Queens Park (Brent),4,Bad health,500
+E05013507,Queens Park (Brent),5,Very bad health,167
+E05013508,Queensbury (Brent),-8,Does not apply,0
+E05013508,Queensbury (Brent),1,Very good health,8777
+E05013508,Queensbury (Brent),2,Good health,5991
+E05013508,Queensbury (Brent),3,Fair health,1791
+E05013508,Queensbury (Brent),4,Bad health,484
+E05013508,Queensbury (Brent),5,Very bad health,146
+E05013509,Roundwood,-8,Does not apply,0
+E05013509,Roundwood,1,Very good health,8317
+E05013509,Roundwood,2,Good health,5412
+E05013509,Roundwood,3,Fair health,2012
+E05013509,Roundwood,4,Bad health,738
+E05013509,Roundwood,5,Very bad health,229
+E05013510,Stonebridge,-8,Does not apply,0
+E05013510,Stonebridge,1,Very good health,10325
+E05013510,Stonebridge,2,Good health,6127
+E05013510,Stonebridge,3,Fair health,2599
+E05013510,Stonebridge,4,Bad health,913
+E05013510,Stonebridge,5,Very bad health,291
+E05013511,Sudbury,-8,Does not apply,0
+E05013511,Sudbury,1,Very good health,7095
+E05013511,Sudbury,2,Good health,4808
+E05013511,Sudbury,3,Fair health,1509
+E05013511,Sudbury,4,Bad health,399
+E05013511,Sudbury,5,Very bad health,127
+E05013512,Tokyngton,-8,Does not apply,0
+E05013512,Tokyngton,1,Very good health,4994
+E05013512,Tokyngton,2,Good health,3405
+E05013512,Tokyngton,3,Fair health,1203
+E05013512,Tokyngton,4,Bad health,313
+E05013512,Tokyngton,5,Very bad health,90
+E05013513,Welsh Harp,-8,Does not apply,0
+E05013513,Welsh Harp,1,Very good health,9104
+E05013513,Welsh Harp,2,Good health,5989
+E05013513,Welsh Harp,3,Fair health,2069
+E05013513,Welsh Harp,4,Bad health,546
+E05013513,Welsh Harp,5,Very bad health,214
+E05013514,Wembley Central,-8,Does not apply,0
+E05013514,Wembley Central,1,Very good health,9628
+E05013514,Wembley Central,2,Good health,5900
+E05013514,Wembley Central,3,Fair health,1717
+E05013514,Wembley Central,4,Bad health,490
+E05013514,Wembley Central,5,Very bad health,190
+E05013515,Wembley Hill,-8,Does not apply,0
+E05013515,Wembley Hill,1,Very good health,7407
+E05013515,Wembley Hill,2,Good health,5508
+E05013515,Wembley Hill,3,Fair health,1596
+E05013515,Wembley Hill,4,Bad health,450
+E05013515,Wembley Hill,5,Very bad health,103
+E05013516,Wembley Park,-8,Does not apply,0
+E05013516,Wembley Park,1,Very good health,4204
+E05013516,Wembley Park,2,Good health,2679
+E05013516,Wembley Park,3,Fair health,522
+E05013516,Wembley Park,4,Bad health,106
+E05013516,Wembley Park,5,Very bad health,37
+E05013517,Willesden Green,-8,Does not apply,0
+E05013517,Willesden Green,1,Very good health,9983
+E05013517,Willesden Green,2,Good health,6100
+E05013517,Willesden Green,3,Fair health,2018
+E05013517,Willesden Green,4,Bad health,640
+E05013517,Willesden Green,5,Very bad health,215
+E05013518,Central Greenford,-8,Does not apply,0
+E05013518,Central Greenford,1,Very good health,7049
+E05013518,Central Greenford,2,Good health,5172
+E05013518,Central Greenford,3,Fair health,1512
+E05013518,Central Greenford,4,Bad health,471
+E05013518,Central Greenford,5,Very bad health,149
+E05013519,Dormers Wells,-8,Does not apply,0
+E05013519,Dormers Wells,1,Very good health,7368
+E05013519,Dormers Wells,2,Good health,5270
+E05013519,Dormers Wells,3,Fair health,2086
+E05013519,Dormers Wells,4,Bad health,698
+E05013519,Dormers Wells,5,Very bad health,192
+E05013520,Ealing Broadway,-8,Does not apply,0
+E05013520,Ealing Broadway,1,Very good health,8043
+E05013520,Ealing Broadway,2,Good health,4232
+E05013520,Ealing Broadway,3,Fair health,1216
+E05013520,Ealing Broadway,4,Bad health,325
+E05013520,Ealing Broadway,5,Very bad health,103
+E05013521,Ealing Common,-8,Does not apply,0
+E05013521,Ealing Common,1,Very good health,8681
+E05013521,Ealing Common,2,Good health,5147
+E05013521,Ealing Common,3,Fair health,1572
+E05013521,Ealing Common,4,Bad health,408
+E05013521,Ealing Common,5,Very bad health,138
+E05013522,East Acton,-8,Does not apply,0
+E05013522,East Acton,1,Very good health,8355
+E05013522,East Acton,2,Good health,4799
+E05013522,East Acton,3,Fair health,1444
+E05013522,East Acton,4,Bad health,470
+E05013522,East Acton,5,Very bad health,142
+E05013523,Greenford Broadway,-8,Does not apply,0
+E05013523,Greenford Broadway,1,Very good health,8730
+E05013523,Greenford Broadway,2,Good health,5802
+E05013523,Greenford Broadway,3,Fair health,2005
+E05013523,Greenford Broadway,4,Bad health,634
+E05013523,Greenford Broadway,5,Very bad health,213
+E05013524,Hanger Hill,-8,Does not apply,0
+E05013524,Hanger Hill,1,Very good health,9461
+E05013524,Hanger Hill,2,Good health,5442
+E05013524,Hanger Hill,3,Fair health,1559
+E05013524,Hanger Hill,4,Bad health,441
+E05013524,Hanger Hill,5,Very bad health,141
+E05013525,Hanwell Broadway,-8,Does not apply,0
+E05013525,Hanwell Broadway,1,Very good health,8189
+E05013525,Hanwell Broadway,2,Good health,4831
+E05013525,Hanwell Broadway,3,Fair health,1634
+E05013525,Hanwell Broadway,4,Bad health,477
+E05013525,Hanwell Broadway,5,Very bad health,159
+E05013526,Lady Margaret,-8,Does not apply,0
+E05013526,Lady Margaret,1,Very good health,7221
+E05013526,Lady Margaret,2,Good health,5645
+E05013526,Lady Margaret,3,Fair health,2162
+E05013526,Lady Margaret,4,Bad health,578
+E05013526,Lady Margaret,5,Very bad health,179
+E05013527,North Acton,-8,Does not apply,0
+E05013527,North Acton,1,Very good health,10288
+E05013527,North Acton,2,Good health,6269
+E05013527,North Acton,3,Fair health,1815
+E05013527,North Acton,4,Bad health,493
+E05013527,North Acton,5,Very bad health,178
+E05013528,North Greenford,-8,Does not apply,0
+E05013528,North Greenford,1,Very good health,7944
+E05013528,North Greenford,2,Good health,5404
+E05013528,North Greenford,3,Fair health,1663
+E05013528,North Greenford,4,Bad health,405
+E05013528,North Greenford,5,Very bad health,141
+E05013529,North Hanwell,-8,Does not apply,0
+E05013529,North Hanwell,1,Very good health,7687
+E05013529,North Hanwell,2,Good health,4912
+E05013529,North Hanwell,3,Fair health,1780
+E05013529,North Hanwell,4,Bad health,494
+E05013529,North Hanwell,5,Very bad health,167
+E05013530,Northfield (Ealing),-8,Does not apply,0
+E05013530,Northfield (Ealing),1,Very good health,8110
+E05013530,Northfield (Ealing),2,Good health,4569
+E05013530,Northfield (Ealing),3,Fair health,1161
+E05013530,Northfield (Ealing),4,Bad health,332
+E05013530,Northfield (Ealing),5,Very bad health,91
+E05013531,Northolt Mandeville,-8,Does not apply,0
+E05013531,Northolt Mandeville,1,Very good health,8614
+E05013531,Northolt Mandeville,2,Good health,6123
+E05013531,Northolt Mandeville,3,Fair health,2011
+E05013531,Northolt Mandeville,4,Bad health,584
+E05013531,Northolt Mandeville,5,Very bad health,202
+E05013532,Northolt West End,-8,Does not apply,0
+E05013532,Northolt West End,1,Very good health,8459
+E05013532,Northolt West End,2,Good health,5423
+E05013532,Northolt West End,3,Fair health,1833
+E05013532,Northolt West End,4,Bad health,630
+E05013532,Northolt West End,5,Very bad health,191
+E05013533,Norwood Green,-8,Does not apply,0
+E05013533,Norwood Green,1,Very good health,8086
+E05013533,Norwood Green,2,Good health,5306
+E05013533,Norwood Green,3,Fair health,1897
+E05013533,Norwood Green,4,Bad health,611
+E05013533,Norwood Green,5,Very bad health,195
+E05013534,Perivale,-8,Does not apply,0
+E05013534,Perivale,1,Very good health,8227
+E05013534,Perivale,2,Good health,5372
+E05013534,Perivale,3,Fair health,1942
+E05013534,Perivale,4,Bad health,476
+E05013534,Perivale,5,Very bad health,168
+E05013535,Pitshanger,-8,Does not apply,0
+E05013535,Pitshanger,1,Very good health,8183
+E05013535,Pitshanger,2,Good health,4833
+E05013535,Pitshanger,3,Fair health,1509
+E05013535,Pitshanger,4,Bad health,494
+E05013535,Pitshanger,5,Very bad health,150
+E05013536,South Acton,-8,Does not apply,0
+E05013536,South Acton,1,Very good health,9331
+E05013536,South Acton,2,Good health,4958
+E05013536,South Acton,3,Fair health,1642
+E05013536,South Acton,4,Bad health,645
+E05013536,South Acton,5,Very bad health,246
+E05013537,Southall Broadway,-8,Does not apply,0
+E05013537,Southall Broadway,1,Very good health,5278
+E05013537,Southall Broadway,2,Good health,3761
+E05013537,Southall Broadway,3,Fair health,1283
+E05013537,Southall Broadway,4,Bad health,399
+E05013537,Southall Broadway,5,Very bad health,104
+E05013538,Southall Green,-8,Does not apply,0
+E05013538,Southall Green,1,Very good health,7698
+E05013538,Southall Green,2,Good health,5525
+E05013538,Southall Green,3,Fair health,1789
+E05013538,Southall Green,4,Bad health,530
+E05013538,Southall Green,5,Very bad health,152
+E05013539,Southall West,-8,Does not apply,0
+E05013539,Southall West,1,Very good health,3206
+E05013539,Southall West,2,Good health,2230
+E05013539,Southall West,3,Fair health,807
+E05013539,Southall West,4,Bad health,265
+E05013539,Southall West,5,Very bad health,71
+E05013540,Southfield,-8,Does not apply,0
+E05013540,Southfield,1,Very good health,9928
+E05013540,Southfield,2,Good health,4824
+E05013540,Southfield,3,Fair health,1270
+E05013540,Southfield,4,Bad health,355
+E05013540,Southfield,5,Very bad health,98
+E05013541,Walpole,-8,Does not apply,0
+E05013541,Walpole,1,Very good health,8423
+E05013541,Walpole,2,Good health,4540
+E05013541,Walpole,3,Fair health,1276
+E05013541,Walpole,4,Bad health,405
+E05013541,Walpole,5,Very bad health,112
+E05013542,Belmont (Harrow),-8,Does not apply,0
+E05013542,Belmont (Harrow),1,Very good health,4688
+E05013542,Belmont (Harrow),2,Good health,3119
+E05013542,Belmont (Harrow),3,Fair health,899
+E05013542,Belmont (Harrow),4,Bad health,234
+E05013542,Belmont (Harrow),5,Very bad health,81
+E05013543,Canons,-8,Does not apply,0
+E05013543,Canons,1,Very good health,4846
+E05013543,Canons,2,Good health,3336
+E05013543,Canons,3,Fair health,1132
+E05013543,Canons,4,Bad health,307
+E05013543,Canons,5,Very bad health,114
+E05013544,Centenary,-8,Does not apply,0
+E05013544,Centenary,1,Very good health,8030
+E05013544,Centenary,2,Good health,5184
+E05013544,Centenary,3,Fair health,1486
+E05013544,Centenary,4,Bad health,389
+E05013544,Centenary,5,Very bad health,112
+E05013545,Edgware (Harrow),-8,Does not apply,0
+E05013545,Edgware (Harrow),1,Very good health,8218
+E05013545,Edgware (Harrow),2,Good health,5234
+E05013545,Edgware (Harrow),3,Fair health,1606
+E05013545,Edgware (Harrow),4,Bad health,471
+E05013545,Edgware (Harrow),5,Very bad health,184
+E05013546,Greenhill (Harrow),-8,Does not apply,0
+E05013546,Greenhill (Harrow),1,Very good health,5953
+E05013546,Greenhill (Harrow),2,Good health,3612
+E05013546,Greenhill (Harrow),3,Fair health,1057
+E05013546,Greenhill (Harrow),4,Bad health,279
+E05013546,Greenhill (Harrow),5,Very bad health,116
+E05013547,Harrow on the Hill,-8,Does not apply,0
+E05013547,Harrow on the Hill,1,Very good health,5886
+E05013547,Harrow on the Hill,2,Good health,3451
+E05013547,Harrow on the Hill,3,Fair health,1065
+E05013547,Harrow on the Hill,4,Bad health,289
+E05013547,Harrow on the Hill,5,Very bad health,95
+E05013548,Harrow Weald,-8,Does not apply,0
+E05013548,Harrow Weald,1,Very good health,6694
+E05013548,Harrow Weald,2,Good health,4918
+E05013548,Harrow Weald,3,Fair health,1894
+E05013548,Harrow Weald,4,Bad health,636
+E05013548,Harrow Weald,5,Very bad health,201
+E05013549,Hatch End,-8,Does not apply,0
+E05013549,Hatch End,1,Very good health,5256
+E05013549,Hatch End,2,Good health,3263
+E05013549,Hatch End,3,Fair health,1008
+E05013549,Hatch End,4,Bad health,228
+E05013549,Hatch End,5,Very bad health,68
+E05013550,Headstone,-8,Does not apply,0
+E05013550,Headstone,1,Very good health,7854
+E05013550,Headstone,2,Good health,5025
+E05013550,Headstone,3,Fair health,1497
+E05013550,Headstone,4,Bad health,368
+E05013550,Headstone,5,Very bad health,138
+E05013551,Kenton East,-8,Does not apply,0
+E05013551,Kenton East,1,Very good health,6855
+E05013551,Kenton East,2,Good health,4707
+E05013551,Kenton East,3,Fair health,1508
+E05013551,Kenton East,4,Bad health,420
+E05013551,Kenton East,5,Very bad health,127
+E05013552,Kenton West,-8,Does not apply,0
+E05013552,Kenton West,1,Very good health,5078
+E05013552,Kenton West,2,Good health,3449
+E05013552,Kenton West,3,Fair health,1107
+E05013552,Kenton West,4,Bad health,298
+E05013552,Kenton West,5,Very bad health,58
+E05013553,Marlborough,-8,Does not apply,0
+E05013553,Marlborough,1,Very good health,6139
+E05013553,Marlborough,2,Good health,4186
+E05013553,Marlborough,3,Fair health,1206
+E05013553,Marlborough,4,Bad health,361
+E05013553,Marlborough,5,Very bad health,101
+E05013554,North Harrow,-8,Does not apply,0
+E05013554,North Harrow,1,Very good health,4484
+E05013554,North Harrow,2,Good health,3239
+E05013554,North Harrow,3,Fair health,956
+E05013554,North Harrow,4,Bad health,236
+E05013554,North Harrow,5,Very bad health,79
+E05013555,Pinner,-8,Does not apply,0
+E05013555,Pinner,1,Very good health,6995
+E05013555,Pinner,2,Good health,4330
+E05013555,Pinner,3,Fair health,1375
+E05013555,Pinner,4,Bad health,326
+E05013555,Pinner,5,Very bad health,110
+E05013556,Pinner South,-8,Does not apply,0
+E05013556,Pinner South,1,Very good health,8320
+E05013556,Pinner South,2,Good health,5426
+E05013556,Pinner South,3,Fair health,1525
+E05013556,Pinner South,4,Bad health,370
+E05013556,Pinner South,5,Very bad health,101
+E05013557,Rayners Lane,-8,Does not apply,0
+E05013557,Rayners Lane,1,Very good health,4624
+E05013557,Rayners Lane,2,Good health,3256
+E05013557,Rayners Lane,3,Fair health,991
+E05013557,Rayners Lane,4,Bad health,212
+E05013557,Rayners Lane,5,Very bad health,60
+E05013558,Roxbourne,-8,Does not apply,0
+E05013558,Roxbourne,1,Very good health,4955
+E05013558,Roxbourne,2,Good health,3317
+E05013558,Roxbourne,3,Fair health,1146
+E05013558,Roxbourne,4,Bad health,359
+E05013558,Roxbourne,5,Very bad health,128
+E05013559,Roxeth,-8,Does not apply,0
+E05013559,Roxeth,1,Very good health,7881
+E05013559,Roxeth,2,Good health,5620
+E05013559,Roxeth,3,Fair health,1752
+E05013559,Roxeth,4,Bad health,483
+E05013559,Roxeth,5,Very bad health,128
+E05013560,Stanmore,-8,Does not apply,0
+E05013560,Stanmore,1,Very good health,6787
+E05013560,Stanmore,2,Good health,4428
+E05013560,Stanmore,3,Fair health,1620
+E05013560,Stanmore,4,Bad health,494
+E05013560,Stanmore,5,Very bad health,172
+E05013561,Wealdstone North,-8,Does not apply,0
+E05013561,Wealdstone North,1,Very good health,5531
+E05013561,Wealdstone North,2,Good health,3349
+E05013561,Wealdstone North,3,Fair health,1148
+E05013561,Wealdstone North,4,Bad health,363
+E05013561,Wealdstone North,5,Very bad health,97
+E05013562,Wealdstone South,-8,Does not apply,0
+E05013562,Wealdstone South,1,Very good health,4109
+E05013562,Wealdstone South,2,Good health,2654
+E05013562,Wealdstone South,3,Fair health,825
+E05013562,Wealdstone South,4,Bad health,286
+E05013562,Wealdstone South,5,Very bad health,83
+E05013563,West Harrow,-8,Does not apply,0
+E05013563,West Harrow,1,Very good health,5372
+E05013563,West Harrow,2,Good health,3494
+E05013563,West Harrow,3,Fair health,1104
+E05013563,West Harrow,4,Bad health,310
+E05013563,West Harrow,5,Very bad health,82
+E05013564,Belmore,-8,Does not apply,0
+E05013564,Belmore,1,Very good health,8750
+E05013564,Belmore,2,Good health,6084
+E05013564,Belmore,3,Fair health,1992
+E05013564,Belmore,4,Bad health,506
+E05013564,Belmore,5,Very bad health,159
+E05013565,Charville,-8,Does not apply,0
+E05013565,Charville,1,Very good health,5929
+E05013565,Charville,2,Good health,3849
+E05013565,Charville,3,Fair health,1285
+E05013565,Charville,4,Bad health,347
+E05013565,Charville,5,Very bad health,100
+E05013566,Colham & Cowley,-8,Does not apply,0
+E05013566,Colham & Cowley,1,Very good health,9620
+E05013566,Colham & Cowley,2,Good health,6481
+E05013566,Colham & Cowley,3,Fair health,2205
+E05013566,Colham & Cowley,4,Bad health,620
+E05013566,Colham & Cowley,5,Very bad health,210
+E05013567,Eastcote,-8,Does not apply,0
+E05013567,Eastcote,1,Very good health,8669
+E05013567,Eastcote,2,Good health,5823
+E05013567,Eastcote,3,Fair health,1802
+E05013567,Eastcote,4,Bad health,463
+E05013567,Eastcote,5,Very bad health,155
+E05013568,Harefield Village,-8,Does not apply,0
+E05013568,Harefield Village,1,Very good health,2831
+E05013568,Harefield Village,2,Good health,1925
+E05013568,Harefield Village,3,Fair health,719
+E05013568,Harefield Village,4,Bad health,200
+E05013568,Harefield Village,5,Very bad health,66
+E05013569,Hayes Town,-8,Does not apply,0
+E05013569,Hayes Town,1,Very good health,7768
+E05013569,Hayes Town,2,Good health,5190
+E05013569,Hayes Town,3,Fair health,1511
+E05013569,Hayes Town,4,Bad health,406
+E05013569,Hayes Town,5,Very bad health,123
+E05013570,Heathrow Villages,-8,Does not apply,0
+E05013570,Heathrow Villages,1,Very good health,7093
+E05013570,Heathrow Villages,2,Good health,4969
+E05013570,Heathrow Villages,3,Fair health,1471
+E05013570,Heathrow Villages,4,Bad health,386
+E05013570,Heathrow Villages,5,Very bad health,122
+E05013571,Hillingdon East,-8,Does not apply,0
+E05013571,Hillingdon East,1,Very good health,7961
+E05013571,Hillingdon East,2,Good health,5403
+E05013571,Hillingdon East,3,Fair health,1805
+E05013571,Hillingdon East,4,Bad health,496
+E05013571,Hillingdon East,5,Very bad health,139
+E05013572,Hillingdon West,-8,Does not apply,0
+E05013572,Hillingdon West,1,Very good health,5327
+E05013572,Hillingdon West,2,Good health,3116
+E05013572,Hillingdon West,3,Fair health,905
+E05013572,Hillingdon West,4,Bad health,250
+E05013572,Hillingdon West,5,Very bad health,92
+E05013573,Ickenham & South Harefield,-8,Does not apply,0
+E05013573,Ickenham & South Harefield,1,Very good health,8268
+E05013573,Ickenham & South Harefield,2,Good health,5222
+E05013573,Ickenham & South Harefield,3,Fair health,1523
+E05013573,Ickenham & South Harefield,4,Bad health,376
+E05013573,Ickenham & South Harefield,5,Very bad health,130
+E05013574,Northwood (Hillingdon),-8,Does not apply,0
+E05013574,Northwood (Hillingdon),1,Very good health,5807
+E05013574,Northwood (Hillingdon),2,Good health,3792
+E05013574,Northwood (Hillingdon),3,Fair health,1225
+E05013574,Northwood (Hillingdon),4,Bad health,359
+E05013574,Northwood (Hillingdon),5,Very bad health,126
+E05013575,Northwood Hills,-8,Does not apply,0
+E05013575,Northwood Hills,1,Very good health,5902
+E05013575,Northwood Hills,2,Good health,4085
+E05013575,Northwood Hills,3,Fair health,1280
+E05013575,Northwood Hills,4,Bad health,382
+E05013575,Northwood Hills,5,Very bad health,122
+E05013576,Pinkwell,-8,Does not apply,0
+E05013576,Pinkwell,1,Very good health,8587
+E05013576,Pinkwell,2,Good health,5661
+E05013576,Pinkwell,3,Fair health,1803
+E05013576,Pinkwell,4,Bad health,507
+E05013576,Pinkwell,5,Very bad health,151
+E05013577,Ruislip,-8,Does not apply,0
+E05013577,Ruislip,1,Very good health,8143
+E05013577,Ruislip,2,Good health,5082
+E05013577,Ruislip,3,Fair health,1670
+E05013577,Ruislip,4,Bad health,421
+E05013577,Ruislip,5,Very bad health,125
+E05013578,Ruislip Manor,-8,Does not apply,0
+E05013578,Ruislip Manor,1,Very good health,5741
+E05013578,Ruislip Manor,2,Good health,3833
+E05013578,Ruislip Manor,3,Fair health,1087
+E05013578,Ruislip Manor,4,Bad health,249
+E05013578,Ruislip Manor,5,Very bad health,70
+E05013579,South Ruislip,-8,Does not apply,0
+E05013579,South Ruislip,1,Very good health,9025
+E05013579,South Ruislip,2,Good health,5577
+E05013579,South Ruislip,3,Fair health,1658
+E05013579,South Ruislip,4,Bad health,451
+E05013579,South Ruislip,5,Very bad health,127
+E05013580,Uxbridge,-8,Does not apply,0
+E05013580,Uxbridge,1,Very good health,9334
+E05013580,Uxbridge,2,Good health,6007
+E05013580,Uxbridge,3,Fair health,1950
+E05013580,Uxbridge,4,Bad health,534
+E05013580,Uxbridge,5,Very bad health,137
+E05013581,West Drayton,-8,Does not apply,0
+E05013581,West Drayton,1,Very good health,9214
+E05013581,West Drayton,2,Good health,6308
+E05013581,West Drayton,3,Fair health,2089
+E05013581,West Drayton,4,Bad health,634
+E05013581,West Drayton,5,Very bad health,188
+E05013582,Wood End,-8,Does not apply,0
+E05013582,Wood End,1,Very good health,9611
+E05013582,Wood End,2,Good health,6714
+E05013582,Wood End,3,Fair health,2399
+E05013582,Wood End,4,Bad health,798
+E05013582,Wood End,5,Very bad health,280
+E05013583,Yeading,-8,Does not apply,0
+E05013583,Yeading,1,Very good health,6986
+E05013583,Yeading,2,Good health,4452
+E05013583,Yeading,3,Fair health,1386
+E05013583,Yeading,4,Bad health,445
+E05013583,Yeading,5,Very bad health,151
+E05013584,Yiewsley,-8,Does not apply,0
+E05013584,Yiewsley,1,Very good health,6409
+E05013584,Yiewsley,2,Good health,4154
+E05013584,Yiewsley,3,Fair health,1322
+E05013584,Yiewsley,4,Bad health,417
+E05013584,Yiewsley,5,Very bad health,104
+E05013585,Alexandra Park,-8,Does not apply,0
+E05013585,Alexandra Park,1,Very good health,5243
+E05013585,Alexandra Park,2,Good health,2654
+E05013585,Alexandra Park,3,Fair health,694
+E05013585,Alexandra Park,4,Bad health,179
+E05013585,Alexandra Park,5,Very bad health,68
+E05013586,Bounds Green,-8,Does not apply,0
+E05013586,Bounds Green,1,Very good health,5200
+E05013586,Bounds Green,2,Good health,3103
+E05013586,Bounds Green,3,Fair health,1069
+E05013586,Bounds Green,4,Bad health,332
+E05013586,Bounds Green,5,Very bad health,129
+E05013587,Bruce Castle,-8,Does not apply,0
+E05013587,Bruce Castle,1,Very good health,6602
+E05013587,Bruce Castle,2,Good health,4447
+E05013587,Bruce Castle,3,Fair health,1673
+E05013587,Bruce Castle,4,Bad health,555
+E05013587,Bruce Castle,5,Very bad health,200
+E05013588,Crouch End,-8,Does not apply,0
+E05013588,Crouch End,1,Very good health,7738
+E05013588,Crouch End,2,Good health,3724
+E05013588,Crouch End,3,Fair health,1144
+E05013588,Crouch End,4,Bad health,326
+E05013588,Crouch End,5,Very bad health,108
+E05013589,Fortis Green,-8,Does not apply,0
+E05013589,Fortis Green,1,Very good health,7385
+E05013589,Fortis Green,2,Good health,3820
+E05013589,Fortis Green,3,Fair health,1019
+E05013589,Fortis Green,4,Bad health,294
+E05013589,Fortis Green,5,Very bad health,80
+E05013590,Harringay,-8,Does not apply,0
+E05013590,Harringay,1,Very good health,7772
+E05013590,Harringay,2,Good health,4786
+E05013590,Harringay,3,Fair health,1428
+E05013590,Harringay,4,Bad health,443
+E05013590,Harringay,5,Very bad health,139
+E05013591,Hermitage & Gardens,-8,Does not apply,0
+E05013591,Hermitage & Gardens,1,Very good health,4261
+E05013591,Hermitage & Gardens,2,Good health,2841
+E05013591,Hermitage & Gardens,3,Fair health,935
+E05013591,Hermitage & Gardens,4,Bad health,310
+E05013591,Hermitage & Gardens,5,Very bad health,91
+E05013592,Highgate (Haringey),-8,Does not apply,0
+E05013592,Highgate (Haringey),1,Very good health,7680
+E05013592,Highgate (Haringey),2,Good health,3678
+E05013592,Highgate (Haringey),3,Fair health,1003
+E05013592,Highgate (Haringey),4,Bad health,294
+E05013592,Highgate (Haringey),5,Very bad health,111
+E05013593,Hornsey,-8,Does not apply,0
+E05013593,Hornsey,1,Very good health,8234
+E05013593,Hornsey,2,Good health,4637
+E05013593,Hornsey,3,Fair health,1470
+E05013593,Hornsey,4,Bad health,474
+E05013593,Hornsey,5,Very bad health,220
+E05013594,Muswell Hill,-8,Does not apply,0
+E05013594,Muswell Hill,1,Very good health,5111
+E05013594,Muswell Hill,2,Good health,2626
+E05013594,Muswell Hill,3,Fair health,751
+E05013594,Muswell Hill,4,Bad health,218
+E05013594,Muswell Hill,5,Very bad health,72
+E05013595,Noel Park,-8,Does not apply,0
+E05013595,Noel Park,1,Very good health,6490
+E05013595,Noel Park,2,Good health,4663
+E05013595,Noel Park,3,Fair health,1666
+E05013595,Noel Park,4,Bad health,660
+E05013595,Noel Park,5,Very bad health,233
+E05013596,Northumberland Park,-8,Does not apply,0
+E05013596,Northumberland Park,1,Very good health,7077
+E05013596,Northumberland Park,2,Good health,4836
+E05013596,Northumberland Park,3,Fair health,1885
+E05013596,Northumberland Park,4,Bad health,681
+E05013596,Northumberland Park,5,Very bad health,225
+E05013597,St Ann's (Haringey),-8,Does not apply,0
+E05013597,St Ann's (Haringey),1,Very good health,5370
+E05013597,St Ann's (Haringey),2,Good health,3462
+E05013597,St Ann's (Haringey),3,Fair health,1141
+E05013597,St Ann's (Haringey),4,Bad health,462
+E05013597,St Ann's (Haringey),5,Very bad health,155
+E05013598,Seven Sisters,-8,Does not apply,0
+E05013598,Seven Sisters,1,Very good health,4850
+E05013598,Seven Sisters,2,Good health,2888
+E05013598,Seven Sisters,3,Fair health,963
+E05013598,Seven Sisters,4,Bad health,399
+E05013598,Seven Sisters,5,Very bad health,138
+E05013599,South Tottenham,-8,Does not apply,0
+E05013599,South Tottenham,1,Very good health,10027
+E05013599,South Tottenham,2,Good health,4527
+E05013599,South Tottenham,3,Fair health,1428
+E05013599,South Tottenham,4,Bad health,575
+E05013599,South Tottenham,5,Very bad health,264
+E05013600,Stroud Green,-8,Does not apply,0
+E05013600,Stroud Green,1,Very good health,6118
+E05013600,Stroud Green,2,Good health,3205
+E05013600,Stroud Green,3,Fair health,985
+E05013600,Stroud Green,4,Bad health,343
+E05013600,Stroud Green,5,Very bad health,141
+E05013601,Tottenham Central,-8,Does not apply,0
+E05013601,Tottenham Central,1,Very good health,7303
+E05013601,Tottenham Central,2,Good health,5024
+E05013601,Tottenham Central,3,Fair health,1633
+E05013601,Tottenham Central,4,Bad health,591
+E05013601,Tottenham Central,5,Very bad health,188
+E05013602,Tottenham Hale,-8,Does not apply,0
+E05013602,Tottenham Hale,1,Very good health,6208
+E05013602,Tottenham Hale,2,Good health,4158
+E05013602,Tottenham Hale,3,Fair health,1210
+E05013602,Tottenham Hale,4,Bad health,489
+E05013602,Tottenham Hale,5,Very bad health,113
+E05013603,West Green,-8,Does not apply,0
+E05013603,West Green,1,Very good health,7439
+E05013603,West Green,2,Good health,4987
+E05013603,West Green,3,Fair health,1775
+E05013603,West Green,4,Bad health,599
+E05013603,West Green,5,Very bad health,168
+E05013604,White Hart Lane,-8,Does not apply,0
+E05013604,White Hart Lane,1,Very good health,6473
+E05013604,White Hart Lane,2,Good health,4589
+E05013604,White Hart Lane,3,Fair health,1877
+E05013604,White Hart Lane,4,Bad health,699
+E05013604,White Hart Lane,5,Very bad health,244
+E05013605,Woodside (Haringey),-8,Does not apply,0
+E05013605,Woodside (Haringey),1,Very good health,7603
+E05013605,Woodside (Haringey),2,Good health,5155
+E05013605,Woodside (Haringey),3,Fair health,1659
+E05013605,Woodside (Haringey),4,Bad health,642
+E05013605,Woodside (Haringey),5,Very bad health,186
+E05013606,Bedfont,-8,Does not apply,0
+E05013606,Bedfont,1,Very good health,7529
+E05013606,Bedfont,2,Good health,5155
+E05013606,Bedfont,3,Fair health,1806
+E05013606,Bedfont,4,Bad health,508
+E05013606,Bedfont,5,Very bad health,151
+E05013607,Brentford East,-8,Does not apply,0
+E05013607,Brentford East,1,Very good health,4578
+E05013607,Brentford East,2,Good health,2679
+E05013607,Brentford East,3,Fair health,977
+E05013607,Brentford East,4,Bad health,336
+E05013607,Brentford East,5,Very bad health,122
+E05013608,Brentford West,-8,Does not apply,0
+E05013608,Brentford West,1,Very good health,4295
+E05013608,Brentford West,2,Good health,2519
+E05013608,Brentford West,3,Fair health,748
+E05013608,Brentford West,4,Bad health,245
+E05013608,Brentford West,5,Very bad health,74
+E05013609,Chiswick Gunnersbury,-8,Does not apply,0
+E05013609,Chiswick Gunnersbury,1,Very good health,7294
+E05013609,Chiswick Gunnersbury,2,Good health,3818
+E05013609,Chiswick Gunnersbury,3,Fair health,1119
+E05013609,Chiswick Gunnersbury,4,Bad health,351
+E05013609,Chiswick Gunnersbury,5,Very bad health,114
+E05013610,Chiswick Homefields,-8,Does not apply,0
+E05013610,Chiswick Homefields,1,Very good health,8083
+E05013610,Chiswick Homefields,2,Good health,4080
+E05013610,Chiswick Homefields,3,Fair health,1122
+E05013610,Chiswick Homefields,4,Bad health,337
+E05013610,Chiswick Homefields,5,Very bad health,119
+E05013611,Chiswick Riverside,-8,Does not apply,0
+E05013611,Chiswick Riverside,1,Very good health,6152
+E05013611,Chiswick Riverside,2,Good health,3036
+E05013611,Chiswick Riverside,3,Fair health,785
+E05013611,Chiswick Riverside,4,Bad health,241
+E05013611,Chiswick Riverside,5,Very bad health,88
+E05013612,Cranford,-8,Does not apply,0
+E05013612,Cranford,1,Very good health,7768
+E05013612,Cranford,2,Good health,5682
+E05013612,Cranford,3,Fair health,1891
+E05013612,Cranford,4,Bad health,529
+E05013612,Cranford,5,Very bad health,159
+E05013613,Feltham North,-8,Does not apply,0
+E05013613,Feltham North,1,Very good health,6319
+E05013613,Feltham North,2,Good health,4380
+E05013613,Feltham North,3,Fair health,1595
+E05013613,Feltham North,4,Bad health,469
+E05013613,Feltham North,5,Very bad health,142
+E05013614,Feltham West,-8,Does not apply,0
+E05013614,Feltham West,1,Very good health,8530
+E05013614,Feltham West,2,Good health,5445
+E05013614,Feltham West,3,Fair health,1645
+E05013614,Feltham West,4,Bad health,468
+E05013614,Feltham West,5,Very bad health,136
+E05013615,Hanworth Park,-8,Does not apply,0
+E05013615,Hanworth Park,1,Very good health,5262
+E05013615,Hanworth Park,2,Good health,3567
+E05013615,Hanworth Park,3,Fair health,1183
+E05013615,Hanworth Park,4,Bad health,315
+E05013615,Hanworth Park,5,Very bad health,77
+E05013616,Hanworth Village,-8,Does not apply,0
+E05013616,Hanworth Village,1,Very good health,8103
+E05013616,Hanworth Village,2,Good health,5432
+E05013616,Hanworth Village,3,Fair health,1932
+E05013616,Hanworth Village,4,Bad health,582
+E05013616,Hanworth Village,5,Very bad health,216
+E05013617,Heston Central,-8,Does not apply,0
+E05013617,Heston Central,1,Very good health,7101
+E05013617,Heston Central,2,Good health,5120
+E05013617,Heston Central,3,Fair health,1626
+E05013617,Heston Central,4,Bad health,513
+E05013617,Heston Central,5,Very bad health,174
+E05013618,Heston East,-8,Does not apply,0
+E05013618,Heston East,1,Very good health,5446
+E05013618,Heston East,2,Good health,3999
+E05013618,Heston East,3,Fair health,1244
+E05013618,Heston East,4,Bad health,378
+E05013618,Heston East,5,Very bad health,92
+E05013619,Heston West,-8,Does not apply,0
+E05013619,Heston West,1,Very good health,7779
+E05013619,Heston West,2,Good health,5377
+E05013619,Heston West,3,Fair health,1844
+E05013619,Heston West,4,Bad health,546
+E05013619,Heston West,5,Very bad health,187
+E05013620,Hounslow Central,-8,Does not apply,0
+E05013620,Hounslow Central,1,Very good health,5757
+E05013620,Hounslow Central,2,Good health,3677
+E05013620,Hounslow Central,3,Fair health,891
+E05013620,Hounslow Central,4,Bad health,243
+E05013620,Hounslow Central,5,Very bad health,91
+E05013621,Hounslow East,-8,Does not apply,0
+E05013621,Hounslow East,1,Very good health,4349
+E05013621,Hounslow East,2,Good health,2998
+E05013621,Hounslow East,3,Fair health,970
+E05013621,Hounslow East,4,Bad health,275
+E05013621,Hounslow East,5,Very bad health,80
+E05013622,Hounslow Heath,-8,Does not apply,0
+E05013622,Hounslow Heath,1,Very good health,8006
+E05013622,Hounslow Heath,2,Good health,5674
+E05013622,Hounslow Heath,3,Fair health,1718
+E05013622,Hounslow Heath,4,Bad health,531
+E05013622,Hounslow Heath,5,Very bad health,146
+E05013623,Hounslow South,-8,Does not apply,0
+E05013623,Hounslow South,1,Very good health,7045
+E05013623,Hounslow South,2,Good health,4661
+E05013623,Hounslow South,3,Fair health,1500
+E05013623,Hounslow South,4,Bad health,410
+E05013623,Hounslow South,5,Very bad health,129
+E05013624,Hounslow West,-8,Does not apply,0
+E05013624,Hounslow West,1,Very good health,7919
+E05013624,Hounslow West,2,Good health,5627
+E05013624,Hounslow West,3,Fair health,1689
+E05013624,Hounslow West,4,Bad health,508
+E05013624,Hounslow West,5,Very bad health,172
+E05013625,Isleworth,-8,Does not apply,0
+E05013625,Isleworth,1,Very good health,7494
+E05013625,Isleworth,2,Good health,4332
+E05013625,Isleworth,3,Fair health,1334
+E05013625,Isleworth,4,Bad health,470
+E05013625,Isleworth,5,Very bad health,169
+E05013626,Osterley & Spring Grove,-8,Does not apply,0
+E05013626,Osterley & Spring Grove,1,Very good health,7887
+E05013626,Osterley & Spring Grove,2,Good health,4934
+E05013626,Osterley & Spring Grove,3,Fair health,1392
+E05013626,Osterley & Spring Grove,4,Bad health,344
+E05013626,Osterley & Spring Grove,5,Very bad health,103
+E05013627,Syon & Brentford Lock,-8,Does not apply,0
+E05013627,Syon & Brentford Lock,1,Very good health,6927
+E05013627,Syon & Brentford Lock,2,Good health,4123
+E05013627,Syon & Brentford Lock,3,Fair health,1312
+E05013627,Syon & Brentford Lock,4,Bad health,423
+E05013627,Syon & Brentford Lock,5,Very bad health,163
+E05013628,Barnet Vale,-8,Does not apply,0
+E05013628,Barnet Vale,1,Very good health,8955
+E05013628,Barnet Vale,2,Good health,5525
+E05013628,Barnet Vale,3,Fair health,1746
+E05013628,Barnet Vale,4,Bad health,505
+E05013628,Barnet Vale,5,Very bad health,136
+E05013629,Brunswick Park,-8,Does not apply,0
+E05013629,Brunswick Park,1,Very good health,8469
+E05013629,Brunswick Park,2,Good health,5201
+E05013629,Brunswick Park,3,Fair health,1922
+E05013629,Brunswick Park,4,Bad health,470
+E05013629,Brunswick Park,5,Very bad health,151
+E05013630,Burnt Oak,-8,Does not apply,0
+E05013630,Burnt Oak,1,Very good health,11200
+E05013630,Burnt Oak,2,Good health,7118
+E05013630,Burnt Oak,3,Fair health,2456
+E05013630,Burnt Oak,4,Bad health,807
+E05013630,Burnt Oak,5,Very bad health,276
+E05013631,Childs Hill,-8,Does not apply,0
+E05013631,Childs Hill,1,Very good health,11031
+E05013631,Childs Hill,2,Good health,5810
+E05013631,Childs Hill,3,Fair health,1948
+E05013631,Childs Hill,4,Bad health,619
+E05013631,Childs Hill,5,Very bad health,221
+E05013632,Colindale North,-8,Does not apply,0
+E05013632,Colindale North,1,Very good health,6598
+E05013632,Colindale North,2,Good health,3772
+E05013632,Colindale North,3,Fair health,1150
+E05013632,Colindale North,4,Bad health,413
+E05013632,Colindale North,5,Very bad health,129
+E05013633,Colindale South,-8,Does not apply,0
+E05013633,Colindale South,1,Very good health,10668
+E05013633,Colindale South,2,Good health,6298
+E05013633,Colindale South,3,Fair health,1743
+E05013633,Colindale South,4,Bad health,524
+E05013633,Colindale South,5,Very bad health,181
+E05013634,Cricklewood,-8,Does not apply,0
+E05013634,Cricklewood,1,Very good health,5569
+E05013634,Cricklewood,2,Good health,3437
+E05013634,Cricklewood,3,Fair health,1175
+E05013634,Cricklewood,4,Bad health,403
+E05013634,Cricklewood,5,Very bad health,140
+E05013635,East Barnet,-8,Does not apply,0
+E05013635,East Barnet,1,Very good health,9817
+E05013635,East Barnet,2,Good health,5711
+E05013635,East Barnet,3,Fair health,1878
+E05013635,East Barnet,4,Bad health,562
+E05013635,East Barnet,5,Very bad health,175
+E05013636,East Finchley,-8,Does not apply,0
+E05013636,East Finchley,1,Very good health,9053
+E05013636,East Finchley,2,Good health,5114
+E05013636,East Finchley,3,Fair health,1725
+E05013636,East Finchley,4,Bad health,517
+E05013636,East Finchley,5,Very bad health,230
+E05013637,Edgware (Barnet),-8,Does not apply,0
+E05013637,Edgware (Barnet),1,Very good health,10920
+E05013637,Edgware (Barnet),2,Good health,6382
+E05013637,Edgware (Barnet),3,Fair health,2010
+E05013637,Edgware (Barnet),4,Bad health,526
+E05013637,Edgware (Barnet),5,Very bad health,159
+E05013638,Edgwarebury,-8,Does not apply,0
+E05013638,Edgwarebury,1,Very good health,6764
+E05013638,Edgwarebury,2,Good health,3588
+E05013638,Edgwarebury,3,Fair health,1257
+E05013638,Edgwarebury,4,Bad health,379
+E05013638,Edgwarebury,5,Very bad health,121
+E05013639,Finchley Church End,-8,Does not apply,0
+E05013639,Finchley Church End,1,Very good health,10460
+E05013639,Finchley Church End,2,Good health,5818
+E05013639,Finchley Church End,3,Fair health,1903
+E05013639,Finchley Church End,4,Bad health,495
+E05013639,Finchley Church End,5,Very bad health,164
+E05013640,Friern Barnet,-8,Does not apply,0
+E05013640,Friern Barnet,1,Very good health,10442
+E05013640,Friern Barnet,2,Good health,6115
+E05013640,Friern Barnet,3,Fair health,2068
+E05013640,Friern Barnet,4,Bad health,613
+E05013640,Friern Barnet,5,Very bad health,212
+E05013641,Garden Suburb,-8,Does not apply,0
+E05013641,Garden Suburb,1,Very good health,7388
+E05013641,Garden Suburb,2,Good health,3514
+E05013641,Garden Suburb,3,Fair health,987
+E05013641,Garden Suburb,4,Bad health,244
+E05013641,Garden Suburb,5,Very bad health,76
+E05013642,Golders Green,-8,Does not apply,0
+E05013642,Golders Green,1,Very good health,9634
+E05013642,Golders Green,2,Good health,3299
+E05013642,Golders Green,3,Fair health,1254
+E05013642,Golders Green,4,Bad health,392
+E05013642,Golders Green,5,Very bad health,166
+E05013643,Hendon (Barnet),-8,Does not apply,0
+E05013643,Hendon (Barnet),1,Very good health,12773
+E05013643,Hendon (Barnet),2,Good health,6452
+E05013643,Hendon (Barnet),3,Fair health,1998
+E05013643,Hendon (Barnet),4,Bad health,575
+E05013643,Hendon (Barnet),5,Very bad health,183
+E05013644,High Barnet,-8,Does not apply,0
+E05013644,High Barnet,1,Very good health,6369
+E05013644,High Barnet,2,Good health,3826
+E05013644,High Barnet,3,Fair health,1199
+E05013644,High Barnet,4,Bad health,404
+E05013644,High Barnet,5,Very bad health,132
+E05013645,Mill Hill (Barnet),-8,Does not apply,0
+E05013645,Mill Hill (Barnet),1,Very good health,10326
+E05013645,Mill Hill (Barnet),2,Good health,5567
+E05013645,Mill Hill (Barnet),3,Fair health,1709
+E05013645,Mill Hill (Barnet),4,Bad health,533
+E05013645,Mill Hill (Barnet),5,Very bad health,175
+E05013646,Totteridge & Woodside,-8,Does not apply,0
+E05013646,Totteridge & Woodside,1,Very good health,8451
+E05013646,Totteridge & Woodside,2,Good health,4319
+E05013646,Totteridge & Woodside,3,Fair health,1272
+E05013646,Totteridge & Woodside,4,Bad health,365
+E05013646,Totteridge & Woodside,5,Very bad health,88
+E05013647,Underhill,-8,Does not apply,0
+E05013647,Underhill,1,Very good health,6235
+E05013647,Underhill,2,Good health,4070
+E05013647,Underhill,3,Fair health,1430
+E05013647,Underhill,4,Bad health,481
+E05013647,Underhill,5,Very bad health,156
+E05013648,West Finchley,-8,Does not apply,0
+E05013648,West Finchley,1,Very good health,10620
+E05013648,West Finchley,2,Good health,6105
+E05013648,West Finchley,3,Fair health,1989
+E05013648,West Finchley,4,Bad health,538
+E05013648,West Finchley,5,Very bad health,178
+E05013649,West Hendon,-8,Does not apply,0
+E05013649,West Hendon,1,Very good health,8817
+E05013649,West Hendon,2,Good health,5856
+E05013649,West Hendon,3,Fair health,1849
+E05013649,West Hendon,4,Bad health,516
+E05013649,West Hendon,5,Very bad health,215
+E05013650,Whetstone,-8,Does not apply,0
+E05013650,Whetstone,1,Very good health,5904
+E05013650,Whetstone,2,Good health,3379
+E05013650,Whetstone,3,Fair health,1072
+E05013650,Whetstone,4,Bad health,305
+E05013650,Whetstone,5,Very bad health,110
+E05013651,Woodhouse (Barnet),-8,Does not apply,0
+E05013651,Woodhouse (Barnet),1,Very good health,7111
+E05013651,Woodhouse (Barnet),2,Good health,4531
+E05013651,Woodhouse (Barnet),3,Fair health,1575
+E05013651,Woodhouse (Barnet),4,Bad health,544
+E05013651,Woodhouse (Barnet),5,Very bad health,153
+E05013652,Belsize,-8,Does not apply,0
+E05013652,Belsize,1,Very good health,7911
+E05013652,Belsize,2,Good health,3226
+E05013652,Belsize,3,Fair health,832
+E05013652,Belsize,4,Bad health,251
+E05013652,Belsize,5,Very bad health,79
+E05013653,Bloomsbury,-8,Does not apply,0
+E05013653,Bloomsbury,1,Very good health,6033
+E05013653,Bloomsbury,2,Good health,3503
+E05013653,Bloomsbury,3,Fair health,1048
+E05013653,Bloomsbury,4,Bad health,383
+E05013653,Bloomsbury,5,Very bad health,127
+E05013654,Camden Square,-8,Does not apply,0
+E05013654,Camden Square,1,Very good health,4065
+E05013654,Camden Square,2,Good health,2275
+E05013654,Camden Square,3,Fair health,806
+E05013654,Camden Square,4,Bad health,297
+E05013654,Camden Square,5,Very bad health,114
+E05013655,Camden Town,-8,Does not apply,0
+E05013655,Camden Town,1,Very good health,3358
+E05013655,Camden Town,2,Good health,1951
+E05013655,Camden Town,3,Fair health,757
+E05013655,Camden Town,4,Bad health,236
+E05013655,Camden Town,5,Very bad health,86
+E05013656,Fortune Green,-8,Does not apply,0
+E05013656,Fortune Green,1,Very good health,6551
+E05013656,Fortune Green,2,Good health,3361
+E05013656,Fortune Green,3,Fair health,1014
+E05013656,Fortune Green,4,Bad health,360
+E05013656,Fortune Green,5,Very bad health,124
+E05013657,Frognal,-8,Does not apply,0
+E05013657,Frognal,1,Very good health,4849
+E05013657,Frognal,2,Good health,2141
+E05013657,Frognal,3,Fair health,551
+E05013657,Frognal,4,Bad health,133
+E05013657,Frognal,5,Very bad health,51
+E05013658,Gospel Oak,-8,Does not apply,0
+E05013658,Gospel Oak,1,Very good health,6138
+E05013658,Gospel Oak,2,Good health,3352
+E05013658,Gospel Oak,3,Fair health,1331
+E05013658,Gospel Oak,4,Bad health,587
+E05013658,Gospel Oak,5,Very bad health,208
+E05013659,Hampstead Town,-8,Does not apply,0
+E05013659,Hampstead Town,1,Very good health,5082
+E05013659,Hampstead Town,2,Good health,2161
+E05013659,Hampstead Town,3,Fair health,569
+E05013659,Hampstead Town,4,Bad health,169
+E05013659,Hampstead Town,5,Very bad health,34
+E05013660,Haverstock,-8,Does not apply,0
+E05013660,Haverstock,1,Very good health,6298
+E05013660,Haverstock,2,Good health,3535
+E05013660,Haverstock,3,Fair health,1474
+E05013660,Haverstock,4,Bad health,532
+E05013660,Haverstock,5,Very bad health,199
+E05013661,Highgate (Camden),-8,Does not apply,0
+E05013661,Highgate (Camden),1,Very good health,5586
+E05013661,Highgate (Camden),2,Good health,3017
+E05013661,Highgate (Camden),3,Fair health,1051
+E05013661,Highgate (Camden),4,Bad health,447
+E05013661,Highgate (Camden),5,Very bad health,125
+E05013662,Holborn & Covent Garden,-8,Does not apply,0
+E05013662,Holborn & Covent Garden,1,Very good health,5357
+E05013662,Holborn & Covent Garden,2,Good health,3145
+E05013662,Holborn & Covent Garden,3,Fair health,1163
+E05013662,Holborn & Covent Garden,4,Bad health,517
+E05013662,Holborn & Covent Garden,5,Very bad health,176
+E05013663,Kentish Town North,-8,Does not apply,0
+E05013663,Kentish Town North,1,Very good health,3977
+E05013663,Kentish Town North,2,Good health,2084
+E05013663,Kentish Town North,3,Fair health,721
+E05013663,Kentish Town North,4,Bad health,289
+E05013663,Kentish Town North,5,Very bad health,86
+E05013664,Kentish Town South,-8,Does not apply,0
+E05013664,Kentish Town South,1,Very good health,5683
+E05013664,Kentish Town South,2,Good health,3038
+E05013664,Kentish Town South,3,Fair health,1088
+E05013664,Kentish Town South,4,Bad health,467
+E05013664,Kentish Town South,5,Very bad health,145
+E05013665,Kilburn (Camden),-8,Does not apply,0
+E05013665,Kilburn (Camden),1,Very good health,6175
+E05013665,Kilburn (Camden),2,Good health,3648
+E05013665,Kilburn (Camden),3,Fair health,1454
+E05013665,Kilburn (Camden),4,Bad health,586
+E05013665,Kilburn (Camden),5,Very bad health,198
+E05013666,King's Cross,-8,Does not apply,0
+E05013666,King's Cross,1,Very good health,6114
+E05013666,King's Cross,2,Good health,3599
+E05013666,King's Cross,3,Fair health,1163
+E05013666,King's Cross,4,Bad health,452
+E05013666,King's Cross,5,Very bad health,134
+E05013667,Primrose Hill,-8,Does not apply,0
+E05013667,Primrose Hill,1,Very good health,7407
+E05013667,Primrose Hill,2,Good health,3402
+E05013667,Primrose Hill,3,Fair health,1179
+E05013667,Primrose Hill,4,Bad health,427
+E05013667,Primrose Hill,5,Very bad health,127
+E05013668,Regent's Park (Camden),-8,Does not apply,0
+E05013668,Regent's Park (Camden),1,Very good health,6205
+E05013668,Regent's Park (Camden),2,Good health,3745
+E05013668,Regent's Park (Camden),3,Fair health,1317
+E05013668,Regent's Park (Camden),4,Bad health,493
+E05013668,Regent's Park (Camden),5,Very bad health,166
+E05013669,St Pancras & Somers Town,-8,Does not apply,0
+E05013669,St Pancras & Somers Town,1,Very good health,6130
+E05013669,St Pancras & Somers Town,2,Good health,3852
+E05013669,St Pancras & Somers Town,3,Fair health,1619
+E05013669,St Pancras & Somers Town,4,Bad health,687
+E05013669,St Pancras & Somers Town,5,Very bad health,224
+E05013670,South Hampstead,-8,Does not apply,0
+E05013670,South Hampstead,1,Very good health,7354
+E05013670,South Hampstead,2,Good health,3426
+E05013670,South Hampstead,3,Fair health,959
+E05013670,South Hampstead,4,Bad health,321
+E05013670,South Hampstead,5,Very bad health,103
+E05013671,West Hampstead,-8,Does not apply,0
+E05013671,West Hampstead,1,Very good health,6417
+E05013671,West Hampstead,2,Good health,3199
+E05013671,West Hampstead,3,Fair health,1013
+E05013671,West Hampstead,4,Bad health,381
+E05013671,West Hampstead,5,Very bad health,152
+E05013672,Arnos Grove,-8,Does not apply,0
+E05013672,Arnos Grove,1,Very good health,4333
+E05013672,Arnos Grove,2,Good health,2727
+E05013672,Arnos Grove,3,Fair health,891
+E05013672,Arnos Grove,4,Bad health,190
+E05013672,Arnos Grove,5,Very bad health,78
+E05013673,Bowes,-8,Does not apply,0
+E05013673,Bowes,1,Very good health,5491
+E05013673,Bowes,2,Good health,3552
+E05013673,Bowes,3,Fair health,1248
+E05013673,Bowes,4,Bad health,394
+E05013673,Bowes,5,Very bad health,106
+E05013674,Brimsdown,-8,Does not apply,0
+E05013674,Brimsdown,1,Very good health,7983
+E05013674,Brimsdown,2,Good health,5475
+E05013674,Brimsdown,3,Fair health,1841
+E05013674,Brimsdown,4,Bad health,713
+E05013674,Brimsdown,5,Very bad health,238
+E05013675,Bullsmoor,-8,Does not apply,0
+E05013675,Bullsmoor,1,Very good health,5433
+E05013675,Bullsmoor,2,Good health,3735
+E05013675,Bullsmoor,3,Fair health,1572
+E05013675,Bullsmoor,4,Bad health,518
+E05013675,Bullsmoor,5,Very bad health,201
+E05013676,Bush Hill Park,-8,Does not apply,0
+E05013676,Bush Hill Park,1,Very good health,6323
+E05013676,Bush Hill Park,2,Good health,4336
+E05013676,Bush Hill Park,3,Fair health,1478
+E05013676,Bush Hill Park,4,Bad health,428
+E05013676,Bush Hill Park,5,Very bad health,143
+E05013677,Carterhatch,-8,Does not apply,0
+E05013677,Carterhatch,1,Very good health,6130
+E05013677,Carterhatch,2,Good health,3977
+E05013677,Carterhatch,3,Fair health,1542
+E05013677,Carterhatch,4,Bad health,521
+E05013677,Carterhatch,5,Very bad health,197
+E05013678,Cockfosters,-8,Does not apply,0
+E05013678,Cockfosters,1,Very good health,5571
+E05013678,Cockfosters,2,Good health,3312
+E05013678,Cockfosters,3,Fair health,1178
+E05013678,Cockfosters,4,Bad health,411
+E05013678,Cockfosters,5,Very bad health,135
+E05013679,Edmonton Green,-8,Does not apply,0
+E05013679,Edmonton Green,1,Very good health,8336
+E05013679,Edmonton Green,2,Good health,5561
+E05013679,Edmonton Green,3,Fair health,2139
+E05013679,Edmonton Green,4,Bad health,829
+E05013679,Edmonton Green,5,Very bad health,268
+E05013680,Enfield Lock,-8,Does not apply,0
+E05013680,Enfield Lock,1,Very good health,8824
+E05013680,Enfield Lock,2,Good health,6019
+E05013680,Enfield Lock,3,Fair health,2037
+E05013680,Enfield Lock,4,Bad health,689
+E05013680,Enfield Lock,5,Very bad health,246
+E05013681,Grange Park,-8,Does not apply,0
+E05013681,Grange Park,1,Very good health,5108
+E05013681,Grange Park,2,Good health,3043
+E05013681,Grange Park,3,Fair health,910
+E05013681,Grange Park,4,Bad health,232
+E05013681,Grange Park,5,Very bad health,69
+E05013682,Haselbury,-8,Does not apply,0
+E05013682,Haselbury,1,Very good health,8710
+E05013682,Haselbury,2,Good health,6335
+E05013682,Haselbury,3,Fair health,2142
+E05013682,Haselbury,4,Bad health,714
+E05013682,Haselbury,5,Very bad health,234
+E05013683,Highfield (Enfield),-8,Does not apply,0
+E05013683,Highfield (Enfield),1,Very good health,4521
+E05013683,Highfield (Enfield),2,Good health,3133
+E05013683,Highfield (Enfield),3,Fair health,1122
+E05013683,Highfield (Enfield),4,Bad health,368
+E05013683,Highfield (Enfield),5,Very bad health,105
+E05013684,Jubilee (Enfield),-8,Does not apply,0
+E05013684,Jubilee (Enfield),1,Very good health,8123
+E05013684,Jubilee (Enfield),2,Good health,5459
+E05013684,Jubilee (Enfield),3,Fair health,2035
+E05013684,Jubilee (Enfield),4,Bad health,689
+E05013684,Jubilee (Enfield),5,Very bad health,240
+E05013685,Lower Edmonton,-8,Does not apply,0
+E05013685,Lower Edmonton,1,Very good health,8075
+E05013685,Lower Edmonton,2,Good health,5498
+E05013685,Lower Edmonton,3,Fair health,2081
+E05013685,Lower Edmonton,4,Bad health,684
+E05013685,Lower Edmonton,5,Very bad health,215
+E05013686,New Southgate,-8,Does not apply,0
+E05013686,New Southgate,1,Very good health,6259
+E05013686,New Southgate,2,Good health,3886
+E05013686,New Southgate,3,Fair health,1242
+E05013686,New Southgate,4,Bad health,386
+E05013686,New Southgate,5,Very bad health,134
+E05013687,Oakwood (Enfield),-8,Does not apply,0
+E05013687,Oakwood (Enfield),1,Very good health,4623
+E05013687,Oakwood (Enfield),2,Good health,2902
+E05013687,Oakwood (Enfield),3,Fair health,902
+E05013687,Oakwood (Enfield),4,Bad health,241
+E05013687,Oakwood (Enfield),5,Very bad health,79
+E05013688,Palmers Green,-8,Does not apply,0
+E05013688,Palmers Green,1,Very good health,5744
+E05013688,Palmers Green,2,Good health,3675
+E05013688,Palmers Green,3,Fair health,1175
+E05013688,Palmers Green,4,Bad health,320
+E05013688,Palmers Green,5,Very bad health,100
+E05013689,Ponders End,-8,Does not apply,0
+E05013689,Ponders End,1,Very good health,6941
+E05013689,Ponders End,2,Good health,4396
+E05013689,Ponders End,3,Fair health,1592
+E05013689,Ponders End,4,Bad health,599
+E05013689,Ponders End,5,Very bad health,155
+E05013690,Ridgeway (Enfield),-8,Does not apply,0
+E05013690,Ridgeway (Enfield),1,Very good health,6491
+E05013690,Ridgeway (Enfield),2,Good health,4163
+E05013690,Ridgeway (Enfield),3,Fair health,1381
+E05013690,Ridgeway (Enfield),4,Bad health,378
+E05013690,Ridgeway (Enfield),5,Very bad health,119
+E05013691,Southbury,-8,Does not apply,0
+E05013691,Southbury,1,Very good health,8160
+E05013691,Southbury,2,Good health,5296
+E05013691,Southbury,3,Fair health,1749
+E05013691,Southbury,4,Bad health,530
+E05013691,Southbury,5,Very bad health,172
+E05013692,Southgate (Enfield),-8,Does not apply,0
+E05013692,Southgate (Enfield),1,Very good health,7697
+E05013692,Southgate (Enfield),2,Good health,4715
+E05013692,Southgate (Enfield),3,Fair health,1578
+E05013692,Southgate (Enfield),4,Bad health,424
+E05013692,Southgate (Enfield),5,Very bad health,101
+E05013693,Town (Enfield),-8,Does not apply,0
+E05013693,Town (Enfield),1,Very good health,7095
+E05013693,Town (Enfield),2,Good health,4522
+E05013693,Town (Enfield),3,Fair health,1430
+E05013693,Town (Enfield),4,Bad health,360
+E05013693,Town (Enfield),5,Very bad health,111
+E05013694,Upper Edmonton,-8,Does not apply,0
+E05013694,Upper Edmonton,1,Very good health,8449
+E05013694,Upper Edmonton,2,Good health,5352
+E05013694,Upper Edmonton,3,Fair health,1950
+E05013694,Upper Edmonton,4,Bad health,738
+E05013694,Upper Edmonton,5,Very bad health,235
+E05013695,Whitewebbs,-8,Does not apply,0
+E05013695,Whitewebbs,1,Very good health,6972
+E05013695,Whitewebbs,2,Good health,4503
+E05013695,Whitewebbs,3,Fair health,1609
+E05013695,Whitewebbs,4,Bad health,544
+E05013695,Whitewebbs,5,Very bad health,215
+E05013696,Winchmore Hill,-8,Does not apply,0
+E05013696,Winchmore Hill,1,Very good health,5728
+E05013696,Winchmore Hill,2,Good health,3348
+E05013696,Winchmore Hill,3,Fair health,996
+E05013696,Winchmore Hill,4,Bad health,252
+E05013696,Winchmore Hill,5,Very bad health,75
+E05013697,Arsenal,-8,Does not apply,0
+E05013697,Arsenal,1,Very good health,7787
+E05013697,Arsenal,2,Good health,3707
+E05013697,Arsenal,3,Fair health,1088
+E05013697,Arsenal,4,Bad health,400
+E05013697,Arsenal,5,Very bad health,144
+E05013698,Barnsbury,-8,Does not apply,0
+E05013698,Barnsbury,1,Very good health,6598
+E05013698,Barnsbury,2,Good health,3376
+E05013698,Barnsbury,3,Fair health,1139
+E05013698,Barnsbury,4,Bad health,442
+E05013698,Barnsbury,5,Very bad health,154
+E05013699,Bunhill,-8,Does not apply,0
+E05013699,Bunhill,1,Very good health,6087
+E05013699,Bunhill,2,Good health,3423
+E05013699,Bunhill,3,Fair health,1085
+E05013699,Bunhill,4,Bad health,406
+E05013699,Bunhill,5,Very bad health,163
+E05013700,Caledonian,-8,Does not apply,0
+E05013700,Caledonian,1,Very good health,6200
+E05013700,Caledonian,2,Good health,3394
+E05013700,Caledonian,3,Fair health,1281
+E05013700,Caledonian,4,Bad health,544
+E05013700,Caledonian,5,Very bad health,160
+E05013701,Canonbury,-8,Does not apply,0
+E05013701,Canonbury,1,Very good health,6884
+E05013701,Canonbury,2,Good health,3625
+E05013701,Canonbury,3,Fair health,1346
+E05013701,Canonbury,4,Bad health,618
+E05013701,Canonbury,5,Very bad health,193
+E05013702,Clerkenwell,-8,Does not apply,0
+E05013702,Clerkenwell,1,Very good health,5936
+E05013702,Clerkenwell,2,Good health,3277
+E05013702,Clerkenwell,3,Fair health,1154
+E05013702,Clerkenwell,4,Bad health,455
+E05013702,Clerkenwell,5,Very bad health,132
+E05013703,Finsbury Park,-8,Does not apply,0
+E05013703,Finsbury Park,1,Very good health,7698
+E05013703,Finsbury Park,2,Good health,4442
+E05013703,Finsbury Park,3,Fair health,1613
+E05013703,Finsbury Park,4,Bad health,634
+E05013703,Finsbury Park,5,Very bad health,259
+E05013704,Highbury,-8,Does not apply,0
+E05013704,Highbury,1,Very good health,8217
+E05013704,Highbury,2,Good health,3781
+E05013704,Highbury,3,Fair health,1233
+E05013704,Highbury,4,Bad health,401
+E05013704,Highbury,5,Very bad health,179
+E05013705,Hillrise,-8,Does not apply,0
+E05013705,Hillrise,1,Very good health,7761
+E05013705,Hillrise,2,Good health,4561
+E05013705,Hillrise,3,Fair health,1704
+E05013705,Hillrise,4,Bad health,718
+E05013705,Hillrise,5,Very bad health,226
+E05013706,Holloway,-8,Does not apply,0
+E05013706,Holloway,1,Very good health,6784
+E05013706,Holloway,2,Good health,3923
+E05013706,Holloway,3,Fair health,1363
+E05013706,Holloway,4,Bad health,491
+E05013706,Holloway,5,Very bad health,176
+E05013707,Junction,-8,Does not apply,0
+E05013707,Junction,1,Very good health,6900
+E05013707,Junction,2,Good health,3767
+E05013707,Junction,3,Fair health,1449
+E05013707,Junction,4,Bad health,545
+E05013707,Junction,5,Very bad health,193
+E05013708,Laycock,-8,Does not apply,0
+E05013708,Laycock,1,Very good health,6500
+E05013708,Laycock,2,Good health,3599
+E05013708,Laycock,3,Fair health,1489
+E05013708,Laycock,4,Bad health,617
+E05013708,Laycock,5,Very bad health,237
+E05013709,Mildmay,-8,Does not apply,0
+E05013709,Mildmay,1,Very good health,7868
+E05013709,Mildmay,2,Good health,4181
+E05013709,Mildmay,3,Fair health,1458
+E05013709,Mildmay,4,Bad health,565
+E05013709,Mildmay,5,Very bad health,193
+E05013710,St Mary's & St James' (Islington),-8,Does not apply,0
+E05013710,St Mary's & St James' (Islington),1,Very good health,6783
+E05013710,St Mary's & St James' (Islington),2,Good health,3301
+E05013710,St Mary's & St James' (Islington),3,Fair health,1198
+E05013710,St Mary's & St James' (Islington),4,Bad health,446
+E05013710,St Mary's & St James' (Islington),5,Very bad health,160
+E05013711,St Peter's & Canalside,-8,Does not apply,0
+E05013711,St Peter's & Canalside,1,Very good health,6685
+E05013711,St Peter's & Canalside,2,Good health,3127
+E05013711,St Peter's & Canalside,3,Fair health,1133
+E05013711,St Peter's & Canalside,4,Bad health,506
+E05013711,St Peter's & Canalside,5,Very bad health,171
+E05013712,Tollington,-8,Does not apply,0
+E05013712,Tollington,1,Very good health,7423
+E05013712,Tollington,2,Good health,4156
+E05013712,Tollington,3,Fair health,1403
+E05013712,Tollington,4,Bad health,598
+E05013712,Tollington,5,Very bad health,184
+E05013713,Tufnell Park,-8,Does not apply,0
+E05013713,Tufnell Park,1,Very good health,6578
+E05013713,Tufnell Park,2,Good health,3781
+E05013713,Tufnell Park,3,Fair health,1336
+E05013713,Tufnell Park,4,Bad health,515
+E05013713,Tufnell Park,5,Very bad health,183
+E05013714,Bellingham (Lewisham),-8,Does not apply,0
+E05013714,Bellingham (Lewisham),1,Very good health,5658
+E05013714,Bellingham (Lewisham),2,Good health,3795
+E05013714,Bellingham (Lewisham),3,Fair health,1512
+E05013714,Bellingham (Lewisham),4,Bad health,488
+E05013714,Bellingham (Lewisham),5,Very bad health,208
+E05013715,Blackheath (Lewisham),-8,Does not apply,0
+E05013715,Blackheath (Lewisham),1,Very good health,8850
+E05013715,Blackheath (Lewisham),2,Good health,5191
+E05013715,Blackheath (Lewisham),3,Fair health,1703
+E05013715,Blackheath (Lewisham),4,Bad health,517
+E05013715,Blackheath (Lewisham),5,Very bad health,167
+E05013716,Brockley,-8,Does not apply,0
+E05013716,Brockley,1,Very good health,9616
+E05013716,Brockley,2,Good health,5648
+E05013716,Brockley,3,Fair health,1618
+E05013716,Brockley,4,Bad health,482
+E05013716,Brockley,5,Very bad health,134
+E05013717,Catford South,-8,Does not apply,0
+E05013717,Catford South,1,Very good health,8907
+E05013717,Catford South,2,Good health,5643
+E05013717,Catford South,3,Fair health,1980
+E05013717,Catford South,4,Bad health,567
+E05013717,Catford South,5,Very bad health,160
+E05013718,Crofton Park,-8,Does not apply,0
+E05013718,Crofton Park,1,Very good health,8555
+E05013718,Crofton Park,2,Good health,4892
+E05013718,Crofton Park,3,Fair health,1461
+E05013718,Crofton Park,4,Bad health,390
+E05013718,Crofton Park,5,Very bad health,129
+E05013719,Deptford,-8,Does not apply,0
+E05013719,Deptford,1,Very good health,8867
+E05013719,Deptford,2,Good health,5502
+E05013719,Deptford,3,Fair health,1876
+E05013719,Deptford,4,Bad health,599
+E05013719,Deptford,5,Very bad health,158
+E05013720,Downham,-8,Does not apply,0
+E05013720,Downham,1,Very good health,9076
+E05013720,Downham,2,Good health,5955
+E05013720,Downham,3,Fair health,2300
+E05013720,Downham,4,Bad health,760
+E05013720,Downham,5,Very bad health,268
+E05013721,Evelyn,-8,Does not apply,0
+E05013721,Evelyn,1,Very good health,7998
+E05013721,Evelyn,2,Good health,4494
+E05013721,Evelyn,3,Fair health,1309
+E05013721,Evelyn,4,Bad health,477
+E05013721,Evelyn,5,Very bad health,157
+E05013722,Forest Hill,-8,Does not apply,0
+E05013722,Forest Hill,1,Very good health,8534
+E05013722,Forest Hill,2,Good health,4680
+E05013722,Forest Hill,3,Fair health,1409
+E05013722,Forest Hill,4,Bad health,434
+E05013722,Forest Hill,5,Very bad health,117
+E05013723,Grove Park,-8,Does not apply,0
+E05013723,Grove Park,1,Very good health,7848
+E05013723,Grove Park,2,Good health,5317
+E05013723,Grove Park,3,Fair health,1787
+E05013723,Grove Park,4,Bad health,594
+E05013723,Grove Park,5,Very bad health,186
+E05013724,Hither Green,-8,Does not apply,0
+E05013724,Hither Green,1,Very good health,10504
+E05013724,Hither Green,2,Good health,6379
+E05013724,Hither Green,3,Fair health,2348
+E05013724,Hither Green,4,Bad health,734
+E05013724,Hither Green,5,Very bad health,186
+E05013725,Ladywell,-8,Does not apply,0
+E05013725,Ladywell,1,Very good health,8229
+E05013725,Ladywell,2,Good health,5068
+E05013725,Ladywell,3,Fair health,1615
+E05013725,Ladywell,4,Bad health,498
+E05013725,Ladywell,5,Very bad health,165
+E05013726,Lee Green,-8,Does not apply,0
+E05013726,Lee Green,1,Very good health,8305
+E05013726,Lee Green,2,Good health,4709
+E05013726,Lee Green,3,Fair health,1463
+E05013726,Lee Green,4,Bad health,424
+E05013726,Lee Green,5,Very bad health,114
+E05013727,Lewisham Central,-8,Does not apply,0
+E05013727,Lewisham Central,1,Very good health,4651
+E05013727,Lewisham Central,2,Good health,2615
+E05013727,Lewisham Central,3,Fair health,680
+E05013727,Lewisham Central,4,Bad health,200
+E05013727,Lewisham Central,5,Very bad health,52
+E05013728,New Cross Gate,-8,Does not apply,0
+E05013728,New Cross Gate,1,Very good health,5830
+E05013728,New Cross Gate,2,Good health,3720
+E05013728,New Cross Gate,3,Fair health,1043
+E05013728,New Cross Gate,4,Bad health,366
+E05013728,New Cross Gate,5,Very bad health,118
+E05013729,Perry Vale,-8,Does not apply,0
+E05013729,Perry Vale,1,Very good health,10178
+E05013729,Perry Vale,2,Good health,5909
+E05013729,Perry Vale,3,Fair health,1844
+E05013729,Perry Vale,4,Bad health,543
+E05013729,Perry Vale,5,Very bad health,183
+E05013730,Rushey Green,-8,Does not apply,0
+E05013730,Rushey Green,1,Very good health,9973
+E05013730,Rushey Green,2,Good health,6108
+E05013730,Rushey Green,3,Fair health,2059
+E05013730,Rushey Green,4,Bad health,634
+E05013730,Rushey Green,5,Very bad health,244
+E05013731,Sydenham,-8,Does not apply,0
+E05013731,Sydenham,1,Very good health,8845
+E05013731,Sydenham,2,Good health,5361
+E05013731,Sydenham,3,Fair health,1944
+E05013731,Sydenham,4,Bad health,630
+E05013731,Sydenham,5,Very bad health,195
+E05013732,Telegraph Hill,-8,Does not apply,0
+E05013732,Telegraph Hill,1,Very good health,9220
+E05013732,Telegraph Hill,2,Good health,5307
+E05013732,Telegraph Hill,3,Fair health,1659
+E05013732,Telegraph Hill,4,Bad health,555
+E05013732,Telegraph Hill,5,Very bad health,173
+E05013733,Addison,-8,Does not apply,0
+E05013733,Addison,1,Very good health,4408
+E05013733,Addison,2,Good health,2270
+E05013733,Addison,3,Fair health,693
+E05013733,Addison,4,Bad health,248
+E05013733,Addison,5,Very bad health,99
+E05013734,Avonmore,-8,Does not apply,0
+E05013734,Avonmore,1,Very good health,4204
+E05013734,Avonmore,2,Good health,2250
+E05013734,Avonmore,3,Fair health,735
+E05013734,Avonmore,4,Bad health,248
+E05013734,Avonmore,5,Very bad health,94
+E05013735,Brook Green,-8,Does not apply,0
+E05013735,Brook Green,1,Very good health,5004
+E05013735,Brook Green,2,Good health,2278
+E05013735,Brook Green,3,Fair health,679
+E05013735,Brook Green,4,Bad health,222
+E05013735,Brook Green,5,Very bad health,67
+E05013736,College Park & Old Oak,-8,Does not apply,0
+E05013736,College Park & Old Oak,1,Very good health,5020
+E05013736,College Park & Old Oak,2,Good health,3172
+E05013736,College Park & Old Oak,3,Fair health,1224
+E05013736,College Park & Old Oak,4,Bad health,430
+E05013736,College Park & Old Oak,5,Very bad health,141
+E05013737,Coningham,-8,Does not apply,0
+E05013737,Coningham,1,Very good health,5798
+E05013737,Coningham,2,Good health,3224
+E05013737,Coningham,3,Fair health,1035
+E05013737,Coningham,4,Bad health,396
+E05013737,Coningham,5,Very bad health,131
+E05013738,Fulham Reach,-8,Does not apply,0
+E05013738,Fulham Reach,1,Very good health,7105
+E05013738,Fulham Reach,2,Good health,3471
+E05013738,Fulham Reach,3,Fair health,1079
+E05013738,Fulham Reach,4,Bad health,386
+E05013738,Fulham Reach,5,Very bad health,127
+E05013739,Fulham Town,-8,Does not apply,0
+E05013739,Fulham Town,1,Very good health,4859
+E05013739,Fulham Town,2,Good health,1883
+E05013739,Fulham Town,3,Fair health,458
+E05013739,Fulham Town,4,Bad health,136
+E05013739,Fulham Town,5,Very bad health,55
+E05013740,Grove,-8,Does not apply,0
+E05013740,Grove,1,Very good health,4455
+E05013740,Grove,2,Good health,1916
+E05013740,Grove,3,Fair health,626
+E05013740,Grove,4,Bad health,187
+E05013740,Grove,5,Very bad health,63
+E05013741,Hammersmith Broadway,-8,Does not apply,0
+E05013741,Hammersmith Broadway,1,Very good health,4409
+E05013741,Hammersmith Broadway,2,Good health,2276
+E05013741,Hammersmith Broadway,3,Fair health,775
+E05013741,Hammersmith Broadway,4,Bad health,298
+E05013741,Hammersmith Broadway,5,Very bad health,92
+E05013742,Lillie,-8,Does not apply,0
+E05013742,Lillie,1,Very good health,3885
+E05013742,Lillie,2,Good health,1830
+E05013742,Lillie,3,Fair health,671
+E05013742,Lillie,4,Bad health,244
+E05013742,Lillie,5,Very bad health,84
+E05013743,Munster,-8,Does not apply,0
+E05013743,Munster,1,Very good health,7882
+E05013743,Munster,2,Good health,3045
+E05013743,Munster,3,Fair health,859
+E05013743,Munster,4,Bad health,252
+E05013743,Munster,5,Very bad health,98
+E05013744,Palace & Hurlingham,-8,Does not apply,0
+E05013744,Palace & Hurlingham,1,Very good health,7202
+E05013744,Palace & Hurlingham,2,Good health,2877
+E05013744,Palace & Hurlingham,3,Fair health,794
+E05013744,Palace & Hurlingham,4,Bad health,222
+E05013744,Palace & Hurlingham,5,Very bad health,78
+E05013745,Parsons Green & Sandford,-8,Does not apply,0
+E05013745,Parsons Green & Sandford,1,Very good health,5249
+E05013745,Parsons Green & Sandford,2,Good health,1788
+E05013745,Parsons Green & Sandford,3,Fair health,477
+E05013745,Parsons Green & Sandford,4,Bad health,148
+E05013745,Parsons Green & Sandford,5,Very bad health,66
+E05013746,Ravenscourt,-8,Does not apply,0
+E05013746,Ravenscourt,1,Very good health,4006
+E05013746,Ravenscourt,2,Good health,1974
+E05013746,Ravenscourt,3,Fair health,656
+E05013746,Ravenscourt,4,Bad health,213
+E05013746,Ravenscourt,5,Very bad health,81
+E05013747,Sands End,-8,Does not apply,0
+E05013747,Sands End,1,Very good health,6846
+E05013747,Sands End,2,Good health,2958
+E05013747,Sands End,3,Fair health,911
+E05013747,Sands End,4,Bad health,298
+E05013747,Sands End,5,Very bad health,117
+E05013748,Shepherd's Bush Green,-8,Does not apply,0
+E05013748,Shepherd's Bush Green,1,Very good health,3005
+E05013748,Shepherd's Bush Green,2,Good health,1650
+E05013748,Shepherd's Bush Green,3,Fair health,577
+E05013748,Shepherd's Bush Green,4,Bad health,264
+E05013748,Shepherd's Bush Green,5,Very bad health,74
+E05013749,Walham Green,-8,Does not apply,0
+E05013749,Walham Green,1,Very good health,4732
+E05013749,Walham Green,2,Good health,2141
+E05013749,Walham Green,3,Fair health,703
+E05013749,Walham Green,4,Bad health,279
+E05013749,Walham Green,5,Very bad health,97
+E05013750,Wendell Park,-8,Does not apply,0
+E05013750,Wendell Park,1,Very good health,4444
+E05013750,Wendell Park,2,Good health,2123
+E05013750,Wendell Park,3,Fair health,582
+E05013750,Wendell Park,4,Bad health,194
+E05013750,Wendell Park,5,Very bad health,73
+E05013751,West Kensington,-8,Does not apply,0
+E05013751,West Kensington,1,Very good health,5219
+E05013751,West Kensington,2,Good health,2812
+E05013751,West Kensington,3,Fair health,902
+E05013751,West Kensington,4,Bad health,288
+E05013751,West Kensington,5,Very bad health,87
+E05013752,White City,-8,Does not apply,0
+E05013752,White City,1,Very good health,5869
+E05013752,White City,2,Good health,3032
+E05013752,White City,3,Fair health,1025
+E05013752,White City,4,Bad health,359
+E05013752,White City,5,Very bad health,108
+E05013753,Wormholt,-8,Does not apply,0
+E05013753,Wormholt,1,Very good health,4470
+E05013753,Wormholt,2,Good health,2268
+E05013753,Wormholt,3,Fair health,840
+E05013753,Wormholt,4,Bad health,291
+E05013753,Wormholt,5,Very bad health,116
+E05013754,Beddington,-8,Does not apply,0
+E05013754,Beddington,1,Very good health,5605
+E05013754,Beddington,2,Good health,3865
+E05013754,Beddington,3,Fair health,1179
+E05013754,Beddington,4,Bad health,307
+E05013754,Beddington,5,Very bad health,112
+E05013755,Belmont (Sutton),-8,Does not apply,0
+E05013755,Belmont (Sutton),1,Very good health,6160
+E05013755,Belmont (Sutton),2,Good health,4115
+E05013755,Belmont (Sutton),3,Fair health,1173
+E05013755,Belmont (Sutton),4,Bad health,334
+E05013755,Belmont (Sutton),5,Very bad health,82
+E05013756,Carshalton Central,-8,Does not apply,0
+E05013756,Carshalton Central,1,Very good health,6085
+E05013756,Carshalton Central,2,Good health,3980
+E05013756,Carshalton Central,3,Fair health,1101
+E05013756,Carshalton Central,4,Bad health,300
+E05013756,Carshalton Central,5,Very bad health,72
+E05013757,Carshalton South & Clockhouse,-8,Does not apply,0
+E05013757,Carshalton South & Clockhouse,1,Very good health,5273
+E05013757,Carshalton South & Clockhouse,2,Good health,3339
+E05013757,Carshalton South & Clockhouse,3,Fair health,973
+E05013757,Carshalton South & Clockhouse,4,Bad health,281
+E05013757,Carshalton South & Clockhouse,5,Very bad health,94
+E05013758,Cheam,-8,Does not apply,0
+E05013758,Cheam,1,Very good health,5768
+E05013758,Cheam,2,Good health,3551
+E05013758,Cheam,3,Fair health,1125
+E05013758,Cheam,4,Bad health,283
+E05013758,Cheam,5,Very bad health,83
+E05013759,Hackbridge,-8,Does not apply,0
+E05013759,Hackbridge,1,Very good health,3609
+E05013759,Hackbridge,2,Good health,2216
+E05013759,Hackbridge,3,Fair health,568
+E05013759,Hackbridge,4,Bad health,142
+E05013759,Hackbridge,5,Very bad health,43
+E05013760,North Cheam,-8,Does not apply,0
+E05013760,North Cheam,1,Very good health,6021
+E05013760,North Cheam,2,Good health,3694
+E05013760,North Cheam,3,Fair health,1078
+E05013760,North Cheam,4,Bad health,293
+E05013760,North Cheam,5,Very bad health,74
+E05013761,St Helier East,-8,Does not apply,0
+E05013761,St Helier East,1,Very good health,4175
+E05013761,St Helier East,2,Good health,2854
+E05013761,St Helier East,3,Fair health,1049
+E05013761,St Helier East,4,Bad health,367
+E05013761,St Helier East,5,Very bad health,111
+E05013762,St Helier West,-8,Does not apply,0
+E05013762,St Helier West,1,Very good health,5785
+E05013762,St Helier West,2,Good health,4182
+E05013762,St Helier West,3,Fair health,1523
+E05013762,St Helier West,4,Bad health,545
+E05013762,St Helier West,5,Very bad health,142
+E05013763,South Beddington & Roundshaw,-8,Does not apply,0
+E05013763,South Beddington & Roundshaw,1,Very good health,5219
+E05013763,South Beddington & Roundshaw,2,Good health,3740
+E05013763,South Beddington & Roundshaw,3,Fair health,1411
+E05013763,South Beddington & Roundshaw,4,Bad health,409
+E05013763,South Beddington & Roundshaw,5,Very bad health,136
+E05013764,Stonecot,-8,Does not apply,0
+E05013764,Stonecot,1,Very good health,4178
+E05013764,Stonecot,2,Good health,2919
+E05013764,Stonecot,3,Fair health,908
+E05013764,Stonecot,4,Bad health,209
+E05013764,Stonecot,5,Very bad health,67
+E05013765,Sutton Central,-8,Does not apply,0
+E05013765,Sutton Central,1,Very good health,6525
+E05013765,Sutton Central,2,Good health,4297
+E05013765,Sutton Central,3,Fair health,1274
+E05013765,Sutton Central,4,Bad health,369
+E05013765,Sutton Central,5,Very bad health,101
+E05013766,Sutton North,-8,Does not apply,0
+E05013766,Sutton North,1,Very good health,5721
+E05013766,Sutton North,2,Good health,3931
+E05013766,Sutton North,3,Fair health,1217
+E05013766,Sutton North,4,Bad health,340
+E05013766,Sutton North,5,Very bad health,87
+E05013767,Sutton South,-8,Does not apply,0
+E05013767,Sutton South,1,Very good health,6346
+E05013767,Sutton South,2,Good health,4116
+E05013767,Sutton South,3,Fair health,1304
+E05013767,Sutton South,4,Bad health,347
+E05013767,Sutton South,5,Very bad health,134
+E05013768,Sutton West & East Cheam,-8,Does not apply,0
+E05013768,Sutton West & East Cheam,1,Very good health,5682
+E05013768,Sutton West & East Cheam,2,Good health,3755
+E05013768,Sutton West & East Cheam,3,Fair health,1089
+E05013768,Sutton West & East Cheam,4,Bad health,301
+E05013768,Sutton West & East Cheam,5,Very bad health,80
+E05013769,The Wrythe,-8,Does not apply,0
+E05013769,The Wrythe,1,Very good health,5588
+E05013769,The Wrythe,2,Good health,3684
+E05013769,The Wrythe,3,Fair health,1202
+E05013769,The Wrythe,4,Bad health,332
+E05013769,The Wrythe,5,Very bad health,132
+E05013770,Wallington North,-8,Does not apply,0
+E05013770,Wallington North,1,Very good health,6248
+E05013770,Wallington North,2,Good health,4198
+E05013770,Wallington North,3,Fair health,1335
+E05013770,Wallington North,4,Bad health,357
+E05013770,Wallington North,5,Very bad health,98
+E05013771,Wallington South,-8,Does not apply,0
+E05013771,Wallington South,1,Very good health,5488
+E05013771,Wallington South,2,Good health,3766
+E05013771,Wallington South,3,Fair health,1225
+E05013771,Wallington South,4,Bad health,433
+E05013771,Wallington South,5,Very bad health,137
+E05013772,Worcester Park North,-8,Does not apply,0
+E05013772,Worcester Park North,1,Very good health,4627
+E05013772,Worcester Park North,2,Good health,2738
+E05013772,Worcester Park North,3,Fair health,797
+E05013772,Worcester Park North,4,Bad health,198
+E05013772,Worcester Park North,5,Very bad health,64
+E05013773,Worcester Park South,-8,Does not apply,0
+E05013773,Worcester Park South,1,Very good health,3689
+E05013773,Worcester Park South,2,Good health,2388
+E05013773,Worcester Park South,3,Fair health,775
+E05013773,Worcester Park South,4,Bad health,176
+E05013773,Worcester Park South,5,Very bad health,43
+E05013774,Barnes (Richmond upon Thames),-8,Does not apply,0
+E05013774,Barnes (Richmond upon Thames),1,Very good health,6452
+E05013774,Barnes (Richmond upon Thames),2,Good health,2779
+E05013774,Barnes (Richmond upon Thames),3,Fair health,853
+E05013774,Barnes (Richmond upon Thames),4,Bad health,255
+E05013774,Barnes (Richmond upon Thames),5,Very bad health,85
+E05013775,East Sheen,-8,Does not apply,0
+E05013775,East Sheen,1,Very good health,6958
+E05013775,East Sheen,2,Good health,2779
+E05013775,East Sheen,3,Fair health,729
+E05013775,East Sheen,4,Bad health,166
+E05013775,East Sheen,5,Very bad health,39
+E05013776,Fulwell & Hampton Hill,-8,Does not apply,0
+E05013776,Fulwell & Hampton Hill,1,Very good health,6441
+E05013776,Fulwell & Hampton Hill,2,Good health,3095
+E05013776,Fulwell & Hampton Hill,3,Fair health,871
+E05013776,Fulwell & Hampton Hill,4,Bad health,242
+E05013776,Fulwell & Hampton Hill,5,Very bad health,71
+E05013777,"Ham, Petersham & Richmond Riverside",-8,Does not apply,0
+E05013777,"Ham, Petersham & Richmond Riverside",1,Very good health,6250
+E05013777,"Ham, Petersham & Richmond Riverside",2,Good health,3145
+E05013777,"Ham, Petersham & Richmond Riverside",3,Fair health,996
+E05013777,"Ham, Petersham & Richmond Riverside",4,Bad health,323
+E05013777,"Ham, Petersham & Richmond Riverside",5,Very bad health,114
+E05013778,Hampton (Richmond upon Thames),-8,Does not apply,0
+E05013778,Hampton (Richmond upon Thames),1,Very good health,5760
+E05013778,Hampton (Richmond upon Thames),2,Good health,3233
+E05013778,Hampton (Richmond upon Thames),3,Fair health,957
+E05013778,Hampton (Richmond upon Thames),4,Bad health,268
+E05013778,Hampton (Richmond upon Thames),5,Very bad health,80
+E05013779,Hampton North,-8,Does not apply,0
+E05013779,Hampton North,1,Very good health,5013
+E05013779,Hampton North,2,Good health,3112
+E05013779,Hampton North,3,Fair health,1101
+E05013779,Hampton North,4,Bad health,363
+E05013779,Hampton North,5,Very bad health,127
+E05013780,Hampton Wick & South Teddington,-8,Does not apply,0
+E05013780,Hampton Wick & South Teddington,1,Very good health,6365
+E05013780,Hampton Wick & South Teddington,2,Good health,3155
+E05013780,Hampton Wick & South Teddington,3,Fair health,904
+E05013780,Hampton Wick & South Teddington,4,Bad health,254
+E05013780,Hampton Wick & South Teddington,5,Very bad health,77
+E05013781,Heathfield,-8,Does not apply,0
+E05013781,Heathfield,1,Very good health,5224
+E05013781,Heathfield,2,Good health,3516
+E05013781,Heathfield,3,Fair health,1199
+E05013781,Heathfield,4,Bad health,373
+E05013781,Heathfield,5,Very bad health,102
+E05013782,Kew (Richmond upon Thames),-8,Does not apply,0
+E05013782,Kew (Richmond upon Thames),1,Very good health,7336
+E05013782,Kew (Richmond upon Thames),2,Good health,3305
+E05013782,Kew (Richmond upon Thames),3,Fair health,909
+E05013782,Kew (Richmond upon Thames),4,Bad health,224
+E05013782,Kew (Richmond upon Thames),5,Very bad health,67
+E05013783,Mortlake & Barnes Common,-8,Does not apply,0
+E05013783,Mortlake & Barnes Common,1,Very good health,7489
+E05013783,Mortlake & Barnes Common,2,Good health,3263
+E05013783,Mortlake & Barnes Common,3,Fair health,923
+E05013783,Mortlake & Barnes Common,4,Bad health,270
+E05013783,Mortlake & Barnes Common,5,Very bad health,88
+E05013784,North Richmond,-8,Does not apply,0
+E05013784,North Richmond,1,Very good health,6523
+E05013784,North Richmond,2,Good health,2987
+E05013784,North Richmond,3,Fair health,812
+E05013784,North Richmond,4,Bad health,242
+E05013784,North Richmond,5,Very bad health,65
+E05013785,St Margarets & North Twickenham,-8,Does not apply,0
+E05013785,St Margarets & North Twickenham,1,Very good health,7699
+E05013785,St Margarets & North Twickenham,2,Good health,3242
+E05013785,St Margarets & North Twickenham,3,Fair health,790
+E05013785,St Margarets & North Twickenham,4,Bad health,166
+E05013785,St Margarets & North Twickenham,5,Very bad health,48
+E05013786,South Richmond,-8,Does not apply,0
+E05013786,South Richmond,1,Very good health,6923
+E05013786,South Richmond,2,Good health,3062
+E05013786,South Richmond,3,Fair health,788
+E05013786,South Richmond,4,Bad health,246
+E05013786,South Richmond,5,Very bad health,63
+E05013787,South Twickenham,-8,Does not apply,0
+E05013787,South Twickenham,1,Very good health,6517
+E05013787,South Twickenham,2,Good health,3087
+E05013787,South Twickenham,3,Fair health,789
+E05013787,South Twickenham,4,Bad health,182
+E05013787,South Twickenham,5,Very bad health,54
+E05013788,Teddington,-8,Does not apply,0
+E05013788,Teddington,1,Very good health,6237
+E05013788,Teddington,2,Good health,3228
+E05013788,Teddington,3,Fair health,844
+E05013788,Teddington,4,Bad health,193
+E05013788,Teddington,5,Very bad health,60
+E05013789,Twickenham Riverside,-8,Does not apply,0
+E05013789,Twickenham Riverside,1,Very good health,6775
+E05013789,Twickenham Riverside,2,Good health,3082
+E05013789,Twickenham Riverside,3,Fair health,819
+E05013789,Twickenham Riverside,4,Bad health,262
+E05013789,Twickenham Riverside,5,Very bad health,56
+E05013790,West Twickenham,-8,Does not apply,0
+E05013790,West Twickenham,1,Very good health,6492
+E05013790,West Twickenham,2,Good health,3501
+E05013790,West Twickenham,3,Fair health,959
+E05013790,West Twickenham,4,Bad health,278
+E05013790,West Twickenham,5,Very bad health,76
+E05013791,Whitton (Richmond upon Thames),-8,Does not apply,0
+E05013791,Whitton (Richmond upon Thames),1,Very good health,5507
+E05013791,Whitton (Richmond upon Thames),2,Good health,3483
+E05013791,Whitton (Richmond upon Thames),3,Fair health,1091
+E05013791,Whitton (Richmond upon Thames),4,Bad health,268
+E05013791,Whitton (Richmond upon Thames),5,Very bad health,88
+E05013792,Abbey Road,-8,Does not apply,0
+E05013792,Abbey Road,1,Very good health,7846
+E05013792,Abbey Road,2,Good health,3629
+E05013792,Abbey Road,3,Fair health,1057
+E05013792,Abbey Road,4,Bad health,352
+E05013792,Abbey Road,5,Very bad health,160
+E05013793,Bayswater,-8,Does not apply,0
+E05013793,Bayswater,1,Very good health,7475
+E05013793,Bayswater,2,Good health,3450
+E05013793,Bayswater,3,Fair health,971
+E05013793,Bayswater,4,Bad health,355
+E05013793,Bayswater,5,Very bad health,114
+E05013794,Church Street,-8,Does not apply,0
+E05013794,Church Street,1,Very good health,5206
+E05013794,Church Street,2,Good health,3658
+E05013794,Church Street,3,Fair health,1639
+E05013794,Church Street,4,Bad health,820
+E05013794,Church Street,5,Very bad health,348
+E05013795,Harrow Road,-8,Does not apply,0
+E05013795,Harrow Road,1,Very good health,5927
+E05013795,Harrow Road,2,Good health,3419
+E05013795,Harrow Road,3,Fair health,1319
+E05013795,Harrow Road,4,Bad health,530
+E05013795,Harrow Road,5,Very bad health,186
+E05013796,Hyde Park,-8,Does not apply,0
+E05013796,Hyde Park,1,Very good health,6043
+E05013796,Hyde Park,2,Good health,2979
+E05013796,Hyde Park,3,Fair health,858
+E05013796,Hyde Park,4,Bad health,313
+E05013796,Hyde Park,5,Very bad health,125
+E05013797,Knightsbridge & Belgravia,-8,Does not apply,0
+E05013797,Knightsbridge & Belgravia,1,Very good health,6932
+E05013797,Knightsbridge & Belgravia,2,Good health,3020
+E05013797,Knightsbridge & Belgravia,3,Fair health,751
+E05013797,Knightsbridge & Belgravia,4,Bad health,231
+E05013797,Knightsbridge & Belgravia,5,Very bad health,94
+E05013798,Lancaster Gate,-8,Does not apply,0
+E05013798,Lancaster Gate,1,Very good health,6612
+E05013798,Lancaster Gate,2,Good health,3014
+E05013798,Lancaster Gate,3,Fair health,899
+E05013798,Lancaster Gate,4,Bad health,277
+E05013798,Lancaster Gate,5,Very bad health,149
+E05013799,Little Venice,-8,Does not apply,0
+E05013799,Little Venice,1,Very good health,5867
+E05013799,Little Venice,2,Good health,2945
+E05013799,Little Venice,3,Fair health,993
+E05013799,Little Venice,4,Bad health,392
+E05013799,Little Venice,5,Very bad health,169
+E05013800,Maida Vale,-8,Does not apply,0
+E05013800,Maida Vale,1,Very good health,6626
+E05013800,Maida Vale,2,Good health,3402
+E05013800,Maida Vale,3,Fair health,1079
+E05013800,Maida Vale,4,Bad health,377
+E05013800,Maida Vale,5,Very bad health,176
+E05013801,Marylebone,-8,Does not apply,0
+E05013801,Marylebone,1,Very good health,7805
+E05013801,Marylebone,2,Good health,3196
+E05013801,Marylebone,3,Fair health,820
+E05013801,Marylebone,4,Bad health,245
+E05013801,Marylebone,5,Very bad health,92
+E05013802,Pimlico North,-8,Does not apply,0
+E05013802,Pimlico North,1,Very good health,5642
+E05013802,Pimlico North,2,Good health,2944
+E05013802,Pimlico North,3,Fair health,1197
+E05013802,Pimlico North,4,Bad health,413
+E05013802,Pimlico North,5,Very bad health,121
+E05013803,Pimlico South,-8,Does not apply,0
+E05013803,Pimlico South,1,Very good health,5465
+E05013803,Pimlico South,2,Good health,3305
+E05013803,Pimlico South,3,Fair health,1246
+E05013803,Pimlico South,4,Bad health,502
+E05013803,Pimlico South,5,Very bad health,174
+E05013804,Queen's Park (Westminster),-8,Does not apply,0
+E05013804,Queen's Park (Westminster),1,Very good health,6319
+E05013804,Queen's Park (Westminster),2,Good health,3878
+E05013804,Queen's Park (Westminster),3,Fair health,1595
+E05013804,Queen's Park (Westminster),4,Bad health,690
+E05013804,Queen's Park (Westminster),5,Very bad health,274
+E05013805,Regent's Park (Westminster),-8,Does not apply,0
+E05013805,Regent's Park (Westminster),1,Very good health,7097
+E05013805,Regent's Park (Westminster),2,Good health,3223
+E05013805,Regent's Park (Westminster),3,Fair health,917
+E05013805,Regent's Park (Westminster),4,Bad health,260
+E05013805,Regent's Park (Westminster),5,Very bad health,113
+E05013806,St James's (Westminster),-8,Does not apply,0
+E05013806,St James's (Westminster),1,Very good health,6052
+E05013806,St James's (Westminster),2,Good health,2963
+E05013806,St James's (Westminster),3,Fair health,927
+E05013806,St James's (Westminster),4,Bad health,296
+E05013806,St James's (Westminster),5,Very bad health,122
+E05013807,Vincent Square,-8,Does not apply,0
+E05013807,Vincent Square,1,Very good health,5505
+E05013807,Vincent Square,2,Good health,3235
+E05013807,Vincent Square,3,Fair health,1044
+E05013807,Vincent Square,4,Bad health,389
+E05013807,Vincent Square,5,Very bad health,154
+E05013808,West End (Westminster),-8,Does not apply,0
+E05013808,West End (Westminster),1,Very good health,6689
+E05013808,West End (Westminster),2,Good health,3281
+E05013808,West End (Westminster),3,Fair health,1090
+E05013808,West End (Westminster),4,Bad health,337
+E05013808,West End (Westminster),5,Very bad health,145
+E05013809,Westbourne (Westminster),-8,Does not apply,0
+E05013809,Westbourne (Westminster),1,Very good health,5923
+E05013809,Westbourne (Westminster),2,Good health,3437
+E05013809,Westbourne (Westminster),3,Fair health,1435
+E05013809,Westbourne (Westminster),4,Bad health,621
+E05013809,Westbourne (Westminster),5,Very bad health,267
+E05013810,Abbey (Merton),-8,Does not apply,0
+E05013810,Abbey (Merton),1,Very good health,6215
+E05013810,Abbey (Merton),2,Good health,3209
+E05013810,Abbey (Merton),3,Fair health,852
+E05013810,Abbey (Merton),4,Bad health,185
+E05013810,Abbey (Merton),5,Very bad health,73
+E05013811,Cannon Hill,-8,Does not apply,0
+E05013811,Cannon Hill,1,Very good health,5328
+E05013811,Cannon Hill,2,Good health,3150
+E05013811,Cannon Hill,3,Fair health,979
+E05013811,Cannon Hill,4,Bad health,249
+E05013811,Cannon Hill,5,Very bad health,87
+E05013812,Colliers Wood,-8,Does not apply,0
+E05013812,Colliers Wood,1,Very good health,6206
+E05013812,Colliers Wood,2,Good health,3846
+E05013812,Colliers Wood,3,Fair health,1078
+E05013812,Colliers Wood,4,Bad health,337
+E05013812,Colliers Wood,5,Very bad health,93
+E05013813,Cricket Green,-8,Does not apply,0
+E05013813,Cricket Green,1,Very good health,5869
+E05013813,Cricket Green,2,Good health,3883
+E05013813,Cricket Green,3,Fair health,1389
+E05013813,Cricket Green,4,Bad health,427
+E05013813,Cricket Green,5,Very bad health,151
+E05013814,Figge's Marsh,-8,Does not apply,0
+E05013814,Figge's Marsh,1,Very good health,6114
+E05013814,Figge's Marsh,2,Good health,3947
+E05013814,Figge's Marsh,3,Fair health,1244
+E05013814,Figge's Marsh,4,Bad health,378
+E05013814,Figge's Marsh,5,Very bad health,126
+E05013815,Graveney,-8,Does not apply,0
+E05013815,Graveney,1,Very good health,6075
+E05013815,Graveney,2,Good health,4124
+E05013815,Graveney,3,Fair health,1260
+E05013815,Graveney,4,Bad health,282
+E05013815,Graveney,5,Very bad health,94
+E05013816,Hillside (Merton),-8,Does not apply,0
+E05013816,Hillside (Merton),1,Very good health,4979
+E05013816,Hillside (Merton),2,Good health,2421
+E05013816,Hillside (Merton),3,Fair health,617
+E05013816,Hillside (Merton),4,Bad health,170
+E05013816,Hillside (Merton),5,Very bad health,53
+E05013817,Lavender Fields,-8,Does not apply,0
+E05013817,Lavender Fields,1,Very good health,5742
+E05013817,Lavender Fields,2,Good health,3968
+E05013817,Lavender Fields,3,Fair health,1180
+E05013817,Lavender Fields,4,Bad health,350
+E05013817,Lavender Fields,5,Very bad health,129
+E05013818,Longthornton,-8,Does not apply,0
+E05013818,Longthornton,1,Very good health,6167
+E05013818,Longthornton,2,Good health,3986
+E05013818,Longthornton,3,Fair health,1288
+E05013818,Longthornton,4,Bad health,364
+E05013818,Longthornton,5,Very bad health,96
+E05013819,Lower Morden,-8,Does not apply,0
+E05013819,Lower Morden,1,Very good health,5910
+E05013819,Lower Morden,2,Good health,3804
+E05013819,Lower Morden,3,Fair health,1255
+E05013819,Lower Morden,4,Bad health,300
+E05013819,Lower Morden,5,Very bad health,74
+E05013820,Merton Park,-8,Does not apply,0
+E05013820,Merton Park,1,Very good health,4698
+E05013820,Merton Park,2,Good health,2598
+E05013820,Merton Park,3,Fair health,770
+E05013820,Merton Park,4,Bad health,186
+E05013820,Merton Park,5,Very bad health,42
+E05013821,Pollards Hill,-8,Does not apply,0
+E05013821,Pollards Hill,1,Very good health,6028
+E05013821,Pollards Hill,2,Good health,3913
+E05013821,Pollards Hill,3,Fair health,1260
+E05013821,Pollards Hill,4,Bad health,341
+E05013821,Pollards Hill,5,Very bad health,104
+E05013822,Ravensbury,-8,Does not apply,0
+E05013822,Ravensbury,1,Very good health,4629
+E05013822,Ravensbury,2,Good health,3216
+E05013822,Ravensbury,3,Fair health,1169
+E05013822,Ravensbury,4,Bad health,355
+E05013822,Ravensbury,5,Very bad health,112
+E05013823,Raynes Park,-8,Does not apply,0
+E05013823,Raynes Park,1,Very good health,7084
+E05013823,Raynes Park,2,Good health,3888
+E05013823,Raynes Park,3,Fair health,984
+E05013823,Raynes Park,4,Bad health,273
+E05013823,Raynes Park,5,Very bad health,70
+E05013824,St Helier,-8,Does not apply,0
+E05013824,St Helier,1,Very good health,5675
+E05013824,St Helier,2,Good health,3815
+E05013824,St Helier,3,Fair health,1327
+E05013824,St Helier,4,Bad health,379
+E05013824,St Helier,5,Very bad health,115
+E05013825,Village (Merton),-8,Does not apply,0
+E05013825,Village (Merton),1,Very good health,7192
+E05013825,Village (Merton),2,Good health,3308
+E05013825,Village (Merton),3,Fair health,1001
+E05013825,Village (Merton),4,Bad health,242
+E05013825,Village (Merton),5,Very bad health,61
+E05013826,Wandle (Merton),-8,Does not apply,0
+E05013826,Wandle (Merton),1,Very good health,3213
+E05013826,Wandle (Merton),2,Good health,1690
+E05013826,Wandle (Merton),3,Fair health,485
+E05013826,Wandle (Merton),4,Bad health,169
+E05013826,Wandle (Merton),5,Very bad health,47
+E05013827,West Barnes,-8,Does not apply,0
+E05013827,West Barnes,1,Very good health,5833
+E05013827,West Barnes,2,Good health,3394
+E05013827,West Barnes,3,Fair health,1063
+E05013827,West Barnes,4,Bad health,254
+E05013827,West Barnes,5,Very bad health,65
+E05013828,Wimbledon Park,-8,Does not apply,0
+E05013828,Wimbledon Park,1,Very good health,7059
+E05013828,Wimbledon Park,2,Good health,3088
+E05013828,Wimbledon Park,3,Fair health,704
+E05013828,Wimbledon Park,4,Bad health,163
+E05013828,Wimbledon Park,5,Very bad health,57
+E05013829,Wimbledon Town & Dundonald,-8,Does not apply,0
+E05013829,Wimbledon Town & Dundonald,1,Very good health,8122
+E05013829,Wimbledon Town & Dundonald,2,Good health,3731
+E05013829,Wimbledon Town & Dundonald,3,Fair health,860
+E05013829,Wimbledon Town & Dundonald,4,Bad health,197
+E05013829,Wimbledon Town & Dundonald,5,Very bad health,55
+E05013882,Cann Hall (Waltham Forest),-8,Does not apply,0
+E05013882,Cann Hall (Waltham Forest),1,Very good health,8443
+E05013882,Cann Hall (Waltham Forest),2,Good health,5408
+E05013882,Cann Hall (Waltham Forest),3,Fair health,1688
+E05013882,Cann Hall (Waltham Forest),4,Bad health,578
+E05013882,Cann Hall (Waltham Forest),5,Very bad health,203
+E05013883,Cathall,-8,Does not apply,0
+E05013883,Cathall,1,Very good health,5390
+E05013883,Cathall,2,Good health,3416
+E05013883,Cathall,3,Fair health,1158
+E05013883,Cathall,4,Bad health,396
+E05013883,Cathall,5,Very bad health,123
+E05013884,Chapel End,-8,Does not apply,0
+E05013884,Chapel End,1,Very good health,7242
+E05013884,Chapel End,2,Good health,4669
+E05013884,Chapel End,3,Fair health,1250
+E05013884,Chapel End,4,Bad health,359
+E05013884,Chapel End,5,Very bad health,94
+E05013885,Chingford Green,-8,Does not apply,0
+E05013885,Chingford Green,1,Very good health,5643
+E05013885,Chingford Green,2,Good health,3759
+E05013885,Chingford Green,3,Fair health,1431
+E05013885,Chingford Green,4,Bad health,424
+E05013885,Chingford Green,5,Very bad health,144
+E05013886,Endlebury,-8,Does not apply,0
+E05013886,Endlebury,1,Very good health,4723
+E05013886,Endlebury,2,Good health,3144
+E05013886,Endlebury,3,Fair health,1057
+E05013886,Endlebury,4,Bad health,312
+E05013886,Endlebury,5,Very bad health,86
+E05013887,Forest (Waltham Forest),-8,Does not apply,0
+E05013887,Forest (Waltham Forest),1,Very good health,8547
+E05013887,Forest (Waltham Forest),2,Good health,6025
+E05013887,Forest (Waltham Forest),3,Fair health,1917
+E05013887,Forest (Waltham Forest),4,Bad health,573
+E05013887,Forest (Waltham Forest),5,Very bad health,194
+E05013888,Grove Green,-8,Does not apply,0
+E05013888,Grove Green,1,Very good health,7838
+E05013888,Grove Green,2,Good health,4995
+E05013888,Grove Green,3,Fair health,1404
+E05013888,Grove Green,4,Bad health,413
+E05013888,Grove Green,5,Very bad health,96
+E05013889,Hale End & Highams Park South,-8,Does not apply,0
+E05013889,Hale End & Highams Park South,1,Very good health,5328
+E05013889,Hale End & Highams Park South,2,Good health,3188
+E05013889,Hale End & Highams Park South,3,Fair health,912
+E05013889,Hale End & Highams Park South,4,Bad health,307
+E05013889,Hale End & Highams Park South,5,Very bad health,83
+E05013890,Hatch Lane & Highams Park North,-8,Does not apply,0
+E05013890,Hatch Lane & Highams Park North,1,Very good health,6524
+E05013890,Hatch Lane & Highams Park North,2,Good health,4219
+E05013890,Hatch Lane & Highams Park North,3,Fair health,1504
+E05013890,Hatch Lane & Highams Park North,4,Bad health,490
+E05013890,Hatch Lane & Highams Park North,5,Very bad health,214
+E05013891,High Street (Waltham Forest),-8,Does not apply,0
+E05013891,High Street (Waltham Forest),1,Very good health,5969
+E05013891,High Street (Waltham Forest),2,Good health,3990
+E05013891,High Street (Waltham Forest),3,Fair health,1147
+E05013891,High Street (Waltham Forest),4,Bad health,357
+E05013891,High Street (Waltham Forest),5,Very bad health,101
+E05013892,Higham Hill,-8,Does not apply,0
+E05013892,Higham Hill,1,Very good health,7365
+E05013892,Higham Hill,2,Good health,4651
+E05013892,Higham Hill,3,Fair health,1513
+E05013892,Higham Hill,4,Bad health,597
+E05013892,Higham Hill,5,Very bad health,186
+E05013893,Hoe Street,-8,Does not apply,0
+E05013893,Hoe Street,1,Very good health,7308
+E05013893,Hoe Street,2,Good health,4709
+E05013893,Hoe Street,3,Fair health,1608
+E05013893,Hoe Street,4,Bad health,494
+E05013893,Hoe Street,5,Very bad health,157
+E05013894,Larkswood,-8,Does not apply,0
+E05013894,Larkswood,1,Very good health,6777
+E05013894,Larkswood,2,Good health,4460
+E05013894,Larkswood,3,Fair health,1603
+E05013894,Larkswood,4,Bad health,541
+E05013894,Larkswood,5,Very bad health,155
+E05013895,Lea Bridge (Waltham Forest),-8,Does not apply,0
+E05013895,Lea Bridge (Waltham Forest),1,Very good health,7935
+E05013895,Lea Bridge (Waltham Forest),2,Good health,5209
+E05013895,Lea Bridge (Waltham Forest),3,Fair health,1717
+E05013895,Lea Bridge (Waltham Forest),4,Bad health,509
+E05013895,Lea Bridge (Waltham Forest),5,Very bad health,154
+E05013896,Leyton,-8,Does not apply,0
+E05013896,Leyton,1,Very good health,6691
+E05013896,Leyton,2,Good health,4390
+E05013896,Leyton,3,Fair health,1460
+E05013896,Leyton,4,Bad health,408
+E05013896,Leyton,5,Very bad health,164
+E05013897,Leytonstone,-8,Does not apply,0
+E05013897,Leytonstone,1,Very good health,6194
+E05013897,Leytonstone,2,Good health,4232
+E05013897,Leytonstone,3,Fair health,1280
+E05013897,Leytonstone,4,Bad health,432
+E05013897,Leytonstone,5,Very bad health,100
+E05013898,Markhouse,-8,Does not apply,0
+E05013898,Markhouse,1,Very good health,4692
+E05013898,Markhouse,2,Good health,3096
+E05013898,Markhouse,3,Fair health,1022
+E05013898,Markhouse,4,Bad health,353
+E05013898,Markhouse,5,Very bad health,111
+E05013899,St James (Waltham Forest),-8,Does not apply,0
+E05013899,St James (Waltham Forest),1,Very good health,6241
+E05013899,St James (Waltham Forest),2,Good health,4036
+E05013899,St James (Waltham Forest),3,Fair health,1077
+E05013899,St James (Waltham Forest),4,Bad health,297
+E05013899,St James (Waltham Forest),5,Very bad health,93
+E05013900,Upper Walthamstow,-8,Does not apply,0
+E05013900,Upper Walthamstow,1,Very good health,4326
+E05013900,Upper Walthamstow,2,Good health,2691
+E05013900,Upper Walthamstow,3,Fair health,849
+E05013900,Upper Walthamstow,4,Bad health,240
+E05013900,Upper Walthamstow,5,Very bad health,89
+E05013901,Valley (Waltham Forest),-8,Does not apply,0
+E05013901,Valley (Waltham Forest),1,Very good health,7070
+E05013901,Valley (Waltham Forest),2,Good health,4790
+E05013901,Valley (Waltham Forest),3,Fair health,1613
+E05013901,Valley (Waltham Forest),4,Bad health,461
+E05013901,Valley (Waltham Forest),5,Very bad health,152
+E05013902,William Morris,-8,Does not apply,0
+E05013902,William Morris,1,Very good health,7973
+E05013902,William Morris,2,Good health,5052
+E05013902,William Morris,3,Fair health,1451
+E05013902,William Morris,4,Bad health,434
+E05013902,William Morris,5,Very bad health,149
+E05013903,Wood Street,-8,Does not apply,0
+E05013903,Wood Street,1,Very good health,5218
+E05013903,Wood Street,2,Good health,3039
+E05013903,Wood Street,3,Fair health,929
+E05013903,Wood Street,4,Bad health,301
+E05013903,Wood Street,5,Very bad health,107
+E05013904,Beckton,-8,Does not apply,0
+E05013904,Beckton,1,Very good health,8011
+E05013904,Beckton,2,Good health,5466
+E05013904,Beckton,3,Fair health,1806
+E05013904,Beckton,4,Bad health,646
+E05013904,Beckton,5,Very bad health,220
+E05013905,Boleyn,-8,Does not apply,0
+E05013905,Boleyn,1,Very good health,7787
+E05013905,Boleyn,2,Good health,4929
+E05013905,Boleyn,3,Fair health,1704
+E05013905,Boleyn,4,Bad health,507
+E05013905,Boleyn,5,Very bad health,180
+E05013906,Canning Town North,-8,Does not apply,0
+E05013906,Canning Town North,1,Very good health,5406
+E05013906,Canning Town North,2,Good health,3482
+E05013906,Canning Town North,3,Fair health,1136
+E05013906,Canning Town North,4,Bad health,396
+E05013906,Canning Town North,5,Very bad health,153
+E05013907,Canning Town South,-8,Does not apply,0
+E05013907,Canning Town South,1,Very good health,3828
+E05013907,Canning Town South,2,Good health,2271
+E05013907,Canning Town South,3,Fair health,712
+E05013907,Canning Town South,4,Bad health,224
+E05013907,Canning Town South,5,Very bad health,87
+E05013908,Custom House,-8,Does not apply,0
+E05013908,Custom House,1,Very good health,9130
+E05013908,Custom House,2,Good health,5684
+E05013908,Custom House,3,Fair health,1857
+E05013908,Custom House,4,Bad health,731
+E05013908,Custom House,5,Very bad health,257
+E05013909,East Ham,-8,Does not apply,0
+E05013909,East Ham,1,Very good health,7423
+E05013909,East Ham,2,Good health,5220
+E05013909,East Ham,3,Fair health,1731
+E05013909,East Ham,4,Bad health,567
+E05013909,East Ham,5,Very bad health,188
+E05013910,East Ham South,-8,Does not apply,0
+E05013910,East Ham South,1,Very good health,9330
+E05013910,East Ham South,2,Good health,6286
+E05013910,East Ham South,3,Fair health,2036
+E05013910,East Ham South,4,Bad health,654
+E05013910,East Ham South,5,Very bad health,210
+E05013911,Forest Gate North,-8,Does not apply,0
+E05013911,Forest Gate North,1,Very good health,5544
+E05013911,Forest Gate North,2,Good health,3708
+E05013911,Forest Gate North,3,Fair health,1245
+E05013911,Forest Gate North,4,Bad health,381
+E05013911,Forest Gate North,5,Very bad health,110
+E05013912,Forest Gate South,-8,Does not apply,0
+E05013912,Forest Gate South,1,Very good health,8884
+E05013912,Forest Gate South,2,Good health,6103
+E05013912,Forest Gate South,3,Fair health,1943
+E05013912,Forest Gate South,4,Bad health,643
+E05013912,Forest Gate South,5,Very bad health,202
+E05013913,Green Street East,-8,Does not apply,0
+E05013913,Green Street East,1,Very good health,8580
+E05013913,Green Street East,2,Good health,5686
+E05013913,Green Street East,3,Fair health,1968
+E05013913,Green Street East,4,Bad health,527
+E05013913,Green Street East,5,Very bad health,208
+E05013914,Green Street West,-8,Does not apply,0
+E05013914,Green Street West,1,Very good health,8038
+E05013914,Green Street West,2,Good health,5164
+E05013914,Green Street West,3,Fair health,1851
+E05013914,Green Street West,4,Bad health,536
+E05013914,Green Street West,5,Very bad health,201
+E05013915,Little Ilford,-8,Does not apply,0
+E05013915,Little Ilford,1,Very good health,8622
+E05013915,Little Ilford,2,Good health,5919
+E05013915,Little Ilford,3,Fair health,2102
+E05013915,Little Ilford,4,Bad health,666
+E05013915,Little Ilford,5,Very bad health,237
+E05013916,Manor Park (Newham),-8,Does not apply,0
+E05013916,Manor Park (Newham),1,Very good health,7609
+E05013916,Manor Park (Newham),2,Good health,5505
+E05013916,Manor Park (Newham),3,Fair health,1896
+E05013916,Manor Park (Newham),4,Bad health,637
+E05013916,Manor Park (Newham),5,Very bad health,185
+E05013917,Maryland,-8,Does not apply,0
+E05013917,Maryland,1,Very good health,6139
+E05013917,Maryland,2,Good health,4300
+E05013917,Maryland,3,Fair health,1437
+E05013917,Maryland,4,Bad health,429
+E05013917,Maryland,5,Very bad health,151
+E05013918,Plaistow North,-8,Does not apply,0
+E05013918,Plaistow North,1,Very good health,9188
+E05013918,Plaistow North,2,Good health,5970
+E05013918,Plaistow North,3,Fair health,2173
+E05013918,Plaistow North,4,Bad health,721
+E05013918,Plaistow North,5,Very bad health,238
+E05013919,Plaistow South,-8,Does not apply,0
+E05013919,Plaistow South,1,Very good health,6521
+E05013919,Plaistow South,2,Good health,4643
+E05013919,Plaistow South,3,Fair health,1440
+E05013919,Plaistow South,4,Bad health,432
+E05013919,Plaistow South,5,Very bad health,137
+E05013920,Plaistow West & Canning Town East,-8,Does not apply,0
+E05013920,Plaistow West & Canning Town East,1,Very good health,8354
+E05013920,Plaistow West & Canning Town East,2,Good health,5557
+E05013920,Plaistow West & Canning Town East,3,Fair health,1880
+E05013920,Plaistow West & Canning Town East,4,Bad health,649
+E05013920,Plaistow West & Canning Town East,5,Very bad health,256
+E05013921,Plashet,-8,Does not apply,0
+E05013921,Plashet,1,Very good health,5746
+E05013921,Plashet,2,Good health,3892
+E05013921,Plashet,3,Fair health,1426
+E05013921,Plashet,4,Bad health,400
+E05013921,Plashet,5,Very bad health,153
+E05013922,Royal Albert,-8,Does not apply,0
+E05013922,Royal Albert,1,Very good health,5147
+E05013922,Royal Albert,2,Good health,2960
+E05013922,Royal Albert,3,Fair health,862
+E05013922,Royal Albert,4,Bad health,258
+E05013922,Royal Albert,5,Very bad health,79
+E05013923,Royal Victoria,-8,Does not apply,0
+E05013923,Royal Victoria,1,Very good health,8925
+E05013923,Royal Victoria,2,Good health,4496
+E05013923,Royal Victoria,3,Fair health,845
+E05013923,Royal Victoria,4,Bad health,186
+E05013923,Royal Victoria,5,Very bad health,86
+E05013924,Stratford,-8,Does not apply,0
+E05013924,Stratford,1,Very good health,8722
+E05013924,Stratford,2,Good health,5179
+E05013924,Stratford,3,Fair health,1358
+E05013924,Stratford,4,Bad health,347
+E05013924,Stratford,5,Very bad health,134
+E05013925,Stratford Olympic Park,-8,Does not apply,0
+E05013925,Stratford Olympic Park,1,Very good health,7479
+E05013925,Stratford Olympic Park,2,Good health,3475
+E05013925,Stratford Olympic Park,3,Fair health,704
+E05013925,Stratford Olympic Park,4,Bad health,151
+E05013925,Stratford Olympic Park,5,Very bad health,50
+E05013926,Wall End,-8,Does not apply,0
+E05013926,Wall End,1,Very good health,8318
+E05013926,Wall End,2,Good health,5546
+E05013926,Wall End,3,Fair health,1887
+E05013926,Wall End,4,Bad health,596
+E05013926,Wall End,5,Very bad health,155
+E05013927,West Ham,-8,Does not apply,0
+E05013927,West Ham,1,Very good health,7748
+E05013927,West Ham,2,Good health,5431
+E05013927,West Ham,3,Fair health,1802
+E05013927,West Ham,4,Bad health,536
+E05013927,West Ham,5,Very bad health,183
+E05013928,Alexandra (Kingston upon Thames),-8,Does not apply,0
+E05013928,Alexandra (Kingston upon Thames),1,Very good health,3515
+E05013928,Alexandra (Kingston upon Thames),2,Good health,2072
+E05013928,Alexandra (Kingston upon Thames),3,Fair health,639
+E05013928,Alexandra (Kingston upon Thames),4,Bad health,146
+E05013928,Alexandra (Kingston upon Thames),5,Very bad health,39
+E05013929,Berrylands,-8,Does not apply,0
+E05013929,Berrylands,1,Very good health,3470
+E05013929,Berrylands,2,Good health,1914
+E05013929,Berrylands,3,Fair health,560
+E05013929,Berrylands,4,Bad health,136
+E05013929,Berrylands,5,Very bad health,31
+E05013930,Canbury Gardens,-8,Does not apply,0
+E05013930,Canbury Gardens,1,Very good health,5013
+E05013930,Canbury Gardens,2,Good health,2401
+E05013930,Canbury Gardens,3,Fair health,631
+E05013930,Canbury Gardens,4,Bad health,169
+E05013930,Canbury Gardens,5,Very bad health,47
+E05013931,Chessington South & Malden Rushett,-8,Does not apply,0
+E05013931,Chessington South & Malden Rushett,1,Very good health,4647
+E05013931,Chessington South & Malden Rushett,2,Good health,3466
+E05013931,Chessington South & Malden Rushett,3,Fair health,1031
+E05013931,Chessington South & Malden Rushett,4,Bad health,267
+E05013931,Chessington South & Malden Rushett,5,Very bad health,77
+E05013932,Coombe Hill,-8,Does not apply,0
+E05013932,Coombe Hill,1,Very good health,4137
+E05013932,Coombe Hill,2,Good health,2294
+E05013932,Coombe Hill,3,Fair health,717
+E05013932,Coombe Hill,4,Bad health,193
+E05013932,Coombe Hill,5,Very bad health,77
+E05013933,Coombe Vale,-8,Does not apply,0
+E05013933,Coombe Vale,1,Very good health,5700
+E05013933,Coombe Vale,2,Good health,3443
+E05013933,Coombe Vale,3,Fair health,997
+E05013933,Coombe Vale,4,Bad health,253
+E05013933,Coombe Vale,5,Very bad health,63
+E05013934,Green Lane & St James,-8,Does not apply,0
+E05013934,Green Lane & St James,1,Very good health,3561
+E05013934,Green Lane & St James,2,Good health,2314
+E05013934,Green Lane & St James,3,Fair health,852
+E05013934,Green Lane & St James,4,Bad health,227
+E05013934,Green Lane & St James,5,Very bad health,98
+E05013935,Hook & Chessington North,-8,Does not apply,0
+E05013935,Hook & Chessington North,1,Very good health,5484
+E05013935,Hook & Chessington North,2,Good health,3853
+E05013935,Hook & Chessington North,3,Fair health,1304
+E05013935,Hook & Chessington North,4,Bad health,361
+E05013935,Hook & Chessington North,5,Very bad health,109
+E05013936,King George's & Sunray,-8,Does not apply,0
+E05013936,King George's & Sunray,1,Very good health,2819
+E05013936,King George's & Sunray,2,Good health,1969
+E05013936,King George's & Sunray,3,Fair health,634
+E05013936,King George's & Sunray,4,Bad health,147
+E05013936,King George's & Sunray,5,Very bad health,36
+E05013937,Kingston Gate,-8,Does not apply,0
+E05013937,Kingston Gate,1,Very good health,6551
+E05013937,Kingston Gate,2,Good health,3089
+E05013937,Kingston Gate,3,Fair health,887
+E05013937,Kingston Gate,4,Bad health,221
+E05013937,Kingston Gate,5,Very bad health,77
+E05013938,Kingston Town,-8,Does not apply,0
+E05013938,Kingston Town,1,Very good health,5621
+E05013938,Kingston Town,2,Good health,3349
+E05013938,Kingston Town,3,Fair health,982
+E05013938,Kingston Town,4,Bad health,254
+E05013938,Kingston Town,5,Very bad health,83
+E05013939,Motspur Park & Old Malden East,-8,Does not apply,0
+E05013939,Motspur Park & Old Malden East,1,Very good health,3596
+E05013939,Motspur Park & Old Malden East,2,Good health,2363
+E05013939,Motspur Park & Old Malden East,3,Fair health,782
+E05013939,Motspur Park & Old Malden East,4,Bad health,185
+E05013939,Motspur Park & Old Malden East,5,Very bad health,63
+E05013940,New Malden Village,-8,Does not apply,0
+E05013940,New Malden Village,1,Very good health,5013
+E05013940,New Malden Village,2,Good health,3258
+E05013940,New Malden Village,3,Fair health,963
+E05013940,New Malden Village,4,Bad health,264
+E05013940,New Malden Village,5,Very bad health,86
+E05013941,Norbiton,-8,Does not apply,0
+E05013941,Norbiton,1,Very good health,5998
+E05013941,Norbiton,2,Good health,3569
+E05013941,Norbiton,3,Fair health,1171
+E05013941,Norbiton,4,Bad health,351
+E05013941,Norbiton,5,Very bad health,98
+E05013942,Old Malden,-8,Does not apply,0
+E05013942,Old Malden,1,Very good health,3394
+E05013942,Old Malden,2,Good health,2273
+E05013942,Old Malden,3,Fair health,781
+E05013942,Old Malden,4,Bad health,205
+E05013942,Old Malden,5,Very bad health,42
+E05013943,St Mark's & Seething Wells,-8,Does not apply,0
+E05013943,St Mark's & Seething Wells,1,Very good health,6542
+E05013943,St Mark's & Seething Wells,2,Good health,3965
+E05013943,St Mark's & Seething Wells,3,Fair health,1004
+E05013943,St Mark's & Seething Wells,4,Bad health,239
+E05013943,St Mark's & Seething Wells,5,Very bad health,58
+E05013944,Surbiton Hill,-8,Does not apply,0
+E05013944,Surbiton Hill,1,Very good health,5579
+E05013944,Surbiton Hill,2,Good health,3518
+E05013944,Surbiton Hill,3,Fair health,1144
+E05013944,Surbiton Hill,4,Bad health,297
+E05013944,Surbiton Hill,5,Very bad health,99
+E05013945,Tolworth,-8,Does not apply,0
+E05013945,Tolworth,1,Very good health,6185
+E05013945,Tolworth,2,Good health,3568
+E05013945,Tolworth,3,Fair health,1053
+E05013945,Tolworth,4,Bad health,307
+E05013945,Tolworth,5,Very bad health,75
+E05013946,Tudor (Kingston upon Thames),-8,Does not apply,0
+E05013946,Tudor (Kingston upon Thames),1,Very good health,4133
+E05013946,Tudor (Kingston upon Thames),2,Good health,2045
+E05013946,Tudor (Kingston upon Thames),3,Fair health,579
+E05013946,Tudor (Kingston upon Thames),4,Bad health,143
+E05013946,Tudor (Kingston upon Thames),5,Very bad health,44
+E05013967,Beam Park,-8,Does not apply,0
+E05013967,Beam Park,1,Very good health,2473
+E05013967,Beam Park,2,Good health,1589
+E05013967,Beam Park,3,Fair health,567
+E05013967,Beam Park,4,Bad health,197
+E05013967,Beam Park,5,Very bad health,57
+E05013968,Cranham,-8,Does not apply,0
+E05013968,Cranham,1,Very good health,6747
+E05013968,Cranham,2,Good health,4292
+E05013968,Cranham,3,Fair health,1445
+E05013968,Cranham,4,Bad health,398
+E05013968,Cranham,5,Very bad health,104
+E05013969,Elm Park,-8,Does not apply,0
+E05013969,Elm Park,1,Very good health,7966
+E05013969,Elm Park,2,Good health,5916
+E05013969,Elm Park,3,Fair health,2037
+E05013969,Elm Park,4,Bad health,576
+E05013969,Elm Park,5,Very bad health,151
+E05013970,Emerson Park,-8,Does not apply,0
+E05013970,Emerson Park,1,Very good health,5042
+E05013970,Emerson Park,2,Good health,3128
+E05013970,Emerson Park,3,Fair health,1024
+E05013970,Emerson Park,4,Bad health,263
+E05013970,Emerson Park,5,Very bad health,78
+E05013971,Gooshays,-8,Does not apply,0
+E05013971,Gooshays,1,Very good health,8567
+E05013971,Gooshays,2,Good health,5907
+E05013971,Gooshays,3,Fair health,2296
+E05013971,Gooshays,4,Bad health,761
+E05013971,Gooshays,5,Very bad health,249
+E05013972,Hacton,-8,Does not apply,0
+E05013972,Hacton,1,Very good health,4280
+E05013972,Hacton,2,Good health,2924
+E05013972,Hacton,3,Fair health,942
+E05013972,Hacton,4,Bad health,268
+E05013972,Hacton,5,Very bad health,75
+E05013973,Harold Wood,-8,Does not apply,0
+E05013973,Harold Wood,1,Very good health,6980
+E05013973,Harold Wood,2,Good health,4741
+E05013973,Harold Wood,3,Fair health,1537
+E05013973,Harold Wood,4,Bad health,411
+E05013973,Harold Wood,5,Very bad health,138
+E05013974,Havering-atte-Bower,-8,Does not apply,0
+E05013974,Havering-atte-Bower,1,Very good health,7761
+E05013974,Havering-atte-Bower,2,Good health,5654
+E05013974,Havering-atte-Bower,3,Fair health,2090
+E05013974,Havering-atte-Bower,4,Bad health,634
+E05013974,Havering-atte-Bower,5,Very bad health,239
+E05013975,Heaton (Havering),-8,Does not apply,0
+E05013975,Heaton (Havering),1,Very good health,8267
+E05013975,Heaton (Havering),2,Good health,5688
+E05013975,Heaton (Havering),3,Fair health,2211
+E05013975,Heaton (Havering),4,Bad health,807
+E05013975,Heaton (Havering),5,Very bad health,238
+E05013976,Hylands & Harrow Lodge,-8,Does not apply,0
+E05013976,Hylands & Harrow Lodge,1,Very good health,6720
+E05013976,Hylands & Harrow Lodge,2,Good health,4823
+E05013976,Hylands & Harrow Lodge,3,Fair health,1611
+E05013976,Hylands & Harrow Lodge,4,Bad health,448
+E05013976,Hylands & Harrow Lodge,5,Very bad health,157
+E05013977,Marshalls & Rise Park,-8,Does not apply,0
+E05013977,Marshalls & Rise Park,1,Very good health,6567
+E05013977,Marshalls & Rise Park,2,Good health,4438
+E05013977,Marshalls & Rise Park,3,Fair health,1418
+E05013977,Marshalls & Rise Park,4,Bad health,420
+E05013977,Marshalls & Rise Park,5,Very bad health,111
+E05013978,Mawneys,-8,Does not apply,0
+E05013978,Mawneys,1,Very good health,6998
+E05013978,Mawneys,2,Good health,5046
+E05013978,Mawneys,3,Fair health,1782
+E05013978,Mawneys,4,Bad health,507
+E05013978,Mawneys,5,Very bad health,145
+E05013979,Rainham & Wennington,-8,Does not apply,0
+E05013979,Rainham & Wennington,1,Very good health,6579
+E05013979,Rainham & Wennington,2,Good health,4753
+E05013979,Rainham & Wennington,3,Fair health,1634
+E05013979,Rainham & Wennington,4,Bad health,462
+E05013979,Rainham & Wennington,5,Very bad health,139
+E05013980,Rush Green & Crowlands,-8,Does not apply,0
+E05013980,Rush Green & Crowlands,1,Very good health,8442
+E05013980,Rush Green & Crowlands,2,Good health,5235
+E05013980,Rush Green & Crowlands,3,Fair health,1663
+E05013980,Rush Green & Crowlands,4,Bad health,549
+E05013980,Rush Green & Crowlands,5,Very bad health,134
+E05013981,St Alban's,-8,Does not apply,0
+E05013981,St Alban's,1,Very good health,4561
+E05013981,St Alban's,2,Good health,2870
+E05013981,St Alban's,3,Fair health,960
+E05013981,St Alban's,4,Bad health,267
+E05013981,St Alban's,5,Very bad health,82
+E05013982,St Andrew's (Havering),-8,Does not apply,0
+E05013982,St Andrew's (Havering),1,Very good health,7226
+E05013982,St Andrew's (Havering),2,Good health,4982
+E05013982,St Andrew's (Havering),3,Fair health,1831
+E05013982,St Andrew's (Havering),4,Bad health,486
+E05013982,St Andrew's (Havering),5,Very bad health,127
+E05013983,St Edward's,-8,Does not apply,0
+E05013983,St Edward's,1,Very good health,5174
+E05013983,St Edward's,2,Good health,3537
+E05013983,St Edward's,3,Fair health,1252
+E05013983,St Edward's,4,Bad health,344
+E05013983,St Edward's,5,Very bad health,116
+E05013984,South Hornchurch,-8,Does not apply,0
+E05013984,South Hornchurch,1,Very good health,5368
+E05013984,South Hornchurch,2,Good health,3804
+E05013984,South Hornchurch,3,Fair health,1252
+E05013984,South Hornchurch,4,Bad health,363
+E05013984,South Hornchurch,5,Very bad health,97
+E05013985,Squirrels Heath,-8,Does not apply,0
+E05013985,Squirrels Heath,1,Very good health,8091
+E05013985,Squirrels Heath,2,Good health,5228
+E05013985,Squirrels Heath,3,Fair health,1642
+E05013985,Squirrels Heath,4,Bad health,417
+E05013985,Squirrels Heath,5,Very bad health,140
+E05013986,Upminster,-8,Does not apply,0
+E05013986,Upminster,1,Very good health,6957
+E05013986,Upminster,2,Good health,4458
+E05013986,Upminster,3,Fair health,1453
+E05013986,Upminster,4,Bad health,364
+E05013986,Upminster,5,Very bad health,116
+E05013987,Beckenham Town & Copers Cope,-8,Does not apply,0
+E05013987,Beckenham Town & Copers Cope,1,Very good health,9001
+E05013987,Beckenham Town & Copers Cope,2,Good health,5245
+E05013987,Beckenham Town & Copers Cope,3,Fair health,1586
+E05013987,Beckenham Town & Copers Cope,4,Bad health,390
+E05013987,Beckenham Town & Copers Cope,5,Very bad health,141
+E05013988,Bickley & Sundridge,-8,Does not apply,0
+E05013988,Bickley & Sundridge,1,Very good health,10001
+E05013988,Bickley & Sundridge,2,Good health,5388
+E05013988,Bickley & Sundridge,3,Fair health,1776
+E05013988,Bickley & Sundridge,4,Bad health,459
+E05013988,Bickley & Sundridge,5,Very bad health,142
+E05013989,Biggin Hill,-8,Does not apply,0
+E05013989,Biggin Hill,1,Very good health,5356
+E05013989,Biggin Hill,2,Good health,3857
+E05013989,Biggin Hill,3,Fair health,1215
+E05013989,Biggin Hill,4,Bad health,301
+E05013989,Biggin Hill,5,Very bad health,88
+E05013990,Bromley Common & Holwood,-8,Does not apply,0
+E05013990,Bromley Common & Holwood,1,Very good health,10118
+E05013990,Bromley Common & Holwood,2,Good health,6000
+E05013990,Bromley Common & Holwood,3,Fair health,1888
+E05013990,Bromley Common & Holwood,4,Bad health,612
+E05013990,Bromley Common & Holwood,5,Very bad health,163
+E05013991,Bromley Town,-8,Does not apply,0
+E05013991,Bromley Town,1,Very good health,8556
+E05013991,Bromley Town,2,Good health,4943
+E05013991,Bromley Town,3,Fair health,1471
+E05013991,Bromley Town,4,Bad health,340
+E05013991,Bromley Town,5,Very bad health,90
+E05013992,Chelsfield,-8,Does not apply,0
+E05013992,Chelsfield,1,Very good health,5945
+E05013992,Chelsfield,2,Good health,3803
+E05013992,Chelsfield,3,Fair health,1116
+E05013992,Chelsfield,4,Bad health,291
+E05013992,Chelsfield,5,Very bad health,79
+E05013993,Chislehurst,-8,Does not apply,0
+E05013993,Chislehurst,1,Very good health,8808
+E05013993,Chislehurst,2,Good health,4681
+E05013993,Chislehurst,3,Fair health,1507
+E05013993,Chislehurst,4,Bad health,448
+E05013993,Chislehurst,5,Very bad health,128
+E05013994,Clock House,-8,Does not apply,0
+E05013994,Clock House,1,Very good health,9562
+E05013994,Clock House,2,Good health,5623
+E05013994,Clock House,3,Fair health,1575
+E05013994,Clock House,4,Bad health,460
+E05013994,Clock House,5,Very bad health,139
+E05013995,Crystal Palace & Anerley,-8,Does not apply,0
+E05013995,Crystal Palace & Anerley,1,Very good health,6378
+E05013995,Crystal Palace & Anerley,2,Good health,3774
+E05013995,Crystal Palace & Anerley,3,Fair health,1264
+E05013995,Crystal Palace & Anerley,4,Bad health,499
+E05013995,Crystal Palace & Anerley,5,Very bad health,114
+E05013996,Darwin,-8,Does not apply,0
+E05013996,Darwin,1,Very good health,3000
+E05013996,Darwin,2,Good health,1859
+E05013996,Darwin,3,Fair health,678
+E05013996,Darwin,4,Bad health,179
+E05013996,Darwin,5,Very bad health,56
+E05013997,Farnborough & Crofton,-8,Does not apply,0
+E05013997,Farnborough & Crofton,1,Very good health,9457
+E05013997,Farnborough & Crofton,2,Good health,5784
+E05013997,Farnborough & Crofton,3,Fair health,1878
+E05013997,Farnborough & Crofton,4,Bad health,470
+E05013997,Farnborough & Crofton,5,Very bad health,115
+E05013998,Hayes & Coney Hall,-8,Does not apply,0
+E05013998,Hayes & Coney Hall,1,Very good health,8816
+E05013998,Hayes & Coney Hall,2,Good health,5078
+E05013998,Hayes & Coney Hall,3,Fair health,1526
+E05013998,Hayes & Coney Hall,4,Bad health,366
+E05013998,Hayes & Coney Hall,5,Very bad health,122
+E05013999,Kelsey & Eden Park,-8,Does not apply,0
+E05013999,Kelsey & Eden Park,1,Very good health,8321
+E05013999,Kelsey & Eden Park,2,Good health,5047
+E05013999,Kelsey & Eden Park,3,Fair health,1559
+E05013999,Kelsey & Eden Park,4,Bad health,409
+E05013999,Kelsey & Eden Park,5,Very bad health,128
+E05014000,Mottingham,-8,Does not apply,0
+E05014000,Mottingham,1,Very good health,5794
+E05014000,Mottingham,2,Good health,3694
+E05014000,Mottingham,3,Fair health,1389
+E05014000,Mottingham,4,Bad health,473
+E05014000,Mottingham,5,Very bad health,138
+E05014001,Orpington,-8,Does not apply,0
+E05014001,Orpington,1,Very good health,6050
+E05014001,Orpington,2,Good health,4075
+E05014001,Orpington,3,Fair health,1330
+E05014001,Orpington,4,Bad health,383
+E05014001,Orpington,5,Very bad health,122
+E05014002,Penge & Cator,-8,Does not apply,0
+E05014002,Penge & Cator,1,Very good health,9991
+E05014002,Penge & Cator,2,Good health,6051
+E05014002,Penge & Cator,3,Fair health,2039
+E05014002,Penge & Cator,4,Bad health,633
+E05014002,Penge & Cator,5,Very bad health,195
+E05014003,Petts Wood & Knoll,-8,Does not apply,0
+E05014003,Petts Wood & Knoll,1,Very good health,9403
+E05014003,Petts Wood & Knoll,2,Good health,5773
+E05014003,Petts Wood & Knoll,3,Fair health,1598
+E05014003,Petts Wood & Knoll,4,Bad health,377
+E05014003,Petts Wood & Knoll,5,Very bad health,108
+E05014004,Plaistow,-8,Does not apply,0
+E05014004,Plaistow,1,Very good health,7092
+E05014004,Plaistow,2,Good health,4434
+E05014004,Plaistow,3,Fair health,1432
+E05014004,Plaistow,4,Bad health,396
+E05014004,Plaistow,5,Very bad health,125
+E05014005,Shortlands & Park Langley,-8,Does not apply,0
+E05014005,Shortlands & Park Langley,1,Very good health,9272
+E05014005,Shortlands & Park Langley,2,Good health,5105
+E05014005,Shortlands & Park Langley,3,Fair health,1431
+E05014005,Shortlands & Park Langley,4,Bad health,307
+E05014005,Shortlands & Park Langley,5,Very bad health,96
+E05014006,St Mary Cray,-8,Does not apply,0
+E05014006,St Mary Cray,1,Very good health,8963
+E05014006,St Mary Cray,2,Good health,6246
+E05014006,St Mary Cray,3,Fair health,2280
+E05014006,St Mary Cray,4,Bad health,726
+E05014006,St Mary Cray,5,Very bad health,221
+E05014007,St Paul's Cray,-8,Does not apply,0
+E05014007,St Paul's Cray,1,Very good health,8323
+E05014007,St Paul's Cray,2,Good health,5690
+E05014007,St Paul's Cray,3,Fair health,2256
+E05014007,St Paul's Cray,4,Bad health,809
+E05014007,St Paul's Cray,5,Very bad health,235
+E05014008,West Wickham,-8,Does not apply,0
+E05014008,West Wickham,1,Very good health,8005
+E05014008,West Wickham,2,Good health,4828
+E05014008,West Wickham,3,Fair health,1474
+E05014008,West Wickham,4,Bad health,365
+E05014008,West Wickham,5,Very bad health,96
+E05014009,Balham,-8,Does not apply,0
+E05014009,Balham,1,Very good health,11433
+E05014009,Balham,2,Good health,4620
+E05014009,Balham,3,Fair health,1199
+E05014009,Balham,4,Bad health,348
+E05014009,Balham,5,Very bad health,107
+E05014010,Battersea Park,-8,Does not apply,0
+E05014010,Battersea Park,1,Very good health,11384
+E05014010,Battersea Park,2,Good health,5317
+E05014010,Battersea Park,3,Fair health,1756
+E05014010,Battersea Park,4,Bad health,532
+E05014010,Battersea Park,5,Very bad health,185
+E05014011,East Putney,-8,Does not apply,0
+E05014011,East Putney,1,Very good health,10494
+E05014011,East Putney,2,Good health,4743
+E05014011,East Putney,3,Fair health,1242
+E05014011,East Putney,4,Bad health,342
+E05014011,East Putney,5,Very bad health,97
+E05014012,Falconbrook,-8,Does not apply,0
+E05014012,Falconbrook,1,Very good health,6728
+E05014012,Falconbrook,2,Good health,3491
+E05014012,Falconbrook,3,Fair health,1266
+E05014012,Falconbrook,4,Bad health,405
+E05014012,Falconbrook,5,Very bad health,88
+E05014013,Furzedown,-8,Does not apply,0
+E05014013,Furzedown,1,Very good health,9921
+E05014013,Furzedown,2,Good health,5606
+E05014013,Furzedown,3,Fair health,1846
+E05014013,Furzedown,4,Bad health,517
+E05014013,Furzedown,5,Very bad health,163
+E05014014,Lavender,-8,Does not apply,0
+E05014014,Lavender,1,Very good health,9160
+E05014014,Lavender,2,Good health,3291
+E05014014,Lavender,3,Fair health,753
+E05014014,Lavender,4,Bad health,184
+E05014014,Lavender,5,Very bad health,64
+E05014015,Nine Elms,-8,Does not apply,0
+E05014015,Nine Elms,1,Very good health,3596
+E05014015,Nine Elms,2,Good health,1416
+E05014015,Nine Elms,3,Fair health,280
+E05014015,Nine Elms,4,Bad health,72
+E05014015,Nine Elms,5,Very bad health,32
+E05014016,Northcote,-8,Does not apply,0
+E05014016,Northcote,1,Very good health,9197
+E05014016,Northcote,2,Good health,2848
+E05014016,Northcote,3,Fair health,592
+E05014016,Northcote,4,Bad health,164
+E05014016,Northcote,5,Very bad health,60
+E05014017,Roehampton,-8,Does not apply,0
+E05014017,Roehampton,1,Very good health,9807
+E05014017,Roehampton,2,Good health,6081
+E05014017,Roehampton,3,Fair health,2082
+E05014017,Roehampton,4,Bad health,672
+E05014017,Roehampton,5,Very bad health,204
+E05014018,St Mary's (Wandsworth),-8,Does not apply,0
+E05014018,St Mary's (Wandsworth),1,Very good health,8887
+E05014018,St Mary's (Wandsworth),2,Good health,4014
+E05014018,St Mary's (Wandsworth),3,Fair health,920
+E05014018,St Mary's (Wandsworth),4,Bad health,285
+E05014018,St Mary's (Wandsworth),5,Very bad health,77
+E05014019,Shaftesbury & Queenstown,-8,Does not apply,0
+E05014019,Shaftesbury & Queenstown,1,Very good health,8679
+E05014019,Shaftesbury & Queenstown,2,Good health,4298
+E05014019,Shaftesbury & Queenstown,3,Fair health,1458
+E05014019,Shaftesbury & Queenstown,4,Bad health,569
+E05014019,Shaftesbury & Queenstown,5,Very bad health,175
+E05014020,South Balham,-8,Does not apply,0
+E05014020,South Balham,1,Very good health,6079
+E05014020,South Balham,2,Good health,2634
+E05014020,South Balham,3,Fair health,801
+E05014020,South Balham,4,Bad health,260
+E05014020,South Balham,5,Very bad health,54
+E05014021,Southfields,-8,Does not apply,0
+E05014021,Southfields,1,Very good health,8344
+E05014021,Southfields,2,Good health,3230
+E05014021,Southfields,3,Fair health,828
+E05014021,Southfields,4,Bad health,205
+E05014021,Southfields,5,Very bad health,52
+E05014022,Thamesfield,-8,Does not apply,0
+E05014022,Thamesfield,1,Very good health,11017
+E05014022,Thamesfield,2,Good health,4421
+E05014022,Thamesfield,3,Fair health,949
+E05014022,Thamesfield,4,Bad health,248
+E05014022,Thamesfield,5,Very bad health,82
+E05014023,Tooting Bec,-8,Does not apply,0
+E05014023,Tooting Bec,1,Very good health,9599
+E05014023,Tooting Bec,2,Good health,5238
+E05014023,Tooting Bec,3,Fair health,1610
+E05014023,Tooting Bec,4,Bad health,436
+E05014023,Tooting Bec,5,Very bad health,145
+E05014024,Tooting Broadway,-8,Does not apply,0
+E05014024,Tooting Broadway,1,Very good health,9718
+E05014024,Tooting Broadway,2,Good health,5279
+E05014024,Tooting Broadway,3,Fair health,1612
+E05014024,Tooting Broadway,4,Bad health,478
+E05014024,Tooting Broadway,5,Very bad health,131
+E05014025,Trinity (Wandsworth),-8,Does not apply,0
+E05014025,Trinity (Wandsworth),1,Very good health,7032
+E05014025,Trinity (Wandsworth),2,Good health,2994
+E05014025,Trinity (Wandsworth),3,Fair health,868
+E05014025,Trinity (Wandsworth),4,Bad health,229
+E05014025,Trinity (Wandsworth),5,Very bad health,59
+E05014026,Wandle (Wandsworth),-8,Does not apply,0
+E05014026,Wandle (Wandsworth),1,Very good health,6683
+E05014026,Wandle (Wandsworth),2,Good health,2848
+E05014026,Wandle (Wandsworth),3,Fair health,781
+E05014026,Wandle (Wandsworth),4,Bad health,210
+E05014026,Wandle (Wandsworth),5,Very bad health,65
+E05014027,Wandsworth Common,-8,Does not apply,0
+E05014027,Wandsworth Common,1,Very good health,10264
+E05014027,Wandsworth Common,2,Good health,4558
+E05014027,Wandsworth Common,3,Fair health,1258
+E05014027,Wandsworth Common,4,Bad health,401
+E05014027,Wandsworth Common,5,Very bad health,112
+E05014028,Wandsworth Town,-8,Does not apply,0
+E05014028,Wandsworth Town,1,Very good health,11341
+E05014028,Wandsworth Town,2,Good health,5076
+E05014028,Wandsworth Town,3,Fair health,1283
+E05014028,Wandsworth Town,4,Bad health,387
+E05014028,Wandsworth Town,5,Very bad health,125
+E05014029,West Hill (Wandsworth),-8,Does not apply,0
+E05014029,West Hill (Wandsworth),1,Very good health,9432
+E05014029,West Hill (Wandsworth),2,Good health,4999
+E05014029,West Hill (Wandsworth),3,Fair health,1772
+E05014029,West Hill (Wandsworth),4,Bad health,472
+E05014029,West Hill (Wandsworth),5,Very bad health,140
+E05014030,West Putney,-8,Does not apply,0
+E05014030,West Putney,1,Very good health,9778
+E05014030,West Putney,2,Good health,4917
+E05014030,West Putney,3,Fair health,1589
+E05014030,West Putney,4,Bad health,450
+E05014030,West Putney,5,Very bad health,178
+E05014053,Abbey (Barking and Dagenham),-8,Does not apply,0
+E05014053,Abbey (Barking and Dagenham),1,Very good health,2073
+E05014053,Abbey (Barking and Dagenham),2,Good health,1379
+E05014053,Abbey (Barking and Dagenham),3,Fair health,361
+E05014053,Abbey (Barking and Dagenham),4,Bad health,98
+E05014053,Abbey (Barking and Dagenham),5,Very bad health,42
+E05014054,Alibon,-8,Does not apply,0
+E05014054,Alibon,1,Very good health,4960
+E05014054,Alibon,2,Good health,3440
+E05014054,Alibon,3,Fair health,1114
+E05014054,Alibon,4,Bad health,420
+E05014054,Alibon,5,Very bad health,96
+E05014055,Barking Riverside,-8,Does not apply,0
+E05014055,Barking Riverside,1,Very good health,5750
+E05014055,Barking Riverside,2,Good health,3011
+E05014055,Barking Riverside,3,Fair health,858
+E05014055,Barking Riverside,4,Bad health,249
+E05014055,Barking Riverside,5,Very bad health,87
+E05014056,Beam,-8,Does not apply,0
+E05014056,Beam,1,Very good health,4584
+E05014056,Beam,2,Good health,2721
+E05014056,Beam,3,Fair health,943
+E05014056,Beam,4,Bad health,284
+E05014056,Beam,5,Very bad health,79
+E05014057,Becontree,-8,Does not apply,0
+E05014057,Becontree,1,Very good health,4913
+E05014057,Becontree,2,Good health,3149
+E05014057,Becontree,3,Fair health,1170
+E05014057,Becontree,4,Bad health,449
+E05014057,Becontree,5,Very bad health,119
+E05014058,Chadwell Heath,-8,Does not apply,0
+E05014058,Chadwell Heath,1,Very good health,7000
+E05014058,Chadwell Heath,2,Good health,4644
+E05014058,Chadwell Heath,3,Fair health,1680
+E05014058,Chadwell Heath,4,Bad health,564
+E05014058,Chadwell Heath,5,Very bad health,198
+E05014059,Eastbrook & Rush Green,-8,Does not apply,0
+E05014059,Eastbrook & Rush Green,1,Very good health,4217
+E05014059,Eastbrook & Rush Green,2,Good health,2898
+E05014059,Eastbrook & Rush Green,3,Fair health,1085
+E05014059,Eastbrook & Rush Green,4,Bad health,369
+E05014059,Eastbrook & Rush Green,5,Very bad health,77
+E05014060,Eastbury,-8,Does not apply,0
+E05014060,Eastbury,1,Very good health,7761
+E05014060,Eastbury,2,Good health,5305
+E05014060,Eastbury,3,Fair health,1711
+E05014060,Eastbury,4,Bad health,609
+E05014060,Eastbury,5,Very bad health,213
+E05014061,Gascoigne,-8,Does not apply,0
+E05014061,Gascoigne,1,Very good health,6058
+E05014061,Gascoigne,2,Good health,3406
+E05014061,Gascoigne,3,Fair health,961
+E05014061,Gascoigne,4,Bad health,322
+E05014061,Gascoigne,5,Very bad health,84
+E05014062,Goresbrook,-8,Does not apply,0
+E05014062,Goresbrook,1,Very good health,6335
+E05014062,Goresbrook,2,Good health,4376
+E05014062,Goresbrook,3,Fair health,1642
+E05014062,Goresbrook,4,Bad health,552
+E05014062,Goresbrook,5,Very bad health,164
+E05014063,Heath (Barking and Dagenham),-8,Does not apply,0
+E05014063,Heath (Barking and Dagenham),1,Very good health,4556
+E05014063,Heath (Barking and Dagenham),2,Good health,2914
+E05014063,Heath (Barking and Dagenham),3,Fair health,1015
+E05014063,Heath (Barking and Dagenham),4,Bad health,371
+E05014063,Heath (Barking and Dagenham),5,Very bad health,138
+E05014064,Longbridge,-8,Does not apply,0
+E05014064,Longbridge,1,Very good health,6809
+E05014064,Longbridge,2,Good health,4457
+E05014064,Longbridge,3,Fair health,1524
+E05014064,Longbridge,4,Bad health,399
+E05014064,Longbridge,5,Very bad health,117
+E05014065,Mayesbrook,-8,Does not apply,0
+E05014065,Mayesbrook,1,Very good health,8373
+E05014065,Mayesbrook,2,Good health,5123
+E05014065,Mayesbrook,3,Fair health,1639
+E05014065,Mayesbrook,4,Bad health,601
+E05014065,Mayesbrook,5,Very bad health,186
+E05014066,Northbury,-8,Does not apply,0
+E05014066,Northbury,1,Very good health,6774
+E05014066,Northbury,2,Good health,4458
+E05014066,Northbury,3,Fair health,1328
+E05014066,Northbury,4,Bad health,408
+E05014066,Northbury,5,Very bad health,112
+E05014067,Parsloes,-8,Does not apply,0
+E05014067,Parsloes,1,Very good health,7384
+E05014067,Parsloes,2,Good health,5062
+E05014067,Parsloes,3,Fair health,1871
+E05014067,Parsloes,4,Bad health,713
+E05014067,Parsloes,5,Very bad health,221
+E05014068,Thames View,-8,Does not apply,0
+E05014068,Thames View,1,Very good health,3040
+E05014068,Thames View,2,Good health,1985
+E05014068,Thames View,3,Fair health,658
+E05014068,Thames View,4,Bad health,237
+E05014068,Thames View,5,Very bad health,85
+E05014069,Valence,-8,Does not apply,0
+E05014069,Valence,1,Very good health,7597
+E05014069,Valence,2,Good health,5065
+E05014069,Valence,3,Fair health,1923
+E05014069,Valence,4,Bad health,665
+E05014069,Valence,5,Very bad health,232
+E05014070,Village (Barking and Dagenham),-8,Does not apply,0
+E05014070,Village (Barking and Dagenham),1,Very good health,6325
+E05014070,Village (Barking and Dagenham),2,Good health,4126
+E05014070,Village (Barking and Dagenham),3,Fair health,1473
+E05014070,Village (Barking and Dagenham),4,Bad health,484
+E05014070,Village (Barking and Dagenham),5,Very bad health,132
+E05014071,Whalebone,-8,Does not apply,0
+E05014071,Whalebone,1,Very good health,7421
+E05014071,Whalebone,2,Good health,4456
+E05014071,Whalebone,3,Fair health,1340
+E05014071,Whalebone,4,Bad health,375
+E05014071,Whalebone,5,Very bad health,114
+E05014072,Abbey Wood,-8,Does not apply,0
+E05014072,Abbey Wood,1,Very good health,9292
+E05014072,Abbey Wood,2,Good health,5571
+E05014072,Abbey Wood,3,Fair health,1953
+E05014072,Abbey Wood,4,Bad health,679
+E05014072,Abbey Wood,5,Very bad health,193
+E05014073,Blackheath Westcombe,-8,Does not apply,0
+E05014073,Blackheath Westcombe,1,Very good health,8322
+E05014073,Blackheath Westcombe,2,Good health,4581
+E05014073,Blackheath Westcombe,3,Fair health,1487
+E05014073,Blackheath Westcombe,4,Bad health,498
+E05014073,Blackheath Westcombe,5,Very bad health,146
+E05014074,Charlton Hornfair,-8,Does not apply,0
+E05014074,Charlton Hornfair,1,Very good health,6486
+E05014074,Charlton Hornfair,2,Good health,3943
+E05014074,Charlton Hornfair,3,Fair health,1297
+E05014074,Charlton Hornfair,4,Bad health,427
+E05014074,Charlton Hornfair,5,Very bad health,156
+E05014075,Charlton Village & Riverside,-8,Does not apply,0
+E05014075,Charlton Village & Riverside,1,Very good health,5357
+E05014075,Charlton Village & Riverside,2,Good health,3277
+E05014075,Charlton Village & Riverside,3,Fair health,1316
+E05014075,Charlton Village & Riverside,4,Bad health,451
+E05014075,Charlton Village & Riverside,5,Very bad health,115
+E05014076,East Greenwich,-8,Does not apply,0
+E05014076,East Greenwich,1,Very good health,8292
+E05014076,East Greenwich,2,Good health,4338
+E05014076,East Greenwich,3,Fair health,1303
+E05014076,East Greenwich,4,Bad health,406
+E05014076,East Greenwich,5,Very bad health,142
+E05014077,Eltham Page,-8,Does not apply,0
+E05014077,Eltham Page,1,Very good health,4609
+E05014077,Eltham Page,2,Good health,3277
+E05014077,Eltham Page,3,Fair health,1244
+E05014077,Eltham Page,4,Bad health,470
+E05014077,Eltham Page,5,Very bad health,152
+E05014078,Eltham Park & Progress,-8,Does not apply,0
+E05014078,Eltham Park & Progress,1,Very good health,5549
+E05014078,Eltham Park & Progress,2,Good health,3616
+E05014078,Eltham Park & Progress,3,Fair health,1188
+E05014078,Eltham Park & Progress,4,Bad health,312
+E05014078,Eltham Park & Progress,5,Very bad health,101
+E05014079,Eltham Town & Avery Hill,-8,Does not apply,0
+E05014079,Eltham Town & Avery Hill,1,Very good health,7900
+E05014079,Eltham Town & Avery Hill,2,Good health,5072
+E05014079,Eltham Town & Avery Hill,3,Fair health,1810
+E05014079,Eltham Town & Avery Hill,4,Bad health,597
+E05014079,Eltham Town & Avery Hill,5,Very bad health,156
+E05014080,Greenwich Creekside,-8,Does not apply,0
+E05014080,Greenwich Creekside,1,Very good health,6438
+E05014080,Greenwich Creekside,2,Good health,3363
+E05014080,Greenwich Creekside,3,Fair health,883
+E05014080,Greenwich Creekside,4,Bad health,223
+E05014080,Greenwich Creekside,5,Very bad health,92
+E05014081,Greenwich Park,-8,Does not apply,0
+E05014081,Greenwich Park,1,Very good health,6076
+E05014081,Greenwich Park,2,Good health,3179
+E05014081,Greenwich Park,3,Fair health,923
+E05014081,Greenwich Park,4,Bad health,296
+E05014081,Greenwich Park,5,Very bad health,81
+E05014082,Greenwich Peninsula,-8,Does not apply,0
+E05014082,Greenwich Peninsula,1,Very good health,6843
+E05014082,Greenwich Peninsula,2,Good health,3508
+E05014082,Greenwich Peninsula,3,Fair health,758
+E05014082,Greenwich Peninsula,4,Bad health,233
+E05014082,Greenwich Peninsula,5,Very bad health,76
+E05014083,Kidbrooke Park,-8,Does not apply,0
+E05014083,Kidbrooke Park,1,Very good health,5115
+E05014083,Kidbrooke Park,2,Good health,3359
+E05014083,Kidbrooke Park,3,Fair health,1086
+E05014083,Kidbrooke Park,4,Bad health,404
+E05014083,Kidbrooke Park,5,Very bad health,125
+E05014084,Kidbrooke Village & Sutcliffe,-8,Does not apply,0
+E05014084,Kidbrooke Village & Sutcliffe,1,Very good health,3379
+E05014084,Kidbrooke Village & Sutcliffe,2,Good health,1895
+E05014084,Kidbrooke Village & Sutcliffe,3,Fair health,587
+E05014084,Kidbrooke Village & Sutcliffe,4,Bad health,200
+E05014084,Kidbrooke Village & Sutcliffe,5,Very bad health,43
+E05014085,Middle Park & Horn Park,-8,Does not apply,0
+E05014085,Middle Park & Horn Park,1,Very good health,4673
+E05014085,Middle Park & Horn Park,2,Good health,3009
+E05014085,Middle Park & Horn Park,3,Fair health,1223
+E05014085,Middle Park & Horn Park,4,Bad health,455
+E05014085,Middle Park & Horn Park,5,Very bad health,157
+E05014086,"Mottingham, Coldharbour & New Eltham",-8,Does not apply,0
+E05014086,"Mottingham, Coldharbour & New Eltham",1,Very good health,7178
+E05014086,"Mottingham, Coldharbour & New Eltham",2,Good health,4798
+E05014086,"Mottingham, Coldharbour & New Eltham",3,Fair health,1778
+E05014086,"Mottingham, Coldharbour & New Eltham",4,Bad health,586
+E05014086,"Mottingham, Coldharbour & New Eltham",5,Very bad health,192
+E05014087,Plumstead & Glyndon,-8,Does not apply,0
+E05014087,Plumstead & Glyndon,1,Very good health,10822
+E05014087,Plumstead & Glyndon,2,Good health,7316
+E05014087,Plumstead & Glyndon,3,Fair health,2709
+E05014087,Plumstead & Glyndon,4,Bad health,843
+E05014087,Plumstead & Glyndon,5,Very bad health,282
+E05014088,Plumstead Common,-8,Does not apply,0
+E05014088,Plumstead Common,1,Very good health,7405
+E05014088,Plumstead Common,2,Good health,5113
+E05014088,Plumstead Common,3,Fair health,1872
+E05014088,Plumstead Common,4,Bad health,582
+E05014088,Plumstead Common,5,Very bad health,196
+E05014089,Shooters Hill,-8,Does not apply,0
+E05014089,Shooters Hill,1,Very good health,6339
+E05014089,Shooters Hill,2,Good health,3769
+E05014089,Shooters Hill,3,Fair health,1301
+E05014089,Shooters Hill,4,Bad health,370
+E05014089,Shooters Hill,5,Very bad health,112
+E05014090,Thamesmead Moorings,-8,Does not apply,0
+E05014090,Thamesmead Moorings,1,Very good health,6853
+E05014090,Thamesmead Moorings,2,Good health,3682
+E05014090,Thamesmead Moorings,3,Fair health,1325
+E05014090,Thamesmead Moorings,4,Bad health,454
+E05014090,Thamesmead Moorings,5,Very bad health,138
+E05014091,West Thamesmead,-8,Does not apply,0
+E05014091,West Thamesmead,1,Very good health,6373
+E05014091,West Thamesmead,2,Good health,3810
+E05014091,West Thamesmead,3,Fair health,1153
+E05014091,West Thamesmead,4,Bad health,367
+E05014091,West Thamesmead,5,Very bad health,112
+E05014092,Woolwich Arsenal,-8,Does not apply,0
+E05014092,Woolwich Arsenal,1,Very good health,6767
+E05014092,Woolwich Arsenal,2,Good health,3941
+E05014092,Woolwich Arsenal,3,Fair health,1010
+E05014092,Woolwich Arsenal,4,Bad health,293
+E05014092,Woolwich Arsenal,5,Very bad health,88
+E05014093,Woolwich Common,-8,Does not apply,0
+E05014093,Woolwich Common,1,Very good health,6492
+E05014093,Woolwich Common,2,Good health,4179
+E05014093,Woolwich Common,3,Fair health,1416
+E05014093,Woolwich Common,4,Bad health,456
+E05014093,Woolwich Common,5,Very bad health,145
+E05014094,Woolwich Dockyard,-8,Does not apply,0
+E05014094,Woolwich Dockyard,1,Very good health,5854
+E05014094,Woolwich Dockyard,2,Good health,3824
+E05014094,Woolwich Dockyard,3,Fair health,1326
+E05014094,Woolwich Dockyard,4,Bad health,533
+E05014094,Woolwich Dockyard,5,Very bad health,151
+E05014095,Brixton Acre Lane,-8,Does not apply,0
+E05014095,Brixton Acre Lane,1,Very good health,8769
+E05014095,Brixton Acre Lane,2,Good health,4395
+E05014095,Brixton Acre Lane,3,Fair health,1483
+E05014095,Brixton Acre Lane,4,Bad health,443
+E05014095,Brixton Acre Lane,5,Very bad health,162
+E05014096,Brixton North,-8,Does not apply,0
+E05014096,Brixton North,1,Very good health,8641
+E05014096,Brixton North,2,Good health,5161
+E05014096,Brixton North,3,Fair health,1747
+E05014096,Brixton North,4,Bad health,604
+E05014096,Brixton North,5,Very bad health,168
+E05014097,Brixton Rush Common,-8,Does not apply,0
+E05014097,Brixton Rush Common,1,Very good health,8475
+E05014097,Brixton Rush Common,2,Good health,4464
+E05014097,Brixton Rush Common,3,Fair health,1441
+E05014097,Brixton Rush Common,4,Bad health,405
+E05014097,Brixton Rush Common,5,Very bad health,144
+E05014098,Brixton Windrush,-8,Does not apply,0
+E05014098,Brixton Windrush,1,Very good health,5280
+E05014098,Brixton Windrush,2,Good health,2820
+E05014098,Brixton Windrush,3,Fair health,945
+E05014098,Brixton Windrush,4,Bad health,316
+E05014098,Brixton Windrush,5,Very bad health,121
+E05014099,Clapham Common & Abbeville,-8,Does not apply,0
+E05014099,Clapham Common & Abbeville,1,Very good health,6536
+E05014099,Clapham Common & Abbeville,2,Good health,2569
+E05014099,Clapham Common & Abbeville,3,Fair health,652
+E05014099,Clapham Common & Abbeville,4,Bad health,202
+E05014099,Clapham Common & Abbeville,5,Very bad health,55
+E05014100,Clapham East,-8,Does not apply,0
+E05014100,Clapham East,1,Very good health,5631
+E05014100,Clapham East,2,Good health,2897
+E05014100,Clapham East,3,Fair health,930
+E05014100,Clapham East,4,Bad health,287
+E05014100,Clapham East,5,Very bad health,100
+E05014101,Clapham Park,-8,Does not apply,0
+E05014101,Clapham Park,1,Very good health,7271
+E05014101,Clapham Park,2,Good health,3824
+E05014101,Clapham Park,3,Fair health,1147
+E05014101,Clapham Park,4,Bad health,375
+E05014101,Clapham Park,5,Very bad health,94
+E05014102,Clapham Town,-8,Does not apply,0
+E05014102,Clapham Town,1,Very good health,9674
+E05014102,Clapham Town,2,Good health,4402
+E05014102,Clapham Town,3,Fair health,1288
+E05014102,Clapham Town,4,Bad health,411
+E05014102,Clapham Town,5,Very bad health,129
+E05014103,Gipsy Hill,-8,Does not apply,0
+E05014103,Gipsy Hill,1,Very good health,5547
+E05014103,Gipsy Hill,2,Good health,3075
+E05014103,Gipsy Hill,3,Fair health,1086
+E05014103,Gipsy Hill,4,Bad health,407
+E05014103,Gipsy Hill,5,Very bad health,145
+E05014104,Herne Hill & Loughborough Junction,-8,Does not apply,0
+E05014104,Herne Hill & Loughborough Junction,1,Very good health,9396
+E05014104,Herne Hill & Loughborough Junction,2,Good health,4742
+E05014104,Herne Hill & Loughborough Junction,3,Fair health,1387
+E05014104,Herne Hill & Loughborough Junction,4,Bad health,472
+E05014104,Herne Hill & Loughborough Junction,5,Very bad health,160
+E05014105,Kennington (Lambeth),-8,Does not apply,0
+E05014105,Kennington (Lambeth),1,Very good health,7870
+E05014105,Kennington (Lambeth),2,Good health,4482
+E05014105,Kennington (Lambeth),3,Fair health,1537
+E05014105,Kennington (Lambeth),4,Bad health,521
+E05014105,Kennington (Lambeth),5,Very bad health,193
+E05014106,Knight's Hill,-8,Does not apply,0
+E05014106,Knight's Hill,1,Very good health,8915
+E05014106,Knight's Hill,2,Good health,5318
+E05014106,Knight's Hill,3,Fair health,1804
+E05014106,Knight's Hill,4,Bad health,615
+E05014106,Knight's Hill,5,Very bad health,251
+E05014107,Myatt's Fields,-8,Does not apply,0
+E05014107,Myatt's Fields,1,Very good health,5749
+E05014107,Myatt's Fields,2,Good health,3379
+E05014107,Myatt's Fields,3,Fair health,1276
+E05014107,Myatt's Fields,4,Bad health,404
+E05014107,Myatt's Fields,5,Very bad health,124
+E05014108,Oval,-8,Does not apply,0
+E05014108,Oval,1,Very good health,6835
+E05014108,Oval,2,Good health,3888
+E05014108,Oval,3,Fair health,1186
+E05014108,Oval,4,Bad health,412
+E05014108,Oval,5,Very bad health,120
+E05014109,St Martin's (Lambeth),-8,Does not apply,0
+E05014109,St Martin's (Lambeth),1,Very good health,5907
+E05014109,St Martin's (Lambeth),2,Good health,3417
+E05014109,St Martin's (Lambeth),3,Fair health,1079
+E05014109,St Martin's (Lambeth),4,Bad health,334
+E05014109,St Martin's (Lambeth),5,Very bad health,107
+E05014110,Stockwell East,-8,Does not apply,0
+E05014110,Stockwell East,1,Very good health,6033
+E05014110,Stockwell East,2,Good health,3344
+E05014110,Stockwell East,3,Fair health,988
+E05014110,Stockwell East,4,Bad health,293
+E05014110,Stockwell East,5,Very bad health,88
+E05014111,Stockwell West & Larkhall,-8,Does not apply,0
+E05014111,Stockwell West & Larkhall,1,Very good health,9038
+E05014111,Stockwell West & Larkhall,2,Good health,5045
+E05014111,Stockwell West & Larkhall,3,Fair health,1631
+E05014111,Stockwell West & Larkhall,4,Bad health,475
+E05014111,Stockwell West & Larkhall,5,Very bad health,144
+E05014112,Streatham Common & Vale,-8,Does not apply,0
+E05014112,Streatham Common & Vale,1,Very good health,9377
+E05014112,Streatham Common & Vale,2,Good health,5818
+E05014112,Streatham Common & Vale,3,Fair health,1824
+E05014112,Streatham Common & Vale,4,Bad health,505
+E05014112,Streatham Common & Vale,5,Very bad health,136
+E05014113,Streatham Hill East,-8,Does not apply,0
+E05014113,Streatham Hill East,1,Very good health,5426
+E05014113,Streatham Hill East,2,Good health,3055
+E05014113,Streatham Hill East,3,Fair health,979
+E05014113,Streatham Hill East,4,Bad health,321
+E05014113,Streatham Hill East,5,Very bad health,98
+E05014114,Streatham Hill West & Thornton,-8,Does not apply,0
+E05014114,Streatham Hill West & Thornton,1,Very good health,6781
+E05014114,Streatham Hill West & Thornton,2,Good health,3052
+E05014114,Streatham Hill West & Thornton,3,Fair health,766
+E05014114,Streatham Hill West & Thornton,4,Bad health,222
+E05014114,Streatham Hill West & Thornton,5,Very bad health,66
+E05014115,Streatham St Leonard's,-8,Does not apply,0
+E05014115,Streatham St Leonard's,1,Very good health,8957
+E05014115,Streatham St Leonard's,2,Good health,5008
+E05014115,Streatham St Leonard's,3,Fair health,1369
+E05014115,Streatham St Leonard's,4,Bad health,367
+E05014115,Streatham St Leonard's,5,Very bad health,114
+E05014116,Streatham Wells,-8,Does not apply,0
+E05014116,Streatham Wells,1,Very good health,5421
+E05014116,Streatham Wells,2,Good health,3019
+E05014116,Streatham Wells,3,Fair health,916
+E05014116,Streatham Wells,4,Bad health,304
+E05014116,Streatham Wells,5,Very bad health,97
+E05014117,Vauxhall (Lambeth),-8,Does not apply,0
+E05014117,Vauxhall (Lambeth),1,Very good health,5582
+E05014117,Vauxhall (Lambeth),2,Good health,2919
+E05014117,Vauxhall (Lambeth),3,Fair health,873
+E05014117,Vauxhall (Lambeth),4,Bad health,271
+E05014117,Vauxhall (Lambeth),5,Very bad health,88
+E05014118,Waterloo & South Bank,-8,Does not apply,0
+E05014118,Waterloo & South Bank,1,Very good health,4937
+E05014118,Waterloo & South Bank,2,Good health,2748
+E05014118,Waterloo & South Bank,3,Fair health,793
+E05014118,Waterloo & South Bank,4,Bad health,295
+E05014118,Waterloo & South Bank,5,Very bad health,86
+E05014119,West Dulwich,-8,Does not apply,0
+E05014119,West Dulwich,1,Very good health,6490
+E05014119,West Dulwich,2,Good health,3369
+E05014119,West Dulwich,3,Fair health,1107
+E05014119,West Dulwich,4,Bad health,323
+E05014119,West Dulwich,5,Very bad health,95
+E09000001,City of London,-8,Does not apply,0
+E09000001,City of London,1,Very good health,4937
+E09000001,City of London,2,Good health,2726
+E09000001,City of London,3,Fair health,687
+E09000001,City of London,4,Bad health,186
+E09000001,City of London,5,Very bad health,47
